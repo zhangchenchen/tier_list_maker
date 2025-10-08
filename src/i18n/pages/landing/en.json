@@ -1,0 +1,347 @@
+{
+  "template": "shipany-template-one",
+  "theme": "light",
+  "header": {
+    "brand": {
+      "title": "Tier List Maker",
+      "logo": {
+        "src": "/logo.svg",
+        "alt": "Tier List Maker"
+      },
+      "url": "/"
+    },
+    "nav": {
+      "items": [
+        {
+          "title": "Features",
+          "url": "/#feature",
+          "icon": "RiSparkling2Line"
+        },
+        {
+          "title": "Templates",
+          "url": "/showcase",
+          "icon": "RiApps2Line"
+        }
+      ]
+    },
+    "show_sign": false,
+    "show_theme": true,
+    "show_locale": true
+  },
+  "hero": {
+    "title": "Create Your Free Tier List in Seconds with Tier List Maker",
+    "highlight_text": "Tier List Maker",
+    "description": "Tier List Maker is #1 free online tool for creating and sharing tier lists.",
+    "announcement": {
+      "label": "2025",
+      "title": "🎉 Free Tier List Maker"
+    },
+    "tip": "🎁 100% Free Forever",
+    "show_happy_users": false,
+    "show_badge": false
+  },
+  "introduce": {
+    "name": "introduce",
+    "title": "What is Tier List Maker",
+    "label": "Introduce",
+    "description": "Tier List Maker is #1 free online tool that helps you create, customize, and share tier lists for anything you want to rank. Our Tier List Maker is perfect for gamers, movie fans, and anyone who loves organizing items into tiers.",
+    "image": {
+      "src": "/imgs/features/genshin-tier-maker.webp"
+    },
+    "items": [
+      {
+        "title": "Free Tier List Creation",
+        "description": "Create unlimited tier lists absolutely free with our Tier List Maker. No sign-up required to start ranking your favorite items.",
+        "icon": "RiNextjsFill"
+      },
+      {
+        "title": "Drag and Drop Interface",
+        "description": "Our Tier List Maker features an intuitive drag-and-drop interface that makes creating tier lists effortless and fun.",
+        "icon": "RiDatabase2Line"
+      },
+      {
+        "title": "Share Your Rankings",
+        "description": "Export and share your tier lists with friends and communities. Tier List Maker makes it easy to showcase your rankings.",
+        "icon": "RiCloudyFill"
+      }
+    ]
+  },
+  "benefit": {
+    "name": "benefit",
+    "title": "Why Choose Our Tier List Maker",
+    "label": "Benefits",
+    "description": "Discover why thousands of users trust our Tier List Maker for creating and sharing their rankings.",
+    "items": [
+      {
+        "title": "Completely Free Tier List Maker",
+        "description": "Use our Tier List Maker without any costs. Create unlimited tier lists, customize tiers, and download your rankings - all completely free.",
+        "icon": "RiNextjsFill",
+        "image": {
+          "src": "/imgs/features/marvel_tier_list.webp"
+        }
+      },
+      {
+        "title": "Customizable Tier List Templates",
+        "description": "Our Tier List Maker offers fully customizable templates. Change colors, add custom tiers, and personalize your tier list to match your style.",
+        "icon": "RiClapperboardAiLine",
+        "image": {
+          "src": "/imgs/features/nba_tier_list.webp"
+        }
+      },
+      {
+        "title": "Easy to Use Tier List Maker",
+        "description": "No learning curve needed. Our Tier List Maker is designed to be intuitive - just drag, drop, and create professional-looking tier lists instantly.",
+        "icon": "RiCodeFill",
+        "image": {
+          "src": "/imgs/features/video-girl-tier-list.webp"
+        }
+      }
+    ]
+  },
+  "usage": {
+    "name": "usage",
+    "title": "How to Create a Tier List with Tier List Maker",
+    "description": "Creating a tier list is simple with our Tier List Maker. Follow these easy steps:",
+    "image_position": "left",
+    "text_align": "center",
+    "items": [
+      {
+        "title": "Step 1: Add Items",
+        "description": "Click 'Add Item' button to upload images from your device. You can upload multiple images at once. All items will be placed in the D tier by default."
+      },
+      {
+        "title": "Step 2: Organize by Tiers",
+        "description": "On desktop: drag and drop items between tiers (S, A, B, C, D). On mobile: double-tap items to move them to the next tier. Organize your rankings easily!"
+      },
+      {
+        "title": "Step 3: Refine Your List",
+        "description": "Hover over items to see the delete button (X icon) and remove unwanted items. You can also click 'Delete All' to start fresh at any time."
+      },
+      {
+        "title": "Step 4: Save and Share",
+        "description": "Click 'Save Image' to download your tier list as a high-quality PNG image. Share your rankings on social media, forums, or with friends instantly!"
+      }
+    ]
+  },
+  "feature": {
+    "name": "feature",
+    "title": "Key Features of Our Tier List Maker",
+    "description": "Everything you need in a Tier List Maker to create perfect rankings every time.",
+    "items": [
+      {
+        "title": "Free Tier List Maker Tool",
+        "description": "Create unlimited tier lists for free. Our Tier List Maker is 100% free with no hidden fees or premium features.",
+        "icon": "RiNextjsFill"
+      },
+      {
+        "title": "Custom Tier Rankings",
+        "description": "Customize tier names, colors, and rankings in our Tier List Maker. Create tier lists that perfectly match your needs.",
+        "icon": "RiKey2Fill"
+      },
+      {
+        "title": "Image Upload Support",
+        "description": "Upload your own images to the Tier List Maker. Add characters, items, or any images you want to rank.",
+        "icon": "RiDatabase2Line"
+      },
+      {
+        "title": "Quick Export Options",
+        "description": "Download your tier lists as high-quality images. Our Tier List Maker provides instant export functionality.",
+        "icon": "RiCloudy2Fill"
+      },
+      {
+        "title": "Mobile-Friendly Design",
+        "description": "Use our Tier List Maker on any device. Create and edit tier lists on desktop, tablet, or mobile seamlessly.",
+        "icon": "RiBarChart2Line"
+      },
+      {
+        "title": "No Registration Required",
+        "description": "Start using our Tier List Maker immediately. No account needed - just open and create your tier list.",
+        "icon": "RiRobot2Line"
+      }
+    ]
+  },
+  "stats": {
+    "name": "stats",
+    "label": "Stats",
+    "title": "People Love Our Tier List Maker",
+    "description": "for creating professional tier lists effortlessly.",
+    "icon": "FaRegHeart",
+    "items": [
+      {
+        "title": "Trusted by",
+        "label": "10K+",
+        "description": "Users"
+      },
+      {
+        "title": "Created",
+        "label": "50K+",
+        "description": "Tier Lists"
+      },
+      {
+        "title": "Make Tier List in",
+        "label": "30",
+        "description": "Seconds"
+      }
+    ]
+  },
+  "testimonial": {
+    "name": "testimonial",
+    "label": "Testimonial",
+    "title": "What Users Say About Tier List Maker",
+    "description": "Hear from users who love creating tier lists with our Tier List Maker.",
+    "icon": "GoThumbsup",
+    "items": [
+      {
+        "title": "Alex Rodriguez",
+        "label": "Gaming Content Creator",
+        "description": "This Tier List Maker is the best I've used! I create tier lists for my YouTube channel daily, and this tool makes it so quick and professional-looking.",
+        "image": {
+          "src": "/imgs/users/genshin-tier-maker.png"
+        }
+      },
+      {
+        "title": "Sarah Chen",
+        "label": "Movie Enthusiast",
+        "description": "I use Tier List Maker to rank movies with my friends. The interface is super intuitive and I love that it's completely free. Best tier list maker online!",
+        "image": {
+          "src": "/imgs/users/2.png"
+        }
+      },
+      {
+        "title": "Mike Johnson",
+        "label": "Esports Coach",
+        "description": "Our team uses this Tier List Maker for character rankings and strategy planning. It's reliable, fast, and exactly what we need for competitive analysis.",
+        "image": {
+          "src": "/imgs/users/3.png"
+        }
+      },
+      {
+        "title": "Emma Thompson",
+        "label": "Anime Blogger",
+        "description": "Creating anime character tier lists is my hobby, and this Tier List Maker is perfect! Easy to customize, looks great, and I can share my rankings instantly.",
+        "image": {
+          "src": "/imgs/users/4.png"
+        }
+      },
+      {
+        "title": "David Park",
+        "label": "Twitch Streamer",
+        "description": "I make tier lists live on stream using this tool. My viewers love the clean design and it never lags. Best free Tier List Maker out there!",
+        "image": {
+          "src": "/imgs/users/5.png"
+        }
+      },
+      {
+        "title": "Lisa Martinez",
+        "label": "Community Manager",
+        "description": "We use Tier List Maker for community polls and discussions. It's simple enough for everyone to use and creates professional results every time.",
+        "image": {
+          "src": "/imgs/users/6.png"
+        }
+      }
+    ]
+  },
+  "faq": {
+    "name": "faq",
+    "label": "FAQ",
+    "title": "Frequently Asked Questions About Tier List Maker",
+    "description": "Have another question? Contact us on Discord or by email.",
+    "items": [
+      {
+        "title": "What is a Tier List Maker?",
+        "description": "A Tier List Maker is a free online tool that allows you to create ranking charts by organizing items into different tiers (S, A, B, C, D, F). Our Tier List Maker helps you visually rank anything from video game characters to movies."
+      },
+      {
+        "title": "Is this Tier List Maker really free?",
+        "description": "Yes! Our Tier List Maker is 100% free to use. You can create unlimited tier lists, customize them, and download your rankings without any cost or subscription."
+      },
+      {
+        "title": "Do I need to create an account to use Tier List Maker?",
+        "description": "No account needed! You can start using our Tier List Maker immediately. Simply visit tierlist-maker.com and begin creating your tier list right away."
+      },
+      {
+        "title": "How do I create a tier list with Tier List Maker?",
+        "description": "Using our Tier List Maker is simple: 1) Choose or create a template, 2) Add your items or images, 3) Drag and drop items into tiers, 4) Customize colors and names, 5) Download or share your tier list."
+      },
+      {
+        "title": "Can I upload custom images to Tier List Maker?",
+        "description": "Absolutely! Our Tier List Maker supports custom image uploads. You can add your own images for characters, items, or anything else you want to rank in your tier list."
+      },
+      {
+        "title": "How do I share my tier list created with Tier List Maker?",
+        "description": "After creating your tier list, our Tier List Maker allows you to download it as a high-quality image. You can then share this image on social media, forums, or anywhere you like."
+      }
+    ]
+  },
+  "cta": {
+    "name": "cta",
+    "title": "Create Your First Tier List Now",
+    "description": "Start ranking with the best free Tier List Maker today.",
+    "buttons": [
+      {
+        "title": "Start Using Tier List Maker",
+        "url": "/#hero",
+        "icon": "GoArrowUpRight"
+      }
+    ]
+  },
+  "footer": {
+    "name": "footer",
+    "brand": {
+      "title": "Tier List Maker",
+      "description": "Tier List Maker is the best free online tool for creating and sharing tier lists. Create custom rankings for games, movies, characters, and more with our easy-to-use Tier List Maker.",
+      "logo": {
+        "src": "/logo.svg",
+        "alt": "Tier List Maker"
+      },
+      "url": "/"
+    },
+    "copyright": "© 2025 • Tier List Maker All rights reserved.",
+    "nav": {
+      "items": [
+        {
+          "title": "About",
+          "children": [
+            {
+              "title": "Features",
+              "url": "/#feature",
+              "target": "_self"
+            }
+          ]
+        },
+        {
+          "title": "Resources",
+          "children": [
+            {
+              "title": "Templates",
+              "url": "https://tierlist-maker.com/showcase",
+              "target": "_blank"
+            }
+          ]
+        }
+      ]
+    },
+    "social": {
+      "items": [
+        {
+          "title": "Email",
+          "icon": "RiMailLine",
+          "url": "mailto:support@tierlist-maker.com",
+          "target": "_self"
+        }
+      ]
+    },
+    "agreement": {
+      "items": [
+        {
+          "title": "Privacy Policy",
+          "url": "/privacy-policy"
+        },
+        {
+          "title": "Terms of Service",
+          "url": "/terms-of-service"
+        }
+      ]
+    }
+  }
+}

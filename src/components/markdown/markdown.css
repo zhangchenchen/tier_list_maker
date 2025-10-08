@@ -1,0 +1,40 @@
+.markdown {
+  background-color: var(--background-secondary);
+  color: var(--foreground);
+  li {
+    list-style-type: square;
+    word-break: break-word;
+  }
+}
+
+.markdown pre,
+.markdown code,
+.markdown blockquote {
+  background-color: var(--background-secondary);
+  color: var(--foreground);
+}
+
+/* Responsive media and tables */
+.markdown img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+.markdown table {
+  width: 100%;
+  display: block;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.markdown pre {
+  overflow-x: auto;
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
+
+.markdown code {
+  word-break: break-word;
+  white-space: pre-wrap;
+}

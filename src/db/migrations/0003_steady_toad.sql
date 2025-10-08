@@ -1,0 +1,1 @@
+ALTER TABLE "posts" ADD COLUMN "category_uuid" varchar(255);
