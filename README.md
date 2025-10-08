@@ -1,15 +1,33 @@
-# ShipAny Template One
+# Tier List Maker
 
-Ship Any AI SaaS Startups in hours.
+🎯 **Free Online Tier List Maker** - Create and share professional tier lists in seconds!
 
 ![preview](preview.png)
 
-## Quick Start
+## ✨ Features
+
+- 🆓 **100% Free Forever** - No registration, no hidden fees
+- 🎨 **Drag & Drop Interface** - Intuitive and easy to use
+- 📱 **Mobile Friendly** - Works seamlessly on all devices
+- 💾 **Auto-Save** - Never lose your work with localStorage
+- 🖼️ **High-Quality Export** - Download as PNG images
+- 🌐 **Multi-language** - English & Chinese support
+- 🎯 **5 Tier System** - S, A, B, C, D ranking system
+
+## 🚀 Quick Start
+
+### Prerequisites
+
+- Node.js 18+ 
+- pnpm (recommended) or npm
+
+### Installation
 
 1. Clone the repository
 
 ```bash
-git clone https://github.com/shipanyai/shipany-template-one.git
+git clone https://github.com/zhangchenchen/tier_list_maker.git
+cd tier_list_maker
 ```
 
 2. Install dependencies
@@ -18,70 +36,142 @@ git clone https://github.com/shipanyai/shipany-template-one.git
 pnpm install
 ```
 
-3. Run the development server
-
-```bash
-pnpm dev
-```
-
-## Customize
-
-- Set your environment variables
+3. Set up environment variables
 
 ```bash
 cp .env.example .env.development
 ```
 
-- Set your theme in `src/app/theme.css`
-
-[tweakcn](https://tweakcn.com/editor/theme)
-
-- Set your landing page content in `src/i18n/pages/landing`
-
-- Set your i18n messages in `src/i18n/messages`
-
-## Deploy
-
-- Deploy to Vercel
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fshipanyai%2Fshipany-template-one&project-name=my-shipany-project&repository-name=my-shipany-project&redirect-url=https%3A%2F%2Fshipany.ai&demo-title=ShipAny&demo-description=Ship%20Any%20AI%20Startup%20in%20hours%2C%20not%20days&demo-url=https%3A%2F%2Fshipany.ai&demo-image=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FGgGSW3La8AAGJgU%3Fformat%3Djpg%26name%3Dlarge)
-
-- Deploy to Cloudflare
-
-for new project, clone with branch "cloudflare"
-
-```shell
-git clone -b cloudflare https://github.com/shipanyai/shipany-template-one.git
-```
-
-for exist project, checkout to branch "cloudflare"
-
-```shell
-git checkout cloudflare
-```
-
-1. Customize your environment variables
+4. Run the development server
 
 ```bash
-cp .env.example .env.production
-cp wrangler.toml.example wrangler.toml
+pnpm dev
 ```
 
-edit your environment variables in `.env.production`
+Open [http://localhost:3000](http://localhost:3000) to see the application.
 
-and put all the environment variables under `[vars]` in `wrangler.toml`
+## 🎨 Customization
 
-2. Deploy
+### Theme
+
+Set your theme colors in `src/app/theme.css`
+
+You can use [TweakCN Theme Editor](https://tweakcn.com/editor/theme) to customize colors.
+
+### Landing Page Content
+
+Edit content in:
+- English: `src/i18n/pages/landing/en.json`
+- Chinese: `src/i18n/pages/landing/zh.json`
+
+### Messages & Translations
+
+Update translations in:
+- `src/i18n/messages/en.json`
+- `src/i18n/messages/zh.json`
+
+## 📦 Build
+
+Build for production:
 
 ```bash
-npm run cf:deploy
+pnpm build
 ```
 
-## Community
+Test production build locally:
 
-- [ShipAny](https://shipany.ai)
-- [Documentation](https://docs.shipany.ai)
+```bash
+pnpm start
+```
 
-## License
+## 🚢 Deployment
 
-- [ShipAny AI SaaS Boilerplate License Agreement](LICENSE)
+### Deploy to Vercel (Recommended)
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new)
+
+1. Push your code to GitHub
+2. Import your repository to Vercel
+3. Deploy!
+
+### Deploy to Cloudflare Pages
+
+1. Build the project:
+
+```bash
+pnpm build
+```
+
+2. Deploy to Cloudflare Pages using the `.next` output
+
+## 🛠️ Tech Stack
+
+- **Framework**: [Next.js 15](https://nextjs.org/)
+- **Language**: [TypeScript](https://www.typescriptlang.org/)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **UI Components**: [Shadcn UI](https://ui.shadcn.com/)
+- **Internationalization**: [next-intl](https://next-intl-docs.vercel.app/)
+- **Image Export**: [html2canvas](https://html2canvas.hertzen.com/)
+- **Notifications**: [Sonner](https://sonner.emilkowal.ski/)
+
+## 📁 Project Structure
+
+```
+tier_list_maker/
+├── src/
+│   ├── app/              # Next.js App Router
+│   ├── components/       # React components
+│   │   ├── blocks/       # Landing page blocks
+│   │   │   └── hero/     # Hero section with Tier List Maker
+│   │   └── ui/           # Shadcn UI components
+│   ├── i18n/             # Internationalization
+│   │   ├── messages/     # Global translations
+│   │   └── pages/        # Page-specific translations
+│   ├── lib/              # Utility functions
+│   └── types/            # TypeScript types
+├── public/               # Static assets
+└── content/             # MDX documentation
+```
+
+## 🎯 Key Components
+
+### Tier List Maker
+
+Location: `src/components/blocks/hero/tier-list-maker.tsx`
+
+Features:
+- Drag & drop item organization
+- Auto-save with localStorage
+- Mobile quick menu
+- Real-time theme detection
+- High-quality PNG export
+- Loading states & progress feedback
+
+## 🌐 Internationalization
+
+The project supports multiple languages:
+
+- English (`en`)
+- Chinese (`zh`)
+
+Add more languages by:
+1. Creating new JSON files in `src/i18n/messages/`
+2. Adding translations in `src/i18n/pages/landing/`
+3. Updating locale configuration in `src/i18n/routing.ts`
+
+## 📝 License
+
+[MIT License](LICENSE)
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## 📧 Contact
+
+- Website: [tierlist-maker.com](https://tierlist-maker.com)
+- Email: support@tierlist-maker.com
+
+---
+
+Made with ❤️ by the Tier List Maker team

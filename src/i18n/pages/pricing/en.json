@@ -3,7 +3,7 @@
     "name": "pricing",
     "label": "Pricing",
     "title": "Pricing",
-    "description": "Get all features of ShipAny, Ship your AI SaaS startups fast.",
+    "description": "Get all features of TierListMaker, Ship your AI SaaS startups fast.",
     "groups": [
       {
         "name": "one-time",
@@ -44,12 +44,12 @@
         "is_featured": false,
         "tip": "Pay once. Build unlimited projects!",
         "button": {
-          "title": "Get ShipAny",
+          "title": "Get TierListMaker",
           "url": "/#pricing",
           "icon": "RiFlashlightFill"
         },
         "product_id": "starter",
-        "product_name": "ShipAny Boilerplate Starter",
+        "product_name": "TierListMaker Boilerplate Starter",
         "credits": 100,
         "valid_months": 1,
         "group": "one-time"
@@ -79,19 +79,19 @@
         "is_featured": true,
         "tip": "Pay once. Build unlimited projects!",
         "button": {
-          "title": "Get ShipAny",
+          "title": "Get TierListMaker",
           "url": "/#pricing",
           "icon": "RiFlashlightFill"
         },
         "product_id": "standard",
-        "product_name": "ShipAny Boilerplate Standard",
+        "product_name": "TierListMaker Boilerplate Standard",
         "credits": 200,
         "valid_months": 3,
         "group": "one-time"
       },
       {
         "title": "Premium",
-        "description": "Ship Any AI SaaS Startups.",
+        "description": "Tier List Maker AI SaaS Startups.",
         "features_title": "Everything in Standard, plus",
         "features": [
           "300 credits, valid for 1 year",
@@ -112,12 +112,12 @@
         "is_featured": false,
         "tip": "Pay once. Build unlimited projects!",
         "button": {
-          "title": "Get ShipAny",
+          "title": "Get TierListMaker",
           "url": "/#pricing",
           "icon": "RiFlashlightFill"
         },
         "product_id": "premium",
-        "product_name": "ShipAny Boilerplate Premium",
+        "product_name": "TierListMaker Boilerplate Premium",
         "credits": 300,
         "valid_months": 12,
         "group": "one-time"
@@ -144,12 +144,12 @@
         "is_featured": false,
         "tip": "Pay monthly. Build unlimited projects!",
         "button": {
-          "title": "Get ShipAny",
+          "title": "Get TierListMaker",
           "url": "/#pricing",
           "icon": "RiFlashlightFill"
         },
         "product_id": "starter-monthly",
-        "product_name": "ShipAny Boilerplate Starter Monthly",
+        "product_name": "TierListMaker Boilerplate Starter Monthly",
         "credits": 100,
         "valid_months": 1,
         "group": "monthly"
@@ -178,19 +178,19 @@
         "is_featured": true,
         "tip": "Pay monthly. Ship Fast with your SaaS Startups.",
         "button": {
-          "title": "Get ShipAny",
+          "title": "Get TierListMaker",
           "url": "/#pricing",
           "icon": "RiFlashlightFill"
         },
         "product_id": "standard-monthly",
-        "product_name": "ShipAny Boilerplate Standard Monthly",
+        "product_name": "TierListMaker Boilerplate Standard Monthly",
         "credits": 200,
         "valid_months": 1,
         "group": "monthly"
       },
       {
         "title": "Premium",
-        "description": "Ship Any AI SaaS Startups.",
+        "description": "Tier List Maker AI SaaS Startups.",
         "features_title": "Everything in Standard, plus",
         "features": [
           "300 credits, valid for 1 month",
@@ -208,14 +208,14 @@
         "original_price": "$299",
         "unit": "/ month",
         "is_featured": false,
-        "tip": "Pay monthly. Ship Any AI SaaS Startups.",
+        "tip": "Pay monthly. Tier List Maker AI SaaS Startups.",
         "button": {
-          "title": "Get ShipAny",
+          "title": "Get TierListMaker",
           "url": "/#pricing",
           "icon": "RiFlashlightFill"
         },
         "product_id": "premium-monthly",
-        "product_name": "ShipAny Boilerplate Premium Monthly",
+        "product_name": "TierListMaker Boilerplate Premium Monthly",
         "credits": 300,
         "valid_months": 1,
         "group": "monthly"
@@ -242,12 +242,12 @@
         "is_featured": false,
         "tip": "Pay annually. Build unlimited projects!",
         "button": {
-          "title": "Get ShipAny",
+          "title": "Get TierListMaker",
           "url": "/#pricing",
           "icon": "RiFlashlightFill"
         },
         "product_id": "starter-yearly",
-        "product_name": "ShipAny Boilerplate Starter Annually",
+        "product_name": "TierListMaker Boilerplate Starter Annually",
         "credits": 1200,
         "valid_months": 12,
         "group": "yearly"
@@ -276,19 +276,19 @@
         "is_featured": true,
         "tip": "Pay annually. Ship Fast with your SaaS Startups.",
         "button": {
-          "title": "Get ShipAny",
+          "title": "Get TierListMaker",
           "url": "/#pricing",
           "icon": "RiFlashlightFill"
         },
         "product_id": "standard-yearly",
-        "product_name": "ShipAny Boilerplate Standard Annually",
+        "product_name": "TierListMaker Boilerplate Standard Annually",
         "credits": 2400,
         "valid_months": 12,
         "group": "yearly"
       },
       {
         "title": "Premium",
-        "description": "Ship Any AI SaaS Startups.",
+        "description": "Tier List Maker AI SaaS Startups.",
         "features_title": "Everything in Standard, plus",
         "features": [
           "300 credits, valid for 1 year",
@@ -306,14 +306,14 @@
         "original_price": "$249",
         "unit": "/ month",
         "is_featured": false,
-        "tip": "Pay annually. Ship Any AI SaaS Startups.",
+        "tip": "Pay annually. Tier List Maker AI SaaS Startups.",
         "button": {
-          "title": "Get ShipAny",
+          "title": "Get TierListMaker",
           "url": "/#pricing",
           "icon": "RiFlashlightFill"
         },
         "product_id": "premium-yearly",
-        "product_name": "ShipAny Boilerplate Premium Annually",
+        "product_name": "TierListMaker Boilerplate Premium Annually",
         "credits": 3600,
         "valid_months": 12,
         "group": "yearly"

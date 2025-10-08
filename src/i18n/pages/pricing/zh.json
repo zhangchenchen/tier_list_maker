@@ -3,7 +3,7 @@
     "name": "pricing",
     "label": "定价",
     "title": "定价",
-    "description": "获取 ShipAny 的所有功能，快速启动您的 AI SaaS 项目。",
+    "description": "获取 TierListMaker 的所有功能，快速启动您的 AI SaaS 项目。",
     "groups": [
       {
         "name": "one-time",
@@ -44,12 +44,12 @@
         "is_featured": false,
         "tip": "一次性付费，无限构建项目！",
         "button": {
-          "title": "获取 ShipAny",
+          "title": "获取 TierListMaker",
           "url": "/#pricing",
           "icon": "RiFlashlightFill"
         },
         "product_id": "starter",
-        "product_name": "ShipAny 模板入门版",
+        "product_name": "TierListMaker 模板入门版",
         "credits": 100,
         "valid_months": 1,
         "group": "one-time"
@@ -79,12 +79,12 @@
         "is_featured": true,
         "tip": "一次性付费，无限构建项目！",
         "button": {
-          "title": "获取 ShipAny",
+          "title": "获取 TierListMaker",
           "url": "/#pricing",
           "icon": "RiFlashlightFill"
         },
         "product_id": "standard",
-        "product_name": "ShipAny 模板标准版",
+        "product_name": "TierListMaker 模板标准版",
         "credits": 200,
         "valid_months": 3,
         "group": "one-time"
@@ -112,12 +112,12 @@
         "is_featured": false,
         "tip": "一次性付费，无限构建项目！",
         "button": {
-          "title": "获取 ShipAny",
+          "title": "获取 TierListMaker",
           "url": "/#pricing",
           "icon": "RiFlashlightFill"
         },
         "product_id": "premium",
-        "product_name": "ShipAny 模板高级版",
+        "product_name": "TierListMaker 模板高级版",
         "credits": 300,
         "valid_months": 12,
         "group": "one-time"
@@ -144,12 +144,12 @@
         "is_featured": false,
         "tip": "月付，无限构建项目！",
         "button": {
-          "title": "获取 ShipAny",
+          "title": "获取 TierListMaker",
           "url": "/#pricing",
           "icon": "RiFlashlightFill"
         },
         "product_id": "starter-monthly",
-        "product_name": "ShipAny 模板入门版月付",
+        "product_name": "TierListMaker 模板入门版月付",
         "credits": 100,
         "valid_months": 1,
         "group": "monthly"
@@ -178,12 +178,12 @@
         "is_featured": true,
         "tip": "月付，快速启动您的 SaaS 创业项目。",
         "button": {
-          "title": "获取 ShipAny",
+          "title": "获取 TierListMaker",
           "url": "/#pricing",
           "icon": "RiFlashlightFill"
         },
         "product_id": "standard-monthly",
-        "product_name": "ShipAny 模板标准版月付",
+        "product_name": "TierListMaker 模板标准版月付",
         "credits": 200,
         "valid_months": 1,
         "group": "monthly"
@@ -210,12 +210,12 @@
         "is_featured": false,
         "tip": "月付，启动任何 AI SaaS 创业项目。",
         "button": {
-          "title": "获取 ShipAny",
+          "title": "获取 TierListMaker",
           "url": "/#pricing",
           "icon": "RiFlashlightFill"
         },
         "product_id": "premium-monthly",
-        "product_name": "ShipAny 模板高级版月付",
+        "product_name": "TierListMaker 模板高级版月付",
         "credits": 300,
         "valid_months": 1,
         "group": "monthly"
@@ -242,12 +242,12 @@
         "is_featured": false,
         "tip": "年付，无限构建项目！",
         "button": {
-          "title": "获取 ShipAny",
+          "title": "获取 TierListMaker",
           "url": "/#pricing",
           "icon": "RiFlashlightFill"
         },
         "product_id": "starter-yearly",
-        "product_name": "ShipAny 模板入门版年付",
+        "product_name": "TierListMaker 模板入门版年付",
         "credits": 1200,
         "valid_months": 12,
         "group": "yearly"
@@ -276,12 +276,12 @@
         "is_featured": true,
         "tip": "年付，快速启动您的 SaaS 创业项目。",
         "button": {
-          "title": "获取 ShipAny",
+          "title": "获取 TierListMaker",
           "url": "/#pricing",
           "icon": "RiFlashlightFill"
         },
         "product_id": "standard-yearly",
-        "product_name": "ShipAny 模板标准版年付",
+        "product_name": "TierListMaker 模板标准版年付",
         "credits": 2400,
         "valid_months": 12,
         "group": "yearly"
@@ -308,12 +308,12 @@
         "is_featured": false,
         "tip": "年付，启动任何 AI SaaS 创业项目。",
         "button": {
-          "title": "获取 ShipAny",
+          "title": "获取 TierListMaker",
           "url": "/#pricing",
           "icon": "RiFlashlightFill"
         },
         "product_id": "premium-yearly",
-        "product_name": "ShipAny 模板高级版年付",
+        "product_name": "TierListMaker 模板高级版年付",
         "credits": 3600,
         "valid_months": 12,
         "group": "yearly"
