@@ -23,6 +23,13 @@ All notable changes to Tier List Maker will be documented in this file.
   - English, Chinese, and Japanese versions now cross-reference each other
   - Updated all documentation to reflect Japanese language support
 
+### 🔗 Social Links
+
+- **GitHub Link in Footer** - Added GitHub icon and link to footer social section
+  - Links to: https://github.com/zhangchenchen/tier_list_maker
+  - Available in all language versions (English, Chinese, Japanese)
+  - Opens in new tab for better user experience
+
 ## [1.1.0] - 2025-01-08
 
 ### 🌐 Internationalization

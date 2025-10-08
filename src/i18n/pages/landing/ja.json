@@ -328,6 +328,12 @@
           "icon": "RiMailLine",
           "url": "mailto:support@tierlist-maker.com",
           "target": "_self"
+        },
+        {
+          "title": "GitHub",
+          "icon": "RiGithubLine",
+          "url": "https://github.com/zhangchenchen/tier_list_maker",
+          "target": "_blank"
         }
       ]
     },
