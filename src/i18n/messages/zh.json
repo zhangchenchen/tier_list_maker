@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "title": "几小时内构建任何 AI SaaS 创业项目 | TierListMaker",
-    "description": "TierListMaker 是一个用于构建 AI SaaS 创业项目的 NextJS 模板，提供各种模板和组件，帮助您快速启动。",
-    "keywords": "TierListMaker, AI SaaS 模板, NextJS 模板"
+    "title": "在线制作Tier表 | 100%免费无需注册",
+    "description": "Tier表制作工具是排名第一的免费在线工具，帮助你创建、自定义和分享任何你想要排名的内容。",
+    "keywords": "tier表制作, 排名工具, 免费tier表, tier表生成器, 创建tier表, S级排名, 游戏tier表, 电影tier表, 角色tier表"
   },
   "user": {
     "sign_in": "登录",
@@ -132,5 +132,42 @@
     "contact_tip": "其他联系方式",
     "rating_tip": "您对 TierListMaker 的看法如何？",
     "placeholder": "在这里留下您的反馈..."
+  },
+  "tier_list_maker": {
+    "buttons": {
+      "add_item": "添加项目",
+      "save_image": "保存图片",
+      "delete_all": "全部删除",
+      "loading": "加载中...",
+      "exporting": "导出中..."
+    },
+    "toast": {
+      "restored": "已从上次会话恢复 {count} 个项目",
+      "file_too_large": "{filename} 文件过大（最大5MB）",
+      "failed_to_load": "加载 {filename} 失败",
+      "added_success": "成功添加 {count} 个{items}",
+      "item": "项目",
+      "items": "项目",
+      "failed_to_load_images": "加载图片失败",
+      "item_removed": "项目已删除",
+      "no_items_to_clear": "没有可清除的项目",
+      "all_items_cleared": "所有项目已清除",
+      "please_add_items": "保存前请先添加项目",
+      "image_saved": "图片保存成功！",
+      "failed_to_save": "保存图片失败",
+      "moved_to_tier": "已移动到 {tier} 层级"
+    },
+    "empty_state": {
+      "title": "点击「添加项目」开始使用",
+      "subtitle": "上传图片来创建你的Tier表",
+      "drag_here": "将项目拖到这里"
+    },
+    "mobile_menu": {
+      "title": "移动到层级",
+      "delete_item": "删除项目"
+    },
+    "watermark": {
+      "made_by": "制作工具"
+    }
   }
 }

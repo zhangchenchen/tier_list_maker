@@ -2,7 +2,7 @@
   "metadata": {
     "title": "Create Custom Tier Lists Online | 100% Free No Sign Up",
     "description": "Tier List Maker is #1 free online tool that helps you create, customize, and share tier lists for anything you want to rank.",
-    "keywords": ""
+    "keywords": "tier list maker, tier list creator, ranking tool, free tier list, tier list generator, create tier list"
   },
   "user": {
     "sign_in": "Sign In",
@@ -132,5 +132,42 @@
     "contact_tip": "Other ways to contact us",
     "rating_tip": "How do you feel about Tier List Maker?",
     "placeholder": "Leave your words here..."
+  },
+  "tier_list_maker": {
+    "buttons": {
+      "add_item": "Add Item",
+      "save_image": "Save Image",
+      "delete_all": "Delete All",
+      "loading": "Loading...",
+      "exporting": "Exporting..."
+    },
+    "toast": {
+      "restored": "Restored {count} items from previous session",
+      "file_too_large": "{filename} is too large (max 5MB)",
+      "failed_to_load": "Failed to load {filename}",
+      "added_success": "Added {count} {items} successfully",
+      "item": "item",
+      "items": "items",
+      "failed_to_load_images": "Failed to load images",
+      "item_removed": "Item removed",
+      "no_items_to_clear": "No items to clear",
+      "all_items_cleared": "All items cleared",
+      "please_add_items": "Please add items before saving",
+      "image_saved": "Image saved successfully!",
+      "failed_to_save": "Failed to save image",
+      "moved_to_tier": "Moved to {tier} tier"
+    },
+    "empty_state": {
+      "title": "Click \"Add Item\" to get started",
+      "subtitle": "Upload images to create your tier list",
+      "drag_here": "Drag items here"
+    },
+    "mobile_menu": {
+      "title": "Move to Tier",
+      "delete_item": "Delete Item"
+    },
+    "watermark": {
+      "made_by": "Made by"
+    }
   }
 }

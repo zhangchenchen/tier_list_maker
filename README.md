@@ -1,5 +1,7 @@
 # Tier List Maker
 
+> 🌐 Languages: **English** | [中文](README.zh.md) | [日本語](README.ja.md)
+
 🎯 **Free Online Tier List Maker** - Create and share professional tier lists in seconds!
 
 ![preview](preview.png)
@@ -11,7 +13,7 @@
 - 📱 **Mobile Friendly** - Works seamlessly on all devices
 - 💾 **Auto-Save** - Never lose your work with localStorage
 - 🖼️ **High-Quality Export** - Download as PNG images
-- 🌐 **Multi-language** - English & Chinese support
+- 🌐 **Multi-language** - English, Chinese & Japanese support
 - 🎯 **5 Tier System** - S, A, B, C, D ranking system
 
 ## 🚀 Quick Start
@@ -63,12 +65,14 @@ You can use [TweakCN Theme Editor](https://tweakcn.com/editor/theme) to customiz
 Edit content in:
 - English: `src/i18n/pages/landing/en.json`
 - Chinese: `src/i18n/pages/landing/zh.json`
+- Japanese: `src/i18n/pages/landing/ja.json`
 
 ### Messages & Translations
 
 Update translations in:
 - `src/i18n/messages/en.json`
 - `src/i18n/messages/zh.json`
+- `src/i18n/messages/ja.json`
 
 ## 📦 Build
 
@@ -153,6 +157,7 @@ The project supports multiple languages:
 
 - English (`en`)
 - Chinese (`zh`)
+- Japanese (`ja`)
 
 Add more languages by:
 1. Creating new JSON files in `src/i18n/messages/`
@@ -167,10 +172,28 @@ Add more languages by:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
+## 📱 Social Media & SEO
+
+The project includes comprehensive social media optimization:
+
+- **Open Graph tags** - For Facebook, LinkedIn sharing
+- **Twitter Cards** - For Twitter previews
+- **SEO metadata** - Keywords, descriptions, alt tags
+- **Multi-language support** - English, Chinese & Japanese metadata
+
+See [Social Media Guide](SOCIAL_MEDIA_GUIDE.md) for testing and optimization tips.
+
+### Testing Your Social Cards
+
+- Facebook: https://developers.facebook.com/tools/debug/
+- Twitter: https://cards-dev.twitter.com/validator
+- LinkedIn: https://www.linkedin.com/post-inspector/
+
 ## 📧 Contact
 
 - Website: [tierlist-maker.com](https://tierlist-maker.com)
 - Email: support@tierlist-maker.com
+- Twitter: [@tierlistmaker](https://twitter.com/tierlistmaker)
 
 ---
 

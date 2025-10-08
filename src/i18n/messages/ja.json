@@ -1,0 +1,174 @@
+{
+  "metadata": {
+    "title": "オンラインTier表メーカー | 100%無料・登録不要",
+    "description": "Tier表メーカーは、あらゆるものをランク付けするためのカスタムTier表を作成、カスタマイズ、共有できる無料オンラインツールです。",
+    "keywords": "tier表メーカー, tier表作成, ランキングツール, 無料tier表, tier表ジェネレーター, tier表作成ツール"
+  },
+  "user": {
+    "sign_in": "ログイン",
+    "sign_out": "ログアウト",
+    "credits": "クレジット",
+    "api_keys": "APIキー",
+    "my_orders": "注文履歴",
+    "user_center": "ユーザーセンター",
+    "admin_system": "管理システム"
+  },
+  "sign_modal": {
+    "sign_in_title": "ログイン",
+    "sign_in_description": "アカウントにログイン",
+    "sign_up_title": "サインアップ",
+    "sign_up_description": "アカウントを作成",
+    "email_title": "メールアドレス",
+    "email_placeholder": "メールアドレスを入力",
+    "password_title": "パスワード",
+    "password_placeholder": "パスワードを入力",
+    "forgot_password": "パスワードをお忘れですか？",
+    "or": "または",
+    "continue": "続ける",
+    "no_account": "アカウントをお持ちでないですか？",
+    "email_sign_in": "メールでログイン",
+    "google_sign_in": "Googleでログイン",
+    "github_sign_in": "GitHubでログイン",
+    "close_title": "閉じる",
+    "cancel_title": "キャンセル"
+  },
+  "my_orders": {
+    "title": "注文履歴",
+    "description": "Tier表メーカーでお支払いいただいた注文",
+    "no_orders": "注文が見つかりません",
+    "tip": "",
+    "activate_order": "注文を有効化",
+    "actived": "有効化済み",
+    "join_discord": "Discordに参加",
+    "read_docs": "ドキュメントを読む",
+    "table": {
+      "order_no": "注文番号",
+      "email": "メールアドレス",
+      "product_name": "商品名",
+      "amount": "金額",
+      "paid_at": "支払日時",
+      "github_username": "GitHubユーザー名",
+      "status": "ステータス",
+      "manage_billing": "請求管理",
+      "interval": "間隔",
+      "interval_month": "月額",
+      "interval_year": "年額",
+      "interval_one_time": "一回払い"
+    }
+  },
+  "my_credits": {
+    "title": "マイクレジット",
+    "left_tip": "残りクレジット: {left_credits}",
+    "no_credits": "クレジット記録がありません",
+    "recharge": "チャージ",
+    "table": {
+      "trans_no": "取引番号",
+      "trans_type": "取引タイプ",
+      "credits": "クレジット",
+      "updated_at": "更新日時",
+      "status": "ステータス",
+      "expired_at": "有効期限",
+      "created_at": "作成日時"
+    }
+  },
+  "api_keys": {
+    "title": "APIキー",
+    "tip": "APIキーは安全に保管し、漏洩を防いでください",
+    "no_api_keys": "APIキーがありません",
+    "create_api_key": "APIキーを作成",
+    "table": {
+      "name": "名前",
+      "key": "キー",
+      "created_at": "作成日時"
+    },
+    "form": {
+      "name": "名前",
+      "name_placeholder": "APIキー名",
+      "submit": "送信"
+    }
+  },
+  "blog": {
+    "title": "ブログ",
+    "description": "Tier表メーカーに関するニュース、リソース、アップデート",
+    "read_more_text": "続きを読む",
+    "no_content": "コンテンツがありません",
+    "all": "すべて",
+    "category": "カテゴリー",
+    "author": "著者"
+  },
+  "my_invites": {
+    "title": "招待履歴",
+    "description": "招待記録を表示",
+    "no_invites": "招待記録が見つかりません",
+    "my_invite_link": "招待リンク",
+    "edit_invite_link": "招待リンクを編集",
+    "copy_invite_link": "招待リンクをコピー",
+    "invite_code": "招待コード",
+    "invite_tip": "友達1人を招待してTier表メーカーにアップグレードすると、$50の報酬。",
+    "invite_balance": "招待報酬残高",
+    "total_invite_count": "総招待数",
+    "total_paid_count": "総支払数",
+    "total_award_amount": "総報酬額",
+    "update_invite_code": "招待コードを設定",
+    "update_invite_code_tip": "カスタム招待コードを入力",
+    "update_invite_button": "保存",
+    "no_orders": "Tier表メーカーにアップグレードする前は他のユーザーを招待できません",
+    "no_affiliates": "他のユーザーを招待する権限がありません。許可を申請するにはお問い合わせください。",
+    "table": {
+      "invite_time": "招待日時",
+      "invite_user": "招待ユーザー",
+      "status": "ステータス",
+      "reward_percent": "報酬率",
+      "reward_amount": "報酬額",
+      "pending": "保留中",
+      "completed": "完了"
+    }
+  },
+  "feedback": {
+    "title": "フィードバック",
+    "description": "良かった点や改善点をお聞かせください。",
+    "submit": "送信",
+    "loading": "送信中...",
+    "contact_tip": "その他のお問い合わせ方法",
+    "rating_tip": "Tier表メーカーについてどう思いますか？",
+    "placeholder": "ご意見をこちらに入力してください..."
+  },
+  "tier_list_maker": {
+    "buttons": {
+      "add_item": "アイテム追加",
+      "save_image": "画像を保存",
+      "delete_all": "すべて削除",
+      "loading": "読み込み中...",
+      "exporting": "エクスポート中..."
+    },
+    "toast": {
+      "restored": "前回のセッションから {count} 個のアイテムを復元しました",
+      "file_too_large": "{filename} が大きすぎます（最大5MB）",
+      "failed_to_load": "{filename} の読み込みに失敗しました",
+      "added_success": "{count} 個の{items}を追加しました",
+      "item": "アイテム",
+      "items": "アイテム",
+      "failed_to_load_images": "画像の読み込みに失敗しました",
+      "item_removed": "アイテムを削除しました",
+      "no_items_to_clear": "クリアするアイテムがありません",
+      "all_items_cleared": "すべてのアイテムをクリアしました",
+      "please_add_items": "保存する前にアイテムを追加してください",
+      "image_saved": "画像を保存しました！",
+      "failed_to_save": "画像の保存に失敗しました",
+      "moved_to_tier": "{tier}ティアに移動しました"
+    },
+    "empty_state": {
+      "title": "「アイテム追加」をクリックして開始",
+      "subtitle": "画像をアップロードしてTier表を作成",
+      "drag_here": "アイテムをここにドラッグ"
+    },
+    "mobile_menu": {
+      "title": "ティアに移動",
+      "delete_item": "アイテムを削除"
+    },
+    "watermark": {
+      "made_by": "作成元"
+    }
+  }
+}
+

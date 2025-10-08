@@ -1,0 +1,348 @@
+{
+  "template": "shipany-template-one",
+  "theme": "light",
+  "header": {
+    "brand": {
+      "title": "Tier表メーカー",
+      "logo": {
+        "src": "/logo.svg",
+        "alt": "Tier表メーカー"
+      },
+      "url": "/"
+    },
+    "nav": {
+      "items": [
+        {
+          "title": "機能",
+          "url": "/#feature",
+          "icon": "RiSparkling2Line"
+        },
+        {
+          "title": "テンプレート",
+          "url": "/showcase",
+          "icon": "RiApps2Line"
+        }
+      ]
+    },
+    "show_sign": false,
+    "show_theme": true,
+    "show_locale": true
+  },
+  "hero": {
+    "title": "無料Tier表メーカーで数秒でランキングを作成",
+    "highlight_text": "Tier表メーカー",
+    "description": "Tier表メーカーは、Tier表を作成・共有するための無料オンラインツールです。",
+    "announcement": {
+      "label": "2025",
+      "title": "🎉 完全無料のTier表メーカー"
+    },
+    "tip": "🎁 永久100%無料",
+    "show_happy_users": false,
+    "show_badge": false
+  },
+  "introduce": {
+    "name": "introduce",
+    "title": "Tier表メーカーとは",
+    "label": "紹介",
+    "description": "Tier表メーカーは、ランキングしたいあらゆるものについて、カスタムTier表を作成、カスタマイズ、共有するのに役立つ無料オンラインツールです。ゲーマー、映画ファン、アイテムを階層別に整理したいすべての人に最適です。",
+    "image": {
+      "src": "/imgs/features/genshin-tier-maker.webp"
+    },
+    "items": [
+      {
+        "title": "無料でTier表を作成",
+        "description": "Tier表メーカーで無制限のTier表を完全無料で作成できます。サインアップ不要でお気に入りのアイテムをランク付けできます。",
+        "icon": "RiNextjsFill"
+      },
+      {
+        "title": "ドラッグ&ドロップ操作",
+        "description": "Tier表メーカーは直感的なドラッグ&ドロップインターフェースを備えており、Tier表の作成が簡単で楽しくなります。",
+        "icon": "RiDatabase2Line"
+      },
+      {
+        "title": "ランキングを共有",
+        "description": "Tier表をエクスポートして友達やコミュニティと共有できます。Tier表メーカーでランキングを簡単に紹介できます。",
+        "icon": "RiCloudyFill"
+      }
+    ]
+  },
+  "benefit": {
+    "name": "benefit",
+    "title": "Tier表メーカーを選ぶ理由",
+    "label": "メリット",
+    "description": "何千ものユーザーがTier表メーカーでランキングを作成・共有する理由をご覧ください。",
+    "items": [
+      {
+        "title": "完全無料のTier表メーカー",
+        "description": "Tier表メーカーは費用をかけずに使用できます。無制限のTier表を作成し、カスタマイズし、ランキングをダウンロード - すべて完全無料です。",
+        "icon": "RiNextjsFill",
+        "image": {
+          "src": "/imgs/features/marvel_tier_list.webp"
+        }
+      },
+      {
+        "title": "カスタマイズ可能なTier表テンプレート",
+        "description": "Tier表メーカーは完全にカスタマイズ可能なテンプレートを提供します。色を変更し、カスタムティアを追加して、あなたのスタイルに合わせたTier表を作成できます。",
+        "icon": "RiClapperboardAiLine",
+        "image": {
+          "src": "/imgs/features/nba_tier_list.webp"
+        }
+      },
+      {
+        "title": "使いやすいTier表メーカー",
+        "description": "学習曲線は不要です。Tier表メーカーは直感的に設計されています - ドラッグ&ドロップするだけで、プロフェッショナルな見た目のTier表を即座に作成できます。",
+        "icon": "RiCodeFill",
+        "image": {
+          "src": "/imgs/features/video-girl-tier-list.webp"
+        }
+      }
+    ]
+  },
+  "usage": {
+    "name": "usage",
+    "title": "Tier表メーカーでTier表を作成する方法",
+    "description": "Tier表メーカーでのTier表作成は簡単です。以下の手順に従ってください：",
+    "image_position": "left",
+    "text_align": "center",
+    "items": [
+      {
+        "title": "ステップ1：アイテムを追加",
+        "description": "「アイテム追加」ボタンをクリックして、デバイスから画像をアップロードします。一度に複数の画像をアップロードできます。すべてのアイテムはデフォルトでDティアに配置されます。"
+      },
+      {
+        "title": "ステップ2：ティアごとに整理",
+        "description": "デスクトップ：ティア間（S、A、B、C、D）でアイテムをドラッグ&ドロップします。モバイル：アイテムをダブルタップして次のティアに移動します。ランキングを簡単に整理できます！"
+      },
+      {
+        "title": "ステップ3：リストを調整",
+        "description": "アイテムにマウスを合わせると削除ボタン（Xアイコン）が表示され、不要なアイテムを削除できます。「すべて削除」をクリックしていつでも最初からやり直すこともできます。"
+      },
+      {
+        "title": "ステップ4：保存と共有",
+        "description": "「画像を保存」をクリックして、Tier表を高品質なPNG画像としてダウンロードします。ソーシャルメディア、フォーラム、または友達とすぐにランキングを共有できます！"
+      }
+    ]
+  },
+  "feature": {
+    "name": "feature",
+    "title": "Tier表メーカーの主な機能",
+    "description": "完璧なランキングを毎回作成するために必要なすべてがTier表メーカーにあります。",
+    "items": [
+      {
+        "title": "無料Tier表メーカーツール",
+        "description": "Tier表を無制限に無料で作成できます。Tier表メーカーは100%無料で、隠れた料金やプレミアム機能はありません。",
+        "icon": "RiNextjsFill"
+      },
+      {
+        "title": "カスタムティアランキング",
+        "description": "Tier表メーカーでティア名、色、ランキングをカスタマイズできます。ニーズに完全に合ったTier表を作成できます。",
+        "icon": "RiKey2Fill"
+      },
+      {
+        "title": "画像アップロード対応",
+        "description": "Tier表メーカーに独自の画像をアップロードできます。ランク付けしたいキャラクター、アイテム、または任意の画像を追加します。",
+        "icon": "RiDatabase2Line"
+      },
+      {
+        "title": "クイックエクスポートオプション",
+        "description": "Tier表を高品質な画像としてダウンロードできます。Tier表メーカーは即座にエクスポート機能を提供します。",
+        "icon": "RiCloudy2Fill"
+      },
+      {
+        "title": "モバイルフレンドリーデザイン",
+        "description": "任意のデバイスでTier表メーカーを使用できます。デスクトップ、タブレット、モバイルでシームレスにTier表を作成・編集できます。",
+        "icon": "RiBarChart2Line"
+      },
+      {
+        "title": "登録不要",
+        "description": "Tier表メーカーをすぐに使い始められます。アカウント不要 - 開くだけでTier表を作成できます。",
+        "icon": "RiRobot2Line"
+      }
+    ]
+  },
+  "stats": {
+    "name": "stats",
+    "label": "統計",
+    "title": "ユーザーに愛されるTier表メーカー",
+    "description": "プロフェッショナルなTier表を簡単に作成",
+    "icon": "FaRegHeart",
+    "items": [
+      {
+        "title": "信頼されている",
+        "label": "10K+",
+        "description": "ユーザー"
+      },
+      {
+        "title": "作成された",
+        "label": "50K+",
+        "description": "Tier表"
+      },
+      {
+        "title": "Tier表作成時間",
+        "label": "30",
+        "description": "秒"
+      }
+    ]
+  },
+  "testimonial": {
+    "name": "testimonial",
+    "label": "お客様の声",
+    "title": "Tier表メーカーについてのユーザーの声",
+    "description": "Tier表メーカーでランキングを作成することを楽しんでいるユーザーの声をお聞きください。",
+    "icon": "GoThumbsup",
+    "items": [
+      {
+        "title": "アレックス・ロドリゲス",
+        "label": "ゲームコンテンツクリエイター",
+        "description": "これまで使った中で最高のTier表メーカーです！YouTubeチャンネル用に毎日Tier表を作成していますが、このツールは迅速でプロフェッショナルな見た目です。",
+        "image": {
+          "src": "/imgs/users/1.png"
+        }
+      },
+      {
+        "title": "サラ・チェン",
+        "label": "映画愛好家",
+        "description": "友達と映画をランク付けするためにTier表メーカーを使用しています。インターフェースは非常に直感的で、完全に無料なのが気に入っています。最高のオンラインTier表メーカーです！",
+        "image": {
+          "src": "/imgs/users/2.png"
+        }
+      },
+      {
+        "title": "マイク・ジョンソン",
+        "label": "eスポーツコーチ",
+        "description": "チームはこのTier表メーカーをキャラクターランキングと戦略計画に使用しています。信頼性が高く、高速で、競技分析に必要なものがすべて揃っています。",
+        "image": {
+          "src": "/imgs/users/3.png"
+        }
+      },
+      {
+        "title": "エマ・トンプソン",
+        "label": "アニメブロガー",
+        "description": "アニメキャラクターのTier表を作成するのが趣味で、このTier表メーカーは完璧です！カスタマイズが簡単で、見た目が素晴らしく、ランキングをすぐに共有できます。",
+        "image": {
+          "src": "/imgs/users/4.png"
+        }
+      },
+      {
+        "title": "デビッド・パーク",
+        "label": "Twitchストリーマー",
+        "description": "配信中にこのツールを使ってTier表を作成しています。視聴者はクリーンなデザインが気に入っており、ラグもありません。最高の無料Tier表メーカーです！",
+        "image": {
+          "src": "/imgs/users/5.png"
+        }
+      },
+      {
+        "title": "リサ・マルティネス",
+        "label": "コミュニティマネージャー",
+        "description": "コミュニティの投票やディスカッションにTier表メーカーを使用しています。誰でも使えるほどシンプルで、毎回プロフェッショナルな結果を生み出します。",
+        "image": {
+          "src": "/imgs/users/6.png"
+        }
+      }
+    ]
+  },
+  "faq": {
+    "name": "faq",
+    "label": "よくある質問",
+    "title": "Tier表メーカーについてのよくある質問",
+    "description": "他に質問がありますか？Discordまたはメールでお問い合わせください。",
+    "items": [
+      {
+        "title": "Tier表メーカーとは何ですか？",
+        "description": "Tier表メーカーは、アイテムを異なるティア（S、A、B、C、D、F）に整理してランキングチャートを作成できる無料のオンラインツールです。Tier表メーカーは、ビデオゲームのキャラクターから映画まで、あらゆるものを視覚的にランク付けするのに役立ちます。"
+      },
+      {
+        "title": "このTier表メーカーは本当に無料ですか？",
+        "description": "はい！Tier表メーカーは100%無料で使用できます。無制限のTier表を作成し、カスタマイズし、ランキングをダウンロードできます。費用やサブスクリプションは一切かかりません。"
+      },
+      {
+        "title": "Tier表メーカーを使用するにはアカウントを作成する必要がありますか？",
+        "description": "アカウントは不要です！Tier表メーカーをすぐに使い始められます。tierlist-maker.comにアクセスして、すぐにTier表の作成を始められます。"
+      },
+      {
+        "title": "Tier表メーカーでTier表を作成する方法は？",
+        "description": "Tier表メーカーの使用は簡単です：1) テンプレートを選択または作成、2) アイテムや画像を追加、3) アイテムをティアにドラッグ&ドロップ、4) 色と名前をカスタマイズ、5) Tier表をダウンロードまたは共有。"
+      },
+      {
+        "title": "Tier表メーカーにカスタム画像をアップロードできますか？",
+        "description": "もちろんです！Tier表メーカーはカスタム画像のアップロードをサポートしています。Tier表でランク付けしたいキャラクター、アイテム、またはその他の画像を追加できます。"
+      },
+      {
+        "title": "Tier表メーカーで作成したTier表を共有する方法は？",
+        "description": "Tier表を作成した後、Tier表メーカーで高品質な画像としてダウンロードできます。その画像をソーシャルメディア、フォーラム、または好きな場所で共有できます。"
+      }
+    ]
+  },
+  "cta": {
+    "name": "cta",
+    "title": "今すぐ最初のTier表を作成",
+    "description": "今日から最高の無料Tier表メーカーでランキングを始めましょう。",
+    "buttons": [
+      {
+        "title": "Tier表メーカーを使い始める",
+        "url": "/#hero",
+        "icon": "GoArrowUpRight"
+      }
+    ]
+  },
+  "footer": {
+    "name": "footer",
+    "brand": {
+      "title": "Tier表メーカー",
+      "description": "Tier表メーカーは、Tier表を作成・共有するための最高の無料オンラインツールです。使いやすいTier表メーカーで、ゲーム、映画、キャラクターなどのカスタムランキングを作成できます。",
+      "logo": {
+        "src": "/logo.svg",
+        "alt": "Tier表メーカー"
+      },
+      "url": "/"
+    },
+    "copyright": "© 2025 • Tier表メーカー All rights reserved.",
+    "nav": {
+      "items": [
+        {
+          "title": "について",
+          "children": [
+            {
+              "title": "機能",
+              "url": "/#feature",
+              "target": "_self"
+            }
+          ]
+        },
+        {
+          "title": "リソース",
+          "children": [
+            {
+              "title": "テンプレート",
+              "url": "https://tierlist-maker.com/showcase",
+              "target": "_blank"
+            }
+          ]
+        }
+      ]
+    },
+    "social": {
+      "items": [
+        {
+          "title": "メール",
+          "icon": "RiMailLine",
+          "url": "mailto:support@tierlist-maker.com",
+          "target": "_self"
+        }
+      ]
+    },
+    "agreement": {
+      "items": [
+        {
+          "title": "プライバシーポリシー",
+          "url": "/privacy-policy"
+        },
+        {
+          "title": "利用規約",
+          "url": "/terms-of-service"
+        }
+      ]
+    }
+  }
+}
+

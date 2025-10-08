@@ -1,5 +1,7 @@
 # Tier表制作工具
 
+> 🌐 语言: [English](README.md) | **中文** | [日本語](README.ja.md)
+
 🎯 **免费在线Tier表制作工具** - 几秒钟内创建和分享专业的排名表！
 
 ![预览](preview.png)
@@ -11,7 +13,7 @@
 - 📱 **移动端友好** - 在所有设备上无缝运行
 - 💾 **自动保存** - 使用localStorage永不丢失工作
 - 🖼️ **高质量导出** - 下载为PNG图片
-- 🌐 **多语言支持** - 支持英文和中文
+- 🌐 **多语言支持** - 支持英文、中文和日文
 - 🎯 **5级分层系统** - S、A、B、C、D排名系统
 
 ## 🚀 快速开始
@@ -63,12 +65,14 @@ pnpm dev
 编辑以下文件中的内容：
 - 英文：`src/i18n/pages/landing/en.json`
 - 中文：`src/i18n/pages/landing/zh.json`
+- 日文：`src/i18n/pages/landing/ja.json`
 
 ### 消息和翻译
 
 更新翻译文件：
 - `src/i18n/messages/en.json`
 - `src/i18n/messages/zh.json`
+- `src/i18n/messages/ja.json`
 
 ## 📦 构建
 
@@ -153,6 +157,7 @@ tier_list_maker/
 
 - 英语（`en`）
 - 中文（`zh`）
+- 日语（`ja`）
 
 添加更多语言：
 1. 在 `src/i18n/messages/` 中创建新的JSON文件
@@ -167,12 +172,29 @@ tier_list_maker/
 
 欢迎贡献！请随时提交 Pull Request。
 
+## 📱 社交媒体与SEO优化
+
+项目包含完整的社交媒体优化：
+
+- **Open Graph标签** - 用于Facebook、LinkedIn分享
+- **Twitter卡片** - 用于Twitter预览
+- **SEO元数据** - 关键词、描述、替代文本
+- **多语言支持** - 英文、中文和日文元数据
+
+查看 [社交媒体指南](SOCIAL_MEDIA_GUIDE.md) 了解测试和优化技巧。
+
+### 测试你的社交卡片
+
+- Facebook: https://developers.facebook.com/tools/debug/
+- Twitter: https://cards-dev.twitter.com/validator
+- LinkedIn: https://www.linkedin.com/post-inspector/
+
 ## 📧 联系方式
 
 - 网站：[tierlist-maker.com](https://tierlist-maker.com)
 - 邮箱：support@tierlist-maker.com
+- Twitter：[@tierlistmaker](https://twitter.com/tierlistmaker)
 
 ---
 
 由 Tier表制作工具团队用 ❤️ 制作
-

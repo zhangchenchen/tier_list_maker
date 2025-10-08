@@ -5,6 +5,7 @@ import { Button } from "@/components/ui/button";
 import { X, Upload, Download, Trash2, Loader2, ImagePlus } from "lucide-react";
 import { toast } from "sonner";
 import html2canvas from "html2canvas";
+import { useTranslations } from "next-intl";
 
 interface TierItem {
   id: string;
@@ -23,6 +24,8 @@ const TIERS = [
 const STORAGE_KEY = "tier-list-maker-items";
 
 export default function TierListMaker() {
+  const t = useTranslations("tier_list_maker");
+  
   const [items, setItems] = useState<TierItem[]>([]);
   const [draggedItem, setDraggedItem] = useState<string | null>(null);
   const [dropZone, setDropZone] = useState<string | null>(null); // Highlight drop zone
@@ -73,13 +76,13 @@ export default function TierListMaker() {
         const parsed = JSON.parse(saved);
         setItems(parsed);
         if (parsed.length > 0) {
-          toast.success(`Restored ${parsed.length} items from previous session`);
+          toast.success(t("toast.restored", { count: parsed.length }));
         }
       }
     } catch (error) {
       console.error("Failed to load from localStorage:", error);
     }
-  }, []);
+  }, [t]);
 
   // 🎯 Optimization 2: Save to localStorage whenever items change
   useEffect(() => {
@@ -105,7 +108,7 @@ export default function TierListMaker() {
         if (file.type.startsWith("image/")) {
           // Check file size (max 5MB)
           if (file.size > 5 * 1024 * 1024) {
-            toast.error(`${file.name} is too large (max 5MB)`);
+            toast.error(t("toast.file_too_large", { filename: file.name }));
             continue;
           }
 
@@ -122,7 +125,7 @@ export default function TierListMaker() {
               resolve();
             };
             reader.onerror = () => {
-              toast.error(`Failed to load ${file.name}`);
+              toast.error(t("toast.failed_to_load", { filename: file.name }));
               resolve();
             };
             reader.readAsDataURL(file);
@@ -131,11 +134,12 @@ export default function TierListMaker() {
       }
 
       if (loadedCount > 0) {
-        toast.success(`Added ${loadedCount} ${loadedCount === 1 ? 'item' : 'items'} successfully`);
+        const itemsText = loadedCount === 1 ? t("toast.item") : t("toast.items");
+        toast.success(t("toast.added_success", { count: loadedCount, items: itemsText }));
       }
     } catch (error) {
       console.error("Error loading images:", error);
-      toast.error("Failed to load images");
+      toast.error(t("toast.failed_to_load_images"));
     } finally {
       setIsLoading(false);
       // Reset file input
@@ -148,31 +152,31 @@ export default function TierListMaker() {
   // Remove item
   const handleRemoveItem = useCallback((id: string) => {
     setItems((prev) => prev.filter((item) => item.id !== id));
-    toast.success("Item removed");
+    toast.success(t("toast.item_removed"));
     setShowMobileMenu(false);
     setSelectedItem(null);
-  }, []);
+  }, [t]);
 
   // Clear all items
   const handleClearAll = useCallback(() => {
     if (items.length === 0) {
-      toast.info("No items to clear");
+      toast.info(t("toast.no_items_to_clear"));
       return;
     }
     
     if (confirm("Are you sure you want to delete all items?")) {
       setItems([]);
       localStorage.removeItem(STORAGE_KEY);
-      toast.success("All items cleared");
+      toast.success(t("toast.all_items_cleared"));
     }
-  }, [items.length]);
+  }, [items.length, t]);
 
   // 🎯 Optimization 4: Save as image with loading state
   const handleSaveImage = useCallback(async () => {
     if (!tierListRef.current) return;
     
     if (items.length === 0) {
-      toast.error("Please add items before saving");
+      toast.error(t("toast.please_add_items"));
       return;
     }
 
@@ -192,14 +196,14 @@ export default function TierListMaker() {
       link.href = canvas.toDataURL("image/png");
       link.click();
       
-      toast.success("Image saved successfully!");
+      toast.success(t("toast.image_saved"));
     } catch (error) {
       console.error("Error saving image:", error);
-      toast.error("Failed to save image");
+      toast.error(t("toast.failed_to_save"));
     } finally {
       setIsExporting(false);
     }
-  }, [items.length, isDarkTheme]);
+  }, [items.length, isDarkTheme, t]);
 
   // 🎯 Optimization 1: Drag handlers with drop zone highlight
   const handleDragStart = useCallback((itemId: string) => {
@@ -234,9 +238,9 @@ export default function TierListMaker() {
       );
       setDraggedItem(null);
       setDropZone(null);
-      toast.success(`Moved to ${tierId} tier`);
+      toast.success(t("toast.moved_to_tier", { tier: tierId }));
     },
-    [draggedItem]
+    [draggedItem, t]
   );
 
   // Double click to move item (for desktop backup)
@@ -249,13 +253,13 @@ export default function TierListMaker() {
       const nextIndex = (currentIndex + 1) % TIERS.length;
       const nextTier = TIERS[nextIndex].id;
 
-      toast.success(`Moved to ${nextTier} tier`);
+      toast.success(t("toast.moved_to_tier", { tier: nextTier }));
 
       return prev.map((i) =>
         i.id === itemId ? { ...i, tier: nextTier } : i
       );
     });
-  }, []);
+  }, [t]);
 
   // 🎯 Optimization 5: Mobile quick menu
   const handleItemClick = useCallback((itemId: string, e: React.MouseEvent) => {
@@ -276,10 +280,10 @@ export default function TierListMaker() {
       )
     );
     
-    toast.success(`Moved to ${tierId} tier`);
+    toast.success(t("toast.moved_to_tier", { tier: tierId }));
     setShowMobileMenu(false);
     setSelectedItem(null);
-  }, [selectedItem]);
+  }, [selectedItem, t]);
 
   // Get items for a specific tier
   const getItemsForTier = useCallback(
@@ -313,7 +317,7 @@ export default function TierListMaker() {
           ) : (
             <Upload className="w-4 h-4" />
           )}
-          {isLoading ? "Loading..." : "Add Item"}
+          {isLoading ? t("buttons.loading") : t("buttons.add_item")}
         </Button>
         <Button
           variant="outline"
@@ -327,7 +331,7 @@ export default function TierListMaker() {
           ) : (
             <Download className="w-4 h-4" />
           )}
-          {isExporting ? "Exporting..." : "Save Image"}
+          {isExporting ? t("buttons.exporting") : t("buttons.save_image")}
         </Button>
         <Button
           variant="destructive"
@@ -337,7 +341,7 @@ export default function TierListMaker() {
           disabled={items.length === 0}
         >
           <Trash2 className="w-4 h-4" />
-          Delete All
+          {t("buttons.delete_all")}
         </Button>
       </div>
 
@@ -398,8 +402,8 @@ export default function TierListMaker() {
                     {items.length === 0 && tier.id === "D" ? (
                       <>
                         <ImagePlus className="w-8 h-8 opacity-50" />
-                        <p className="font-medium">Click "Add Item" to get started</p>
-                        <p className="text-xs">Upload images to create your tier list</p>
+                        <p className="font-medium">{t("empty_state.title")}</p>
+                        <p className="text-xs">{t("empty_state.subtitle")}</p>
                       </>
                     ) : (
                       <>
@@ -409,7 +413,7 @@ export default function TierListMaker() {
                           <p>
                             {isMobile 
                               ? "Tap items to move" 
-                              : "Drag items here"}
+                              : t("empty_state.drag_here")}
                           </p>
                         )}
                       </>
@@ -483,7 +487,7 @@ export default function TierListMaker() {
             className="text-xs font-medium tracking-wide"
             style={{ color: isDarkTheme ? "#9ca3af" : "#6b7280" }}
           >
-            Made by
+            {t("watermark.made_by")}
           </span>
           <span 
             className="text-xs font-bold tracking-wide text-red-500"
@@ -509,7 +513,7 @@ export default function TierListMaker() {
             className="bg-gray-900 w-full rounded-t-2xl p-6 space-y-3"
             onClick={(e) => e.stopPropagation()}
           >
-            <h3 className="text-white font-semibold text-lg mb-4">Move to Tier</h3>
+            <h3 className="text-white font-semibold text-lg mb-4">{t("mobile_menu.title")}</h3>
             <div className="grid grid-cols-5 gap-2">
               {TIERS.map((tier) => (
                 <button
@@ -529,7 +533,7 @@ export default function TierListMaker() {
               className="w-full p-3 rounded-lg text-white font-medium"
               style={{ backgroundColor: "#ef4444" }}
             >
-              Delete Item
+              {t("mobile_menu.delete_item")}
             </button>
             <button
               onClick={() => {
