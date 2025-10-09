@@ -16,11 +16,6 @@
           "title": "Features",
           "url": "/#feature",
           "icon": "RiSparkling2Line"
-        },
-        {
-          "title": "Templates",
-          "url": "/showcase",
-          "icon": "RiApps2Line"
         }
       ]
     },
@@ -306,16 +301,6 @@
               "title": "Features",
               "url": "/#feature",
               "target": "_self"
-            }
-          ]
-        },
-        {
-          "title": "Resources",
-          "children": [
-            {
-              "title": "Templates",
-              "url": "https://tierlist-maker.com/showcase",
-              "target": "_blank"
             }
           ]
         }

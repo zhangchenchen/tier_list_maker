@@ -16,11 +16,6 @@
           "title": "功能特性",
           "url": "/#feature",
           "icon": "RiSparkling2Line"
-        },
-        {
-          "title": "模板展示",
-          "url": "/showcase",
-          "icon": "RiApps2Line"
         }
       ]
     },
@@ -306,16 +301,6 @@
               "title": "功能特性",
               "url": "/#feature",
               "target": "_self"
-            }
-          ]
-        },
-        {
-          "title": "资源",
-          "children": [
-            {
-              "title": "模板",
-              "url": "https://tierlist-maker.com/showcase",
-              "target": "_blank"
             }
           ]
         }

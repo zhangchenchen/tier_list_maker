@@ -16,11 +16,6 @@
           "title": "機能",
           "url": "/#feature",
           "icon": "RiSparkling2Line"
-        },
-        {
-          "title": "テンプレート",
-          "url": "/showcase",
-          "icon": "RiApps2Line"
         }
       ]
     },
@@ -306,16 +301,6 @@
               "title": "機能",
               "url": "/#feature",
               "target": "_self"
-            }
-          ]
-        },
-        {
-          "title": "リソース",
-          "children": [
-            {
-              "title": "テンプレート",
-              "url": "https://tierlist-maker.com/showcase",
-              "target": "_blank"
             }
           ]
         }
