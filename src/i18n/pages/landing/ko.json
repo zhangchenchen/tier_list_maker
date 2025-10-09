@@ -1,0 +1,339 @@
+{
+  "template": "TierListMaker-template-one",
+  "theme": "light",
+  "header": {
+    "brand": {
+      "title": "티어표 메이커",
+      "logo": {
+        "src": "/logo.svg",
+        "alt": "티어표 메이커"
+      },
+      "url": "/"
+    },
+    "nav": {
+      "items": [
+        {
+          "title": "기능",
+          "url": "/#feature",
+          "icon": "RiSparkling2Line"
+        }
+      ]
+    },
+    "show_sign": false,
+    "show_theme": true,
+    "show_locale": true
+  },
+  "hero": {
+    "title": "무료 티어표 메이커로 몇 초 만에 나만의 티어표 만들기",
+    "highlight_text": "티어표 메이커",
+    "description": "티어표 메이커는 티어표를 만들고 공유하는 최고의 무료 온라인 도구입니다.",
+    "announcement": {
+      "label": "2025",
+      "title": "🎉 완전 무료 티어표 메이커"
+    },
+    "tip": "🎁 영구 100% 무료",
+    "show_happy_users": false,
+    "show_badge": false
+  },
+  "introduce": {
+    "name": "introduce",
+    "title": "티어표 메이커란",
+    "label": "소개",
+    "description": "티어표 메이커는 원하는 모든 것을 순위별로 정리하여 티어표를 만들고, 사용자 정의하고, 공유할 수 있는 최고의 무료 온라인 도구입니다. 게이머, 영화 팬, 그리고 항목을 티어별로 정리하는 것을 좋아하는 모든 사람에게 완벽합니다.",
+    "image": {
+      "src": "/imgs/features/genshin-tier-maker.webp"
+    },
+    "items": [
+      {
+        "title": "무료 티어표 제작",
+        "description": "티어표 메이커로 무제한 티어표를 완전 무료로 만들 수 있습니다. 가입 없이 바로 좋아하는 항목들을 순위 매길 수 있습니다.",
+        "icon": "RiNextjsFill"
+      },
+      {
+        "title": "드래그 앤 드롭 인터페이스",
+        "description": "티어표 메이커는 직관적인 드래그 앤 드롭 인터페이스를 제공하여 티어표 만들기가 쉽고 재미있습니다.",
+        "icon": "RiDatabase2Line"
+      },
+      {
+        "title": "순위표 공유",
+        "description": "티어표를 내보내고 친구 및 커뮤니티와 공유하세요. 티어표 메이커를 사용하면 순위를 쉽게 보여줄 수 있습니다.",
+        "icon": "RiCloudyFill"
+      }
+    ]
+  },
+  "benefit": {
+    "name": "benefit",
+    "title": "티어표 메이커를 선택하는 이유",
+    "label": "장점",
+    "description": "수천 명의 사용자가 티어표 메이커를 신뢰하여 순위표를 만들고 공유하는 이유를 알아보세요.",
+    "items": [
+      {
+        "title": "완전 무료 티어표 메이커",
+        "description": "티어표 메이커를 비용 없이 사용하세요. 무제한 티어표를 만들고, 티어를 사용자 정의하고, 순위를 다운로드하세요 - 모두 완전 무료입니다.",
+        "icon": "RiNextjsFill",
+        "image": {
+          "src": "/imgs/features/marvel_tier_list.webp"
+        }
+      },
+      {
+        "title": "사용자 정의 가능한 티어표 템플릿",
+        "description": "티어표 메이커는 완전히 사용자 정의 가능한 템플릿을 제공합니다. 색상을 변경하고, 사용자 정의 티어를 추가하고, 티어표를 개인화하여 자신의 스타일에 맞출 수 있습니다.",
+        "icon": "RiClapperboardAiLine",
+        "image": {
+          "src": "/imgs/features/nba_tier_list.webp"
+        }
+      },
+      {
+        "title": "사용하기 쉬운 티어표 메이커",
+        "description": "학습 곡선이 필요 없습니다. 티어표 메이커는 직관적으로 설계되었습니다 - 드래그, 드롭하여 즉시 전문가처럼 보이는 티어표를 만들 수 있습니다.",
+        "icon": "RiCodeFill",
+        "image": {
+          "src": "/imgs/features/video-girl-tier-list.webp"
+        }
+      }
+    ]
+  },
+  "usage": {
+    "name": "usage",
+    "title": "티어표 메이커로 티어표 만드는 방법",
+    "description": "티어표 메이커로 티어표를 만드는 것은 간단합니다. 다음 단계를 따르세요:",
+    "image_position": "left",
+    "text_align": "center",
+    "items": [
+      {
+        "title": "1단계: 항목 추가",
+        "description": "'항목 추가' 버튼을 클릭하여 기기에서 이미지를 업로드하세요. 한 번에 여러 이미지를 업로드할 수 있습니다. 모든 항목은 기본적으로 D 티어에 배치됩니다."
+      },
+      {
+        "title": "2단계: 티어별로 정리",
+        "description": "데스크톱: 티어 간(S, A, B, C, D)에서 항목을 드래그 앤 드롭하세요. 모바일: 항목을 더블 탭하여 다음 티어로 이동하세요. 순위를 쉽게 정리하세요!"
+      },
+      {
+        "title": "3단계: 목록 다듬기",
+        "description": "항목 위에 마우스를 올리면 삭제 버튼(X 아이콘)이 표시되며 원하지 않는 항목을 제거할 수 있습니다. 언제든지 '모두 삭제'를 클릭하여 처음부터 다시 시작할 수 있습니다."
+      },
+      {
+        "title": "4단계: 저장 및 공유",
+        "description": "'이미지 저장'을 클릭하여 티어표를 고품질 PNG 이미지로 다운로드하세요. 소셜 미디어, 포럼 또는 친구들과 즉시 순위를 공유하세요!"
+      }
+    ]
+  },
+  "feature": {
+    "name": "feature",
+    "title": "티어표 메이커의 주요 기능",
+    "description": "매번 완벽한 순위를 만드는 데 필요한 모든 것이 티어표 메이커에 있습니다.",
+    "items": [
+      {
+        "title": "무료 티어표 메이커 도구",
+        "description": "무료로 무제한 티어표를 만드세요. 티어표 메이커는 숨겨진 비용이나 프리미엄 기능 없이 100% 무료입니다.",
+        "icon": "RiNextjsFill"
+      },
+      {
+        "title": "사용자 정의 티어 순위",
+        "description": "티어표 메이커에서 티어 이름, 색상 및 순위를 사용자 정의하세요. 필요에 완벽하게 맞는 티어표를 만드세요.",
+        "icon": "RiKey2Fill"
+      },
+      {
+        "title": "이미지 업로드 지원",
+        "description": "티어표 메이커에 자신의 이미지를 업로드하세요. 순위를 매기고 싶은 캐릭터, 아이템 또는 이미지를 추가하세요.",
+        "icon": "RiDatabase2Line"
+      },
+      {
+        "title": "빠른 내보내기 옵션",
+        "description": "티어표를 고품질 이미지로 다운로드하세요. 티어표 메이커는 즉시 내보내기 기능을 제공합니다.",
+        "icon": "RiCloudy2Fill"
+      },
+      {
+        "title": "모바일 친화적 디자인",
+        "description": "모든 기기에서 티어표 메이커를 사용하세요. 데스크톱, 태블릿 또는 모바일에서 원활하게 티어표를 만들고 편집하세요.",
+        "icon": "RiBarChart2Line"
+      },
+      {
+        "title": "등록 불필요",
+        "description": "티어표 메이커를 즉시 사용하세요. 계정이 필요 없습니다 - 열고 티어표를 만드세요.",
+        "icon": "RiRobot2Line"
+      }
+    ]
+  },
+  "stats": {
+    "name": "stats",
+    "label": "통계",
+    "title": "사용자들이 사랑하는 티어표 메이커",
+    "description": "전문적인 티어표를 손쉽게 만드세요.",
+    "icon": "FaRegHeart",
+    "items": [
+      {
+        "title": "신뢰받는",
+        "label": "10K+",
+        "description": "사용자"
+      },
+      {
+        "title": "생성된",
+        "label": "50K+",
+        "description": "티어표"
+      },
+      {
+        "title": "티어표 제작 시간",
+        "label": "30",
+        "description": "초"
+      }
+    ]
+  },
+  "testimonial": {
+    "name": "testimonial",
+    "label": "사용자 후기",
+    "title": "티어표 메이커에 대한 사용자 평가",
+    "description": "티어표 메이커로 티어표를 만드는 것을 즐기는 사용자들의 의견을 들어보세요.",
+    "icon": "GoThumbsup",
+    "items": [
+      {
+        "title": "알렉스 로드리게스",
+        "label": "게임 콘텐츠 크리에이터",
+        "description": "제가 사용한 티어표 메이커 중 최고입니다! YouTube 채널용으로 매일 티어표를 만드는데, 이 도구는 정말 빠르고 전문적으로 보입니다.",
+        "image": {
+          "src": "/imgs/users/1.png"
+        }
+      },
+      {
+        "title": "사라 첸",
+        "label": "영화 애호가",
+        "description": "친구들과 영화 순위를 매기기 위해 티어표 메이커를 사용합니다. 인터페이스가 매우 직관적이고 완전히 무료라는 점이 마음에 듭니다. 최고의 온라인 티어표 메이커입니다!",
+        "image": {
+          "src": "/imgs/users/2.png"
+        }
+      },
+      {
+        "title": "마이크 존슨",
+        "label": "e스포츠 코치",
+        "description": "우리 팀은 이 티어표 메이커를 캐릭터 순위와 전략 계획에 사용합니다. 신뢰할 수 있고, 빠르며, 경쟁 분석에 필요한 모든 것을 갖추고 있습니다.",
+        "image": {
+          "src": "/imgs/users/3.png"
+        }
+      },
+      {
+        "title": "엠마 톰슨",
+        "label": "애니메이션 블로거",
+        "description": "애니메이션 캐릭터 티어표를 만드는 것이 제 취미인데, 이 티어표 메이커가 완벽합니다! 사용자 정의하기 쉽고, 멋져 보이며, 즉시 순위를 공유할 수 있습니다.",
+        "image": {
+          "src": "/imgs/users/4.png"
+        }
+      },
+      {
+        "title": "데이비드 박",
+        "label": "Twitch 스트리머",
+        "description": "스트리밍 중에 이 도구로 티어표를 실시간으로 만듭니다. 시청자들은 깔끔한 디자인을 좋아하고 절대 지연되지 않습니다. 최고의 무료 티어표 메이커입니다!",
+        "image": {
+          "src": "/imgs/users/5.png"
+        }
+      },
+      {
+        "title": "리사 마르티네스",
+        "label": "커뮤니티 매니저",
+        "description": "커뮤니티 투표와 토론에 티어표 메이커를 사용합니다. 누구나 사용할 수 있을 만큼 간단하고 매번 전문적인 결과를 만들어냅니다.",
+        "image": {
+          "src": "/imgs/users/6.png"
+        }
+      }
+    ]
+  },
+  "faq": {
+    "name": "faq",
+    "label": "자주 묻는 질문",
+    "title": "티어표 메이커에 대한 자주 묻는 질문",
+    "description": "다른 질문이 있으신가요? Discord 또는 이메일로 문의하세요.",
+    "items": [
+      {
+        "title": "티어표 메이커란 무엇인가요?",
+        "description": "티어표 메이커는 항목을 다른 티어(S, A, B, C, D, F)로 정리하여 순위 차트를 만들 수 있는 무료 온라인 도구입니다. 티어표 메이커는 비디오 게임 캐릭터부터 영화까지 모든 것을 시각적으로 순위 매기는 데 도움이 됩니다."
+      },
+      {
+        "title": "이 티어표 메이커는 정말 무료인가요?",
+        "description": "네! 티어표 메이커는 100% 무료로 사용할 수 있습니다. 무제한 티어표를 만들고, 사용자 정의하고, 순위를 다운로드할 수 있으며 비용이나 구독이 전혀 없습니다."
+      },
+      {
+        "title": "티어표 메이커를 사용하려면 계정을 만들어야 하나요?",
+        "description": "계정이 필요 없습니다! 티어표 메이커를 즉시 사용할 수 있습니다. tierlist-maker.com을 방문하여 바로 티어표 만들기를 시작하세요."
+      },
+      {
+        "title": "티어표 메이커로 티어표를 만드는 방법은?",
+        "description": "티어표 메이커 사용은 간단합니다: 1) 템플릿을 선택하거나 만들기, 2) 항목이나 이미지 추가, 3) 항목을 티어로 드래그 앤 드롭, 4) 색상과 이름 사용자 정의, 5) 티어표 다운로드 또는 공유."
+      },
+      {
+        "title": "티어표 메이커에 사용자 정의 이미지를 업로드할 수 있나요?",
+        "description": "물론입니다! 티어표 메이커는 사용자 정의 이미지 업로드를 지원합니다. 티어표에서 순위를 매기고 싶은 캐릭터, 아이템 또는 기타 이미지를 추가할 수 있습니다."
+      },
+      {
+        "title": "티어표 메이커로 만든 티어표를 공유하는 방법은?",
+        "description": "티어표를 만든 후 티어표 메이커를 사용하여 고품질 이미지로 다운로드할 수 있습니다. 그런 다음 소셜 미디어, 포럼 또는 원하는 곳 어디에서나 이 이미지를 공유할 수 있습니다."
+      }
+    ]
+  },
+  "cta": {
+    "name": "cta",
+    "title": "지금 첫 번째 티어표 만들기",
+    "description": "오늘 최고의 무료 티어표 메이커로 순위 매기기를 시작하세요.",
+    "buttons": [
+      {
+        "title": "티어표 메이커 사용 시작하기",
+        "url": "/#hero",
+        "icon": "GoArrowUpRight"
+      }
+    ]
+  },
+  "footer": {
+    "name": "footer",
+    "brand": {
+      "title": "티어표 메이커",
+      "description": "티어표 메이커는 티어표를 만들고 공유하는 최고의 무료 온라인 도구입니다. 사용하기 쉬운 티어표 메이커로 게임, 영화, 캐릭터 등에 대한 사용자 정의 순위를 만드세요.",
+      "logo": {
+        "src": "/logo.svg",
+        "alt": "티어표 메이커"
+      },
+      "url": "/"
+    },
+    "copyright": "© 2025 • 티어표 메이커 All rights reserved.",
+    "nav": {
+      "items": [
+        {
+          "title": "소개",
+          "children": [
+            {
+              "title": "기능",
+              "url": "/#feature",
+              "target": "_self"
+            }
+          ]
+        }
+      ]
+    },
+    "social": {
+      "items": [
+        {
+          "title": "이메일",
+          "icon": "RiMailLine",
+          "url": "mailto:support@tierlist-maker.com",
+          "target": "_self"
+        },
+        {
+          "title": "GitHub",
+          "icon": "RiGithubLine",
+          "url": "https://github.com/zhangchenchen/tier_list_maker",
+          "target": "_blank"
+        }
+      ]
+    },
+    "agreement": {
+      "items": [
+        {
+          "title": "개인정보 보호정책",
+          "url": "/privacy-policy"
+        },
+        {
+          "title": "서비스 약관",
+          "url": "/terms-of-service"
+        }
+      ]
+    }
+  }
+}
+

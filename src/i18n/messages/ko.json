@@ -1,0 +1,174 @@
+{
+  "metadata": {
+    "title": "온라인 맞춤 티어표 만들기 | 100% 무료 가입 없음",
+    "description": "티어표 메이커는 원하는 모든 것을 순위별로 정리하여 티어표를 만들고, 사용자 정의하고, 공유할 수 있는 최고의 무료 온라인 도구입니다.",
+    "keywords": "티어표 메이커, 티어표 제작, 순위 도구, 무료 티어표, 티어표 생성기, 티어표 만들기"
+  },
+  "user": {
+    "sign_in": "로그인",
+    "sign_out": "로그아웃",
+    "credits": "크레딧",
+    "api_keys": "API 키",
+    "my_orders": "내 주문",
+    "user_center": "사용자 센터",
+    "admin_system": "관리자 시스템"
+  },
+  "sign_modal": {
+    "sign_in_title": "로그인",
+    "sign_in_description": "계정에 로그인하세요",
+    "sign_up_title": "회원가입",
+    "sign_up_description": "계정 만들기",
+    "email_title": "이메일",
+    "email_placeholder": "이메일을 입력하세요",
+    "password_title": "비밀번호",
+    "password_placeholder": "비밀번호를 입력하세요",
+    "forgot_password": "비밀번호를 잊으셨나요?",
+    "or": "또는",
+    "continue": "계속",
+    "no_account": "계정이 없으신가요?",
+    "email_sign_in": "이메일로 로그인",
+    "google_sign_in": "Google로 로그인",
+    "github_sign_in": "GitHub로 로그인",
+    "close_title": "닫기",
+    "cancel_title": "취소"
+  },
+  "my_orders": {
+    "title": "내 주문",
+    "description": "티어표 메이커로 결제한 주문입니다.",
+    "no_orders": "주문을 찾을 수 없습니다",
+    "tip": "",
+    "activate_order": "주문 활성화",
+    "actived": "활성화됨",
+    "join_discord": "Discord 참여",
+    "read_docs": "문서 읽기",
+    "table": {
+      "order_no": "주문 번호",
+      "email": "이메일",
+      "product_name": "제품명",
+      "amount": "금액",
+      "paid_at": "결제일",
+      "github_username": "GitHub 사용자명",
+      "status": "상태",
+      "manage_billing": "결제 관리",
+      "interval": "간격",
+      "interval_month": "월간",
+      "interval_year": "연간",
+      "interval_one_time": "일회성"
+    }
+  },
+  "my_credits": {
+    "title": "내 크레딧",
+    "left_tip": "남은 크레딧: {left_credits}",
+    "no_credits": "크레딧 기록 없음",
+    "recharge": "충전",
+    "table": {
+      "trans_no": "거래 번호",
+      "trans_type": "거래 유형",
+      "credits": "크레딧",
+      "updated_at": "업데이트됨",
+      "status": "상태",
+      "expired_at": "만료일",
+      "created_at": "생성일"
+    }
+  },
+  "api_keys": {
+    "title": "API 키",
+    "tip": "API 키가 유출되지 않도록 안전하게 보관하세요",
+    "no_api_keys": "API 키 없음",
+    "create_api_key": "API 키 만들기",
+    "table": {
+      "name": "이름",
+      "key": "키",
+      "created_at": "생성일"
+    },
+    "form": {
+      "name": "이름",
+      "name_placeholder": "API 키 이름",
+      "submit": "제출"
+    }
+  },
+  "blog": {
+    "title": "블로그",
+    "description": "티어표 메이커에 대한 뉴스, 리소스 및 업데이트",
+    "read_more_text": "더 읽기",
+    "no_content": "콘텐츠 없음",
+    "all": "전체",
+    "category": "카테고리",
+    "author": "작성자"
+  },
+  "my_invites": {
+    "title": "내 초대",
+    "description": "초대 기록 보기",
+    "no_invites": "초대 기록을 찾을 수 없습니다",
+    "my_invite_link": "내 초대 링크",
+    "edit_invite_link": "초대 링크 편집",
+    "copy_invite_link": "초대 링크 복사",
+    "invite_code": "초대 코드",
+    "invite_tip": "친구 1명을 초대하여 티어표 메이커로 업그레이드하면 $50를 보상합니다.",
+    "invite_balance": "초대 보상 잔액",
+    "total_invite_count": "총 초대 수",
+    "total_paid_count": "총 결제 수",
+    "total_award_amount": "총 보상 금액",
+    "update_invite_code": "초대 코드 설정",
+    "update_invite_code_tip": "맞춤 초대 코드를 입력하세요",
+    "update_invite_button": "저장",
+    "no_orders": "티어표 메이커로 업그레이드하기 전에는 다른 사람을 초대할 수 없습니다",
+    "no_affiliates": "다른 사람을 초대할 수 없습니다. 권한을 신청하려면 문의하세요.",
+    "table": {
+      "invite_time": "초대 시간",
+      "invite_user": "초대 사용자",
+      "status": "상태",
+      "reward_percent": "보상 비율",
+      "reward_amount": "보상 금액",
+      "pending": "대기 중",
+      "completed": "완료됨"
+    }
+  },
+  "feedback": {
+    "title": "피드백",
+    "description": "무엇이 좋았는지 또는 제품 경험을 어떻게 개선할 수 있는지 알려주세요.",
+    "submit": "제출",
+    "loading": "제출 중...",
+    "contact_tip": "문의할 수 있는 다른 방법",
+    "rating_tip": "티어표 메이커에 대해 어떻게 생각하시나요?",
+    "placeholder": "여기에 의견을 남겨주세요..."
+  },
+  "tier_list_maker": {
+    "buttons": {
+      "add_item": "항목 추가",
+      "save_image": "이미지 저장",
+      "delete_all": "모두 삭제",
+      "loading": "로딩 중...",
+      "exporting": "내보내는 중..."
+    },
+    "toast": {
+      "restored": "이전 세션에서 {count}개 항목을 복원했습니다",
+      "file_too_large": "{filename}이(가) 너무 큽니다 (최대 5MB)",
+      "failed_to_load": "{filename}을(를) 로드하지 못했습니다",
+      "added_success": "{count}개 {items}을(를) 성공적으로 추가했습니다",
+      "item": "항목",
+      "items": "항목",
+      "failed_to_load_images": "이미지를 로드하지 못했습니다",
+      "item_removed": "항목이 제거되었습니다",
+      "no_items_to_clear": "지울 항목이 없습니다",
+      "all_items_cleared": "모든 항목이 지워졌습니다",
+      "please_add_items": "저장하기 전에 항목을 추가하세요",
+      "image_saved": "이미지가 성공적으로 저장되었습니다!",
+      "failed_to_save": "이미지 저장에 실패했습니다",
+      "moved_to_tier": "{tier} 티어로 이동했습니다"
+    },
+    "empty_state": {
+      "title": "\"항목 추가\"를 클릭하여 시작하세요",
+      "subtitle": "티어표를 만들려면 이미지를 업로드하세요",
+      "drag_here": "여기에 항목을 드래그하세요"
+    },
+    "mobile_menu": {
+      "title": "티어로 이동",
+      "delete_item": "항목 삭제"
+    },
+    "watermark": {
+      "made_by": "제작자"
+    }
+  }
+}
+
