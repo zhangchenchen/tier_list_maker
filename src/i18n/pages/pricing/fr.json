@@ -1,0 +1,324 @@
+{
+  "pricing": {
+    "name": "pricing",
+    "label": "Tarification",
+    "title": "Tarification",
+    "description": "Obtenez toutes les fonctionnalités de TierListMaker, Lancez vos startups AI SaaS rapidement.",
+    "groups": [
+      {
+        "name": "one-time",
+        "title": "Paiement unique"
+      },
+      {
+        "name": "monthly",
+        "title": "Mensuel",
+        "is_featured": true,
+        "label": "économisez 15%"
+      },
+      {
+        "name": "yearly",
+        "title": "Annuel"
+      }
+    ],
+    "items": [
+      {
+        "title": "Starter",
+        "description": "Commencez avec votre première startup SaaS.",
+        "features_title": "Inclut",
+        "features": [
+          "100 crédits, valables 1 mois",
+          "Boilerplate NextJS",
+          "Structure SEO-friendly",
+          "Paiement avec Stripe",
+          "Stockage de données avec Supabase",
+          "Google Oauth & Connexion One-Tap",
+          "Support i18n"
+        ],
+        "interval": "one-time",
+        "amount": 9900,
+        "cn_amount": 69900,
+        "currency": "USD",
+        "price": "$99",
+        "original_price": "$199",
+        "unit": "unique",
+        "is_featured": false,
+        "tip": "Payez une fois. Créez des projets illimités!",
+        "button": {
+          "title": "Obtenir TierListMaker",
+          "url": "/#pricing",
+          "icon": "RiFlashlightFill"
+        },
+        "product_id": "starter",
+        "product_name": "TierListMaker Boilerplate Starter",
+        "credits": 100,
+        "valid_months": 1,
+        "group": "one-time"
+      },
+      {
+        "title": "Standard",
+        "description": "Lancez rapidement vos Startups SaaS.",
+        "label": "Populaire",
+        "features_title": "Tout dans Starter, plus",
+        "features": [
+          "200 crédits, valables 3 mois",
+          "Déploiement avec Vercel ou Cloudflare",
+          "Génération de Confidentialité & Conditions",
+          "Intégration Google Analytics",
+          "Intégration Google Search Console",
+          "Communauté Discord",
+          "Support technique pour votre premier lancement",
+          "Mises à jour à vie"
+        ],
+        "interval": "one-time",
+        "amount": 19900,
+        "cn_amount": 139900,
+        "currency": "USD",
+        "price": "$199",
+        "original_price": "$299",
+        "unit": "unique",
+        "is_featured": true,
+        "tip": "Payez une fois. Créez des projets illimités!",
+        "button": {
+          "title": "Obtenir TierListMaker",
+          "url": "/#pricing",
+          "icon": "RiFlashlightFill"
+        },
+        "product_id": "standard",
+        "product_name": "TierListMaker Boilerplate Standard",
+        "credits": 200,
+        "valid_months": 3,
+        "group": "one-time"
+      },
+      {
+        "title": "Premium",
+        "description": "Tier List Maker AI SaaS Startups.",
+        "features_title": "Tout dans Standard, plus",
+        "features": [
+          "300 crédits, valables 1 an",
+          "Fonctions Business avec AI",
+          "Centre Utilisateur",
+          "Système de Crédits",
+          "Vente d'API pour votre SaaS",
+          "Système Admin",
+          "Support Technique Prioritaire"
+        ],
+        "interval": "one-time",
+        "amount": 29900,
+        "cn_amount": 199900,
+        "currency": "USD",
+        "price": "$299",
+        "original_price": "$399",
+        "unit": "unique",
+        "is_featured": false,
+        "tip": "Payez une fois. Créez des projets illimités!",
+        "button": {
+          "title": "Obtenir TierListMaker",
+          "url": "/#pricing",
+          "icon": "RiFlashlightFill"
+        },
+        "product_id": "premium",
+        "product_name": "TierListMaker Boilerplate Premium",
+        "credits": 300,
+        "valid_months": 12,
+        "group": "one-time"
+      },
+      {
+        "title": "Starter",
+        "description": "Commencez avec votre première startup SaaS.",
+        "features_title": "Inclut",
+        "features": [
+          "100 crédits, valables 1 mois",
+          "Boilerplate NextJS",
+          "Structure SEO-friendly",
+          "Paiement avec Stripe",
+          "Stockage de données avec Supabase",
+          "Google Oauth & Connexion One-Tap",
+          "Support i18n"
+        ],
+        "interval": "month",
+        "amount": 8900,
+        "currency": "USD",
+        "price": "$89",
+        "original_price": "$99",
+        "unit": "/ mois",
+        "is_featured": false,
+        "tip": "Payez mensuellement. Créez des projets illimités!",
+        "button": {
+          "title": "Obtenir TierListMaker",
+          "url": "/#pricing",
+          "icon": "RiFlashlightFill"
+        },
+        "product_id": "starter-monthly",
+        "product_name": "TierListMaker Boilerplate Starter Mensuel",
+        "credits": 100,
+        "valid_months": 1,
+        "group": "monthly"
+      },
+      {
+        "title": "Standard",
+        "description": "Lancez rapidement vos Startups SaaS.",
+        "label": "Populaire",
+        "features_title": "Tout dans Starter, plus",
+        "features": [
+          "200 crédits, valables 1 mois",
+          "Déploiement avec Vercel ou Cloudflare",
+          "Génération de Confidentialité & Conditions",
+          "Intégration Google Analytics",
+          "Intégration Google Search Console",
+          "Communauté Discord",
+          "Support technique pour votre premier lancement",
+          "Mises à jour à vie"
+        ],
+        "interval": "month",
+        "amount": 16900,
+        "currency": "USD",
+        "price": "$169",
+        "original_price": "$199",
+        "unit": "/ mois",
+        "is_featured": true,
+        "tip": "Payez mensuellement. Lancez rapidement vos Startups SaaS.",
+        "button": {
+          "title": "Obtenir TierListMaker",
+          "url": "/#pricing",
+          "icon": "RiFlashlightFill"
+        },
+        "product_id": "standard-monthly",
+        "product_name": "TierListMaker Boilerplate Standard Mensuel",
+        "credits": 200,
+        "valid_months": 1,
+        "group": "monthly"
+      },
+      {
+        "title": "Premium",
+        "description": "Tier List Maker AI SaaS Startups.",
+        "features_title": "Tout dans Standard, plus",
+        "features": [
+          "300 crédits, valables 1 mois",
+          "Fonctions Business avec AI",
+          "Centre Utilisateur",
+          "Système de Crédits",
+          "Vente d'API pour votre SaaS",
+          "Système Admin",
+          "Support Technique Prioritaire"
+        ],
+        "interval": "month",
+        "amount": 24900,
+        "currency": "USD",
+        "price": "$249",
+        "original_price": "$299",
+        "unit": "/ mois",
+        "is_featured": false,
+        "tip": "Payez mensuellement. Tier List Maker AI SaaS Startups.",
+        "button": {
+          "title": "Obtenir TierListMaker",
+          "url": "/#pricing",
+          "icon": "RiFlashlightFill"
+        },
+        "product_id": "premium-monthly",
+        "product_name": "TierListMaker Boilerplate Premium Mensuel",
+        "credits": 300,
+        "valid_months": 1,
+        "group": "monthly"
+      },
+      {
+        "title": "Starter",
+        "description": "Commencez avec votre première startup SaaS.",
+        "features_title": "Inclut",
+        "features": [
+          "100 crédits, valables 1 an",
+          "Boilerplate NextJS",
+          "Structure SEO-friendly",
+          "Paiement avec Stripe",
+          "Stockage de données avec Supabase",
+          "Google Oauth & Connexion One-Tap",
+          "Support i18n"
+        ],
+        "interval": "year",
+        "amount": 82800,
+        "currency": "USD",
+        "price": "$69",
+        "original_price": "$89",
+        "unit": "/ mois",
+        "is_featured": false,
+        "tip": "Payez annuellement. Créez des projets illimités!",
+        "button": {
+          "title": "Obtenir TierListMaker",
+          "url": "/#pricing",
+          "icon": "RiFlashlightFill"
+        },
+        "product_id": "starter-yearly",
+        "product_name": "TierListMaker Boilerplate Starter Annuel",
+        "credits": 1200,
+        "valid_months": 12,
+        "group": "yearly"
+      },
+      {
+        "title": "Standard",
+        "description": "Lancez rapidement vos Startups SaaS.",
+        "label": "Populaire",
+        "features_title": "Tout dans Starter, plus",
+        "features": [
+          "200 crédits, valables 1 an",
+          "Déploiement avec Vercel ou Cloudflare",
+          "Génération de Confidentialité & Conditions",
+          "Intégration Google Analytics",
+          "Intégration Google Search Console",
+          "Communauté Discord",
+          "Support technique pour votre premier lancement",
+          "Mises à jour à vie"
+        ],
+        "interval": "year",
+        "amount": 154800,
+        "currency": "USD",
+        "price": "$129",
+        "original_price": "$169",
+        "unit": "/ mois",
+        "is_featured": true,
+        "tip": "Payez annuellement. Lancez rapidement vos Startups SaaS.",
+        "button": {
+          "title": "Obtenir TierListMaker",
+          "url": "/#pricing",
+          "icon": "RiFlashlightFill"
+        },
+        "product_id": "standard-yearly",
+        "product_name": "TierListMaker Boilerplate Standard Annuel",
+        "credits": 2400,
+        "valid_months": 12,
+        "group": "yearly"
+      },
+      {
+        "title": "Premium",
+        "description": "Tier List Maker AI SaaS Startups.",
+        "features_title": "Tout dans Standard, plus",
+        "features": [
+          "300 crédits, valables 1 an",
+          "Fonctions Business avec AI",
+          "Centre Utilisateur",
+          "Système de Crédits",
+          "Vente d'API pour votre SaaS",
+          "Système Admin",
+          "Support Technique Prioritaire"
+        ],
+        "interval": "year",
+        "amount": 226800,
+        "currency": "USD",
+        "price": "$189",
+        "original_price": "$249",
+        "unit": "/ mois",
+        "is_featured": false,
+        "tip": "Payez annuellement. Tier List Maker AI SaaS Startups.",
+        "button": {
+          "title": "Obtenir TierListMaker",
+          "url": "/#pricing",
+          "icon": "RiFlashlightFill"
+        },
+        "product_id": "premium-yearly",
+        "product_name": "TierListMaker Boilerplate Premium Annuel",
+        "credits": 3600,
+        "valid_months": 12,
+        "group": "yearly"
+      }
+    ]
+  }
+}
+

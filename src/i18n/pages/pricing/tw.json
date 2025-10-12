@@ -1,0 +1,324 @@
+{
+  "pricing": {
+    "name": "pricing",
+    "label": "定價",
+    "title": "定價",
+    "description": "取得 TierListMaker 的所有功能，快速推出您的 AI SaaS 新創。",
+    "groups": [
+      {
+        "name": "one-time",
+        "title": "單次付款"
+      },
+      {
+        "name": "monthly",
+        "title": "月付",
+        "is_featured": true,
+        "label": "節省 15%"
+      },
+      {
+        "name": "yearly",
+        "title": "年付"
+      }
+    ],
+    "items": [
+      {
+        "title": "入門版",
+        "description": "開始您的第一個 SaaS 新創。",
+        "features_title": "包含",
+        "features": [
+          "100 點數，有效期 1 個月",
+          "NextJS 樣板",
+          "SEO 友善結構",
+          "Stripe 付款",
+          "Supabase 資料儲存",
+          "Google Oauth 和一鍵登入",
+          "i18n 支援"
+        ],
+        "interval": "one-time",
+        "amount": 9900,
+        "cn_amount": 69900,
+        "currency": "USD",
+        "price": "$99",
+        "original_price": "$199",
+        "unit": "單次",
+        "is_featured": false,
+        "tip": "付款一次。建立無限專案！",
+        "button": {
+          "title": "取得 TierListMaker",
+          "url": "/#pricing",
+          "icon": "RiFlashlightFill"
+        },
+        "product_id": "starter",
+        "product_name": "TierListMaker 樣板 入門版",
+        "credits": 100,
+        "valid_months": 1,
+        "group": "one-time"
+      },
+      {
+        "title": "標準版",
+        "description": "快速推出您的 SaaS 新創。",
+        "label": "熱門",
+        "features_title": "入門版的所有內容，加上",
+        "features": [
+          "200 點數，有效期 3 個月",
+          "使用 Vercel 或 Cloudflare 部署",
+          "產生隱私權和條款",
+          "Google Analytics 整合",
+          "Google Search Console 整合",
+          "Discord 社群",
+          "首次推出的技術支援",
+          "終身更新"
+        ],
+        "interval": "one-time",
+        "amount": 19900,
+        "cn_amount": 139900,
+        "currency": "USD",
+        "price": "$199",
+        "original_price": "$299",
+        "unit": "單次",
+        "is_featured": true,
+        "tip": "付款一次。建立無限專案！",
+        "button": {
+          "title": "取得 TierListMaker",
+          "url": "/#pricing",
+          "icon": "RiFlashlightFill"
+        },
+        "product_id": "standard",
+        "product_name": "TierListMaker 樣板 標準版",
+        "credits": 200,
+        "valid_months": 3,
+        "group": "one-time"
+      },
+      {
+        "title": "專業版",
+        "description": "Tier List Maker AI SaaS 新創。",
+        "features_title": "標準版的所有內容，加上",
+        "features": [
+          "300 點數，有效期 1 年",
+          "AI 商業功能",
+          "使用者中心",
+          "點數系統",
+          "為您的 SaaS 銷售 API",
+          "管理系統",
+          "優先技術支援"
+        ],
+        "interval": "one-time",
+        "amount": 29900,
+        "cn_amount": 199900,
+        "currency": "USD",
+        "price": "$299",
+        "original_price": "$399",
+        "unit": "單次",
+        "is_featured": false,
+        "tip": "付款一次。建立無限專案！",
+        "button": {
+          "title": "取得 TierListMaker",
+          "url": "/#pricing",
+          "icon": "RiFlashlightFill"
+        },
+        "product_id": "premium",
+        "product_name": "TierListMaker 樣板 專業版",
+        "credits": 300,
+        "valid_months": 12,
+        "group": "one-time"
+      },
+      {
+        "title": "入門版",
+        "description": "開始您的第一個 SaaS 新創。",
+        "features_title": "包含",
+        "features": [
+          "100 點數，有效期 1 個月",
+          "NextJS 樣板",
+          "SEO 友善結構",
+          "Stripe 付款",
+          "Supabase 資料儲存",
+          "Google Oauth 和一鍵登入",
+          "i18n 支援"
+        ],
+        "interval": "month",
+        "amount": 8900,
+        "currency": "USD",
+        "price": "$89",
+        "original_price": "$99",
+        "unit": "/ 月",
+        "is_featured": false,
+        "tip": "按月付款。建立無限專案！",
+        "button": {
+          "title": "取得 TierListMaker",
+          "url": "/#pricing",
+          "icon": "RiFlashlightFill"
+        },
+        "product_id": "starter-monthly",
+        "product_name": "TierListMaker 樣板 入門版 月付",
+        "credits": 100,
+        "valid_months": 1,
+        "group": "monthly"
+      },
+      {
+        "title": "標準版",
+        "description": "快速推出您的 SaaS 新創。",
+        "label": "熱門",
+        "features_title": "入門版的所有內容，加上",
+        "features": [
+          "200 點數，有效期 1 個月",
+          "使用 Vercel 或 Cloudflare 部署",
+          "產生隱私權和條款",
+          "Google Analytics 整合",
+          "Google Search Console 整合",
+          "Discord 社群",
+          "首次推出的技術支援",
+          "終身更新"
+        ],
+        "interval": "month",
+        "amount": 16900,
+        "currency": "USD",
+        "price": "$169",
+        "original_price": "$199",
+        "unit": "/ 月",
+        "is_featured": true,
+        "tip": "按月付款。快速推出您的 SaaS 新創。",
+        "button": {
+          "title": "取得 TierListMaker",
+          "url": "/#pricing",
+          "icon": "RiFlashlightFill"
+        },
+        "product_id": "standard-monthly",
+        "product_name": "TierListMaker 樣板 標準版 月付",
+        "credits": 200,
+        "valid_months": 1,
+        "group": "monthly"
+      },
+      {
+        "title": "專業版",
+        "description": "Tier List Maker AI SaaS 新創。",
+        "features_title": "標準版的所有內容，加上",
+        "features": [
+          "300 點數，有效期 1 個月",
+          "AI 商業功能",
+          "使用者中心",
+          "點數系統",
+          "為您的 SaaS 銷售 API",
+          "管理系統",
+          "優先技術支援"
+        ],
+        "interval": "month",
+        "amount": 24900,
+        "currency": "USD",
+        "price": "$249",
+        "original_price": "$299",
+        "unit": "/ 月",
+        "is_featured": false,
+        "tip": "按月付款。Tier List Maker AI SaaS 新創。",
+        "button": {
+          "title": "取得 TierListMaker",
+          "url": "/#pricing",
+          "icon": "RiFlashlightFill"
+        },
+        "product_id": "premium-monthly",
+        "product_name": "TierListMaker 樣板 專業版 月付",
+        "credits": 300,
+        "valid_months": 1,
+        "group": "monthly"
+      },
+      {
+        "title": "入門版",
+        "description": "開始您的第一個 SaaS 新創。",
+        "features_title": "包含",
+        "features": [
+          "100 點數，有效期 1 年",
+          "NextJS 樣板",
+          "SEO 友善結構",
+          "Stripe 付款",
+          "Supabase 資料儲存",
+          "Google Oauth 和一鍵登入",
+          "i18n 支援"
+        ],
+        "interval": "year",
+        "amount": 82800,
+        "currency": "USD",
+        "price": "$69",
+        "original_price": "$89",
+        "unit": "/ 月",
+        "is_featured": false,
+        "tip": "按年付款。建立無限專案！",
+        "button": {
+          "title": "取得 TierListMaker",
+          "url": "/#pricing",
+          "icon": "RiFlashlightFill"
+        },
+        "product_id": "starter-yearly",
+        "product_name": "TierListMaker 樣板 入門版 年付",
+        "credits": 1200,
+        "valid_months": 12,
+        "group": "yearly"
+      },
+      {
+        "title": "標準版",
+        "description": "快速推出您的 SaaS 新創。",
+        "label": "熱門",
+        "features_title": "入門版的所有內容，加上",
+        "features": [
+          "200 點數，有效期 1 年",
+          "使用 Vercel 或 Cloudflare 部署",
+          "產生隱私權和條款",
+          "Google Analytics 整合",
+          "Google Search Console 整合",
+          "Discord 社群",
+          "首次推出的技術支援",
+          "終身更新"
+        ],
+        "interval": "year",
+        "amount": 154800,
+        "currency": "USD",
+        "price": "$129",
+        "original_price": "$169",
+        "unit": "/ 月",
+        "is_featured": true,
+        "tip": "按年付款。快速推出您的 SaaS 新創。",
+        "button": {
+          "title": "取得 TierListMaker",
+          "url": "/#pricing",
+          "icon": "RiFlashlightFill"
+        },
+        "product_id": "standard-yearly",
+        "product_name": "TierListMaker 樣板 標準版 年付",
+        "credits": 2400,
+        "valid_months": 12,
+        "group": "yearly"
+      },
+      {
+        "title": "專業版",
+        "description": "Tier List Maker AI SaaS 新創。",
+        "features_title": "標準版的所有內容，加上",
+        "features": [
+          "300 點數，有效期 1 年",
+          "AI 商業功能",
+          "使用者中心",
+          "點數系統",
+          "為您的 SaaS 銷售 API",
+          "管理系統",
+          "優先技術支援"
+        ],
+        "interval": "year",
+        "amount": 226800,
+        "currency": "USD",
+        "price": "$189",
+        "original_price": "$249",
+        "unit": "/ 月",
+        "is_featured": false,
+        "tip": "按年付款。Tier List Maker AI SaaS 新創。",
+        "button": {
+          "title": "取得 TierListMaker",
+          "url": "/#pricing",
+          "icon": "RiFlashlightFill"
+        },
+        "product_id": "premium-yearly",
+        "product_name": "TierListMaker 樣板 專業版 年付",
+        "credits": 3600,
+        "valid_months": 12,
+        "group": "yearly"
+      }
+    ]
+  }
+}
+

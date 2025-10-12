@@ -1,0 +1,339 @@
+{
+  "template": "TierListMaker-template-one",
+  "theme": "light",
+  "header": {
+    "brand": {
+      "title": "Tier List Maker",
+      "logo": {
+        "src": "/logo.svg",
+        "alt": "Tier List Maker"
+      },
+      "url": "/"
+    },
+    "nav": {
+      "items": [
+        {
+          "title": "功能特色",
+          "url": "/#feature",
+          "icon": "RiSparkling2Line"
+        }
+      ]
+    },
+    "show_sign": false,
+    "show_theme": true,
+    "show_locale": true
+  },
+  "hero": {
+    "title": "使用 Tier List Maker 在數秒內建立您的免費 Tier List",
+    "highlight_text": "Tier List Maker",
+    "description": "Tier List Maker 是排名第一的免費線上工具，用於建立和分享 tier list。",
+    "announcement": {
+      "label": "2025",
+      "title": "🎉 免費 Tier List Maker"
+    },
+    "tip": "🎁 永久 100% 免費",
+    "show_happy_users": false,
+    "show_badge": false
+  },
+  "introduce": {
+    "name": "introduce",
+    "title": "什麼是 Tier List Maker",
+    "label": "簡介",
+    "description": "Tier List Maker 是排名第一的免費線上工具，幫助您建立、自訂和分享任何您想排名的 tier list。我們的 Tier List Maker 非常適合遊戲玩家、電影愛好者以及任何喜歡將項目組織成等級的人。",
+    "image": {
+      "src": "/imgs/features/genshin-tier-maker.webp"
+    },
+    "items": [
+      {
+        "title": "免費建立 Tier List",
+        "description": "使用我們的 Tier List Maker 完全免費建立無限的 tier list。開始排名您最喜歡的項目無需註冊。",
+        "icon": "RiNextjsFill"
+      },
+      {
+        "title": "拖放介面",
+        "description": "我們的 Tier List Maker 具有直覺的拖放介面，使建立 tier list 變得輕鬆有趣。",
+        "icon": "RiDatabase2Line"
+      },
+      {
+        "title": "分享您的排名",
+        "description": "匯出並與朋友和社群分享您的 tier list。Tier List Maker 讓展示您的排名變得輕而易舉。",
+        "icon": "RiCloudyFill"
+      }
+    ]
+  },
+  "benefit": {
+    "name": "benefit",
+    "title": "為什麼選擇我們的 Tier List Maker",
+    "label": "優勢",
+    "description": "了解為什麼數千名使用者信任我們的 Tier List Maker 來建立和分享他們的排名。",
+    "items": [
+      {
+        "title": "完全免費的 Tier List Maker",
+        "description": "無需任何費用即可使用我們的 Tier List Maker。建立無限的 tier list、自訂等級並下載您的排名 - 完全免費。",
+        "icon": "RiNextjsFill",
+        "image": {
+          "src": "/imgs/features/marvel_tier_list.webp"
+        }
+      },
+      {
+        "title": "可自訂的 Tier List 範本",
+        "description": "我們的 Tier List Maker 提供完全可自訂的範本。變更顏色、新增自訂等級，並根據您的風格個性化您的 tier list。",
+        "icon": "RiClapperboardAiLine",
+        "image": {
+          "src": "/imgs/features/nba_tier_list.webp"
+        }
+      },
+      {
+        "title": "易於使用的 Tier List Maker",
+        "description": "無需學習曲線。我們的 Tier List Maker 設計直覺 - 只需拖曳、放下，即可立即建立專業外觀的 tier list。",
+        "icon": "RiCodeFill",
+        "image": {
+          "src": "/imgs/features/video-girl-tier-list.webp"
+        }
+      }
+    ]
+  },
+  "usage": {
+    "name": "usage",
+    "title": "如何使用 Tier List Maker 建立 Tier List",
+    "description": "使用我們的 Tier List Maker 建立 tier list 非常簡單。請遵循以下簡單步驟：",
+    "image_position": "left",
+    "text_align": "center",
+    "items": [
+      {
+        "title": "步驟 1：新增項目",
+        "description": "點擊「新增項目」按鈕從您的裝置上傳圖片。您可以一次上傳多張圖片。所有項目預設會放置在 D 等級。"
+      },
+      {
+        "title": "步驟 2：按等級組織",
+        "description": "在桌面上：在等級（S、A、B、C、D）之間拖放項目。在行動裝置上：雙擊項目將它們移至下一個等級。輕鬆組織您的排名！"
+      },
+      {
+        "title": "步驟 3：完善您的清單",
+        "description": "將滑鼠懸停在項目上可看到刪除按鈕（X 圖示）並移除不需要的項目。您也可以隨時點擊「全部刪除」重新開始。"
+      },
+      {
+        "title": "步驟 4：儲存並分享",
+        "description": "點擊「儲存圖片」將您的 tier list 下載為高品質的 PNG 圖片。立即在社交媒體、論壇或與朋友分享您的排名！"
+      }
+    ]
+  },
+  "feature": {
+    "name": "feature",
+    "title": "我們 Tier List Maker 的主要功能",
+    "description": "Tier List Maker 中您需要的一切，每次都能建立完美的排名。",
+    "items": [
+      {
+        "title": "免費 Tier List Maker 工具",
+        "description": "免費建立無限的 tier list。我們的 Tier List Maker 100% 免費，沒有隱藏費用或高級功能。",
+        "icon": "RiNextjsFill"
+      },
+      {
+        "title": "自訂等級排名",
+        "description": "在我們的 Tier List Maker 中自訂等級名稱、顏色和排名。建立完全符合您需求的 tier list。",
+        "icon": "RiKey2Fill"
+      },
+      {
+        "title": "圖片上傳支援",
+        "description": "將您自己的圖片上傳到 Tier List Maker。新增角色、物品或任何您想排名的圖片。",
+        "icon": "RiDatabase2Line"
+      },
+      {
+        "title": "快速匯出選項",
+        "description": "將您的 tier list 下載為高品質圖片。我們的 Tier List Maker 提供即時匯出功能。",
+        "icon": "RiCloudy2Fill"
+      },
+      {
+        "title": "行動裝置友善設計",
+        "description": "在任何裝置上使用我們的 Tier List Maker。在桌面、平板或行動裝置上無縫建立和編輯 tier list。",
+        "icon": "RiBarChart2Line"
+      },
+      {
+        "title": "無需註冊",
+        "description": "立即開始使用我們的 Tier List Maker。不需要帳號 - 只需開啟並建立您的 tier list。",
+        "icon": "RiRobot2Line"
+      }
+    ]
+  },
+  "stats": {
+    "name": "stats",
+    "label": "統計數據",
+    "title": "人們喜愛我們的 Tier List Maker",
+    "description": "輕鬆建立專業的 tier list。",
+    "icon": "FaRegHeart",
+    "items": [
+      {
+        "title": "信任者",
+        "label": "10K+",
+        "description": "使用者"
+      },
+      {
+        "title": "已建立",
+        "label": "50K+",
+        "description": "Tier List"
+      },
+      {
+        "title": "建立 Tier List 僅需",
+        "label": "30",
+        "description": "秒"
+      }
+    ]
+  },
+  "testimonial": {
+    "name": "testimonial",
+    "label": "使用者評價",
+    "title": "使用者對 Tier List Maker 的評價",
+    "description": "聽聽喜歡使用我們的 Tier List Maker 建立 tier list 的使用者怎麼說。",
+    "icon": "GoThumbsup",
+    "items": [
+      {
+        "title": "Alex Rodriguez",
+        "label": "遊戲內容創作者",
+        "description": "這是我用過最好的 Tier List Maker！我每天都為我的 YouTube 頻道建立 tier list，這個工具讓一切變得如此快速和專業。",
+        "image": {
+          "src": "/imgs/users/1.png"
+        }
+      },
+      {
+        "title": "Sarah Chen",
+        "label": "電影愛好者",
+        "description": "我使用 Tier List Maker 與朋友一起排名電影。介面超級直覺，而且我喜歡它完全免費。最好的線上 tier list maker！",
+        "image": {
+          "src": "/imgs/users/2.png"
+        }
+      },
+      {
+        "title": "Mike Johnson",
+        "label": "電競教練",
+        "description": "我們團隊使用這個 Tier List Maker 進行角色排名和策略規劃。它可靠、快速，正是我們競技分析所需要的。",
+        "image": {
+          "src": "/imgs/users/3.png"
+        }
+      },
+      {
+        "title": "Emma Thompson",
+        "label": "動漫部落客",
+        "description": "建立動漫角色 tier list 是我的興趣，這個 Tier List Maker 非常完美！易於自訂、外觀出色，而且我可以立即分享我的排名。",
+        "image": {
+          "src": "/imgs/users/4.png"
+        }
+      },
+      {
+        "title": "David Park",
+        "label": "Twitch 實況主",
+        "description": "我在直播中使用這個工具製作 tier list。我的觀眾喜歡這個乾淨的設計，而且它從不卡頓。最好的免費 Tier List Maker！",
+        "image": {
+          "src": "/imgs/users/5.png"
+        }
+      },
+      {
+        "title": "Lisa Martinez",
+        "label": "社群經理",
+        "description": "我們使用 Tier List Maker 進行社群投票和討論。它足夠簡單，每個人都可以使用，每次都能產生專業的結果。",
+        "image": {
+          "src": "/imgs/users/6.png"
+        }
+      }
+    ]
+  },
+  "faq": {
+    "name": "faq",
+    "label": "常見問題",
+    "title": "關於 Tier List Maker 的常見問題",
+    "description": "有其他問題？在 Discord 或透過電子郵件聯絡我們。",
+    "items": [
+      {
+        "title": "什麼是 Tier List Maker？",
+        "description": "Tier List Maker 是一個免費的線上工具，可讓您透過將項目組織到不同的等級（S、A、B、C、D、F）來建立排名圖表。我們的 Tier List Maker 幫助您視覺化排名任何東西，從電子遊戲角色到電影。"
+      },
+      {
+        "title": "這個 Tier List Maker 真的免費嗎？",
+        "description": "是的！我們的 Tier List Maker 100% 免費使用。您可以建立無限的 tier list、自訂它們並下載您的排名，無需任何費用或訂閱。"
+      },
+      {
+        "title": "我需要建立帳號才能使用 Tier List Maker 嗎？",
+        "description": "不需要帳號！您可以立即開始使用我們的 Tier List Maker。只需造訪 tierlist-maker.com 並立即開始建立您的 tier list。"
+      },
+      {
+        "title": "如何使用 Tier List Maker 建立 tier list？",
+        "description": "使用我們的 Tier List Maker 很簡單：1) 選擇或建立範本，2) 新增您的項目或圖片，3) 將項目拖放到等級中，4) 自訂顏色和名稱，5) 下載或分享您的 tier list。"
+      },
+      {
+        "title": "我可以上傳自訂圖片到 Tier List Maker 嗎？",
+        "description": "當然可以！我們的 Tier List Maker 支援自訂圖片上傳。您可以為角色、物品或任何您想在 tier list 中排名的東西新增自己的圖片。"
+      },
+      {
+        "title": "如何分享我用 Tier List Maker 建立的 tier list？",
+        "description": "建立 tier list 後，我們的 Tier List Maker 允許您將其下載為高品質圖片。然後您可以在社交媒體、論壇或任何您喜歡的地方分享此圖片。"
+      }
+    ]
+  },
+  "cta": {
+    "name": "cta",
+    "title": "立即建立您的第一個 Tier List",
+    "description": "今天就開始使用最好的免費 Tier List Maker 進行排名。",
+    "buttons": [
+      {
+        "title": "開始使用 Tier List Maker",
+        "url": "/#hero",
+        "icon": "GoArrowUpRight"
+      }
+    ]
+  },
+  "footer": {
+    "name": "footer",
+    "brand": {
+      "title": "Tier List Maker",
+      "description": "Tier List Maker 是最好的免費線上工具，用於建立和分享 tier list。使用我們易於使用的 Tier List Maker 為遊戲、電影、角色等建立自訂排名。",
+      "logo": {
+        "src": "/logo.svg",
+        "alt": "Tier List Maker"
+      },
+      "url": "/"
+    },
+    "copyright": "© 2025 • Tier List Maker 版權所有。",
+    "nav": {
+      "items": [
+        {
+          "title": "關於",
+          "children": [
+            {
+              "title": "功能特色",
+              "url": "/#feature",
+              "target": "_self"
+            }
+          ]
+        }
+      ]
+    },
+    "social": {
+      "items": [
+        {
+          "title": "電子郵件",
+          "icon": "RiMailLine",
+          "url": "mailto:support@tierlist-maker.com",
+          "target": "_self"
+        },
+        {
+          "title": "GitHub",
+          "icon": "RiGithubLine",
+          "url": "https://github.com/zhangchenchen/tier_list_maker",
+          "target": "_blank"
+        }
+      ]
+    },
+    "agreement": {
+      "items": [
+        {
+          "title": "隱私權政策",
+          "url": "/privacy-policy"
+        },
+        {
+          "title": "服務條款",
+          "url": "/terms-of-service"
+        }
+      ]
+    }
+  }
+}
+

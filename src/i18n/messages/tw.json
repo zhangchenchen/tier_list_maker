@@ -1,0 +1,174 @@
+{
+  "metadata": {
+    "title": "線上建立自訂 Tier List | 100% 免費無需註冊",
+    "description": "Tier List Maker 是排名第一的免費線上工具，幫助您建立、自訂和分享任何您想排名的 tier list。",
+    "keywords": "tier list maker, tier list 製作工具, 排名工具, 免費 tier list, tier list 產生器, 建立 tier list"
+  },
+  "user": {
+    "sign_in": "登入",
+    "sign_out": "登出",
+    "credits": "點數",
+    "api_keys": "API 金鑰",
+    "my_orders": "我的訂單",
+    "user_center": "使用者中心",
+    "admin_system": "管理系統"
+  },
+  "sign_modal": {
+    "sign_in_title": "登入",
+    "sign_in_description": "登入您的帳號",
+    "sign_up_title": "註冊",
+    "sign_up_description": "建立帳號",
+    "email_title": "電子郵件",
+    "email_placeholder": "請在此輸入您的電子郵件",
+    "password_title": "密碼",
+    "password_placeholder": "請在此輸入您的密碼",
+    "forgot_password": "忘記密碼？",
+    "or": "或",
+    "continue": "繼續",
+    "no_account": "還沒有帳號？",
+    "email_sign_in": "使用電子郵件登入",
+    "google_sign_in": "使用 Google 登入",
+    "github_sign_in": "使用 GitHub 登入",
+    "close_title": "關閉",
+    "cancel_title": "取消"
+  },
+  "my_orders": {
+    "title": "我的訂單",
+    "description": "在 Tier List Maker 付款的訂單。",
+    "no_orders": "找不到訂單",
+    "tip": "",
+    "activate_order": "啟用訂單",
+    "actived": "已啟用",
+    "join_discord": "加入 Discord",
+    "read_docs": "閱讀文件",
+    "table": {
+      "order_no": "訂單編號",
+      "email": "電子郵件",
+      "product_name": "產品名稱",
+      "amount": "金額",
+      "paid_at": "付款時間",
+      "github_username": "GitHub 使用者名稱",
+      "status": "狀態",
+      "manage_billing": "管理帳單",
+      "interval": "週期",
+      "interval_month": "月付",
+      "interval_year": "年付",
+      "interval_one_time": "單次付款"
+    }
+  },
+  "my_credits": {
+    "title": "我的點數",
+    "left_tip": "剩餘點數：{left_credits}",
+    "no_credits": "無點數記錄",
+    "recharge": "儲值",
+    "table": {
+      "trans_no": "交易編號",
+      "trans_type": "交易類型",
+      "credits": "點數",
+      "updated_at": "更新時間",
+      "status": "狀態",
+      "expired_at": "到期時間",
+      "created_at": "建立時間"
+    }
+  },
+  "api_keys": {
+    "title": "API 金鑰",
+    "tip": "請妥善保管您的 API 金鑰以避免洩漏",
+    "no_api_keys": "無 API 金鑰",
+    "create_api_key": "建立 API 金鑰",
+    "table": {
+      "name": "名稱",
+      "key": "金鑰",
+      "created_at": "建立時間"
+    },
+    "form": {
+      "name": "名稱",
+      "name_placeholder": "API 金鑰名稱",
+      "submit": "送出"
+    }
+  },
+  "blog": {
+    "title": "部落格",
+    "description": "關於 Tier List Maker 的新聞、資源和更新",
+    "read_more_text": "閱讀更多",
+    "no_content": "無內容",
+    "all": "全部",
+    "category": "分類",
+    "author": "作者"
+  },
+  "my_invites": {
+    "title": "我的邀請",
+    "description": "查看您的邀請記錄",
+    "no_invites": "找不到邀請記錄",
+    "my_invite_link": "我的邀請連結",
+    "edit_invite_link": "編輯邀請連結",
+    "copy_invite_link": "複製邀請連結",
+    "invite_code": "邀請碼",
+    "invite_tip": "邀請 1 位朋友升級使用 Tier List Maker，獲得 $50 獎勵。",
+    "invite_balance": "邀請獎勵餘額",
+    "total_invite_count": "總邀請人數",
+    "total_paid_count": "總付費人數",
+    "total_award_amount": "總獎勵金額",
+    "update_invite_code": "設定邀請碼",
+    "update_invite_code_tip": "輸入您的自訂邀請碼",
+    "update_invite_button": "儲存",
+    "no_orders": "您需要先升級 Tier List Maker 才能邀請他人",
+    "no_affiliates": "您目前無法邀請他人，請聯絡我們申請權限。",
+    "table": {
+      "invite_time": "邀請時間",
+      "invite_user": "受邀使用者",
+      "status": "狀態",
+      "reward_percent": "獎勵百分比",
+      "reward_amount": "獎勵金額",
+      "pending": "待處理",
+      "completed": "已完成"
+    }
+  },
+  "feedback": {
+    "title": "意見回饋",
+    "description": "我們很想知道哪些地方做得好或如何改善產品體驗。",
+    "submit": "送出",
+    "loading": "送出中...",
+    "contact_tip": "其他聯絡方式",
+    "rating_tip": "您對 Tier List Maker 的感覺如何？",
+    "placeholder": "請在此留下您的意見..."
+  },
+  "tier_list_maker": {
+    "buttons": {
+      "add_item": "新增項目",
+      "save_image": "儲存圖片",
+      "delete_all": "全部刪除",
+      "loading": "載入中...",
+      "exporting": "匯出中..."
+    },
+    "toast": {
+      "restored": "已從上次工作階段恢復 {count} 個項目",
+      "file_too_large": "{filename} 檔案太大（最大 5MB）",
+      "failed_to_load": "載入 {filename} 失敗",
+      "added_success": "成功新增 {count} 個{items}",
+      "item": "項目",
+      "items": "項目",
+      "failed_to_load_images": "載入圖片失敗",
+      "item_removed": "項目已移除",
+      "no_items_to_clear": "沒有項目可清除",
+      "all_items_cleared": "已清除所有項目",
+      "please_add_items": "請先新增項目再儲存",
+      "image_saved": "圖片儲存成功！",
+      "failed_to_save": "圖片儲存失敗",
+      "moved_to_tier": "已移至 {tier} 等級"
+    },
+    "empty_state": {
+      "title": "點擊「新增項目」開始",
+      "subtitle": "上傳圖片以建立您的 tier list",
+      "drag_here": "將項目拖曳至此"
+    },
+    "mobile_menu": {
+      "title": "移至等級",
+      "delete_item": "刪除項目"
+    },
+    "watermark": {
+      "made_by": "製作者"
+    }
+  }
+}
+

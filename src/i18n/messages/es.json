@@ -1,0 +1,174 @@
+{
+  "metadata": {
+    "title": "Crear Tier Lists Personalizadas en Línea | 100% Gratis Sin Registro",
+    "description": "Tier List Maker es la herramienta en línea gratuita #1 que te ayuda a crear, personalizar y compartir tier lists para cualquier cosa que quieras clasificar.",
+    "keywords": "tier list maker, creador tier list, herramienta de clasificación, tier list gratis, generador tier list, crear tier list"
+  },
+  "user": {
+    "sign_in": "Iniciar Sesión",
+    "sign_out": "Cerrar Sesión",
+    "credits": "Créditos",
+    "api_keys": "Claves API",
+    "my_orders": "Mis Pedidos",
+    "user_center": "Centro de Usuario",
+    "admin_system": "Sistema Admin"
+  },
+  "sign_modal": {
+    "sign_in_title": "Iniciar Sesión",
+    "sign_in_description": "Inicia sesión en tu cuenta",
+    "sign_up_title": "Registrarse",
+    "sign_up_description": "Crear una cuenta",
+    "email_title": "Correo Electrónico",
+    "email_placeholder": "Ingresa tu correo aquí",
+    "password_title": "Contraseña",
+    "password_placeholder": "Ingresa tu contraseña aquí",
+    "forgot_password": "¿Olvidaste tu contraseña?",
+    "or": "O",
+    "continue": "Continuar",
+    "no_account": "¿No tienes una cuenta?",
+    "email_sign_in": "Iniciar sesión con Correo",
+    "google_sign_in": "Iniciar sesión con Google",
+    "github_sign_in": "Iniciar sesión con GitHub",
+    "close_title": "Cerrar",
+    "cancel_title": "Cancelar"
+  },
+  "my_orders": {
+    "title": "Mis Pedidos",
+    "description": "pedidos pagados con Tier List Maker.",
+    "no_orders": "No se encontraron pedidos",
+    "tip": "",
+    "activate_order": "Activar Pedido",
+    "actived": "Activado",
+    "join_discord": "Unirse a Discord",
+    "read_docs": "Leer Documentación",
+    "table": {
+      "order_no": "N° Pedido",
+      "email": "Correo Electrónico",
+      "product_name": "Nombre del Producto",
+      "amount": "Cantidad",
+      "paid_at": "Pagado el",
+      "github_username": "Nombre de usuario GitHub",
+      "status": "Estado",
+      "manage_billing": "Gestionar Facturación",
+      "interval": "Intervalo",
+      "interval_month": "Mensual",
+      "interval_year": "Anual",
+      "interval_one_time": "Único"
+    }
+  },
+  "my_credits": {
+    "title": "Mis Créditos",
+    "left_tip": "créditos restantes: {left_credits}",
+    "no_credits": "No hay registros de créditos",
+    "recharge": "Recargar",
+    "table": {
+      "trans_no": "N° Transacción",
+      "trans_type": "Tipo de Transacción",
+      "credits": "Créditos",
+      "updated_at": "Actualizado el",
+      "status": "Estado",
+      "expired_at": "Expira el",
+      "created_at": "Creado el"
+    }
+  },
+  "api_keys": {
+    "title": "Claves API",
+    "tip": "Por favor mantén tu clave API segura para evitar fugas",
+    "no_api_keys": "No hay Claves API",
+    "create_api_key": "Crear Clave API",
+    "table": {
+      "name": "Nombre",
+      "key": "Clave",
+      "created_at": "Creado el"
+    },
+    "form": {
+      "name": "Nombre",
+      "name_placeholder": "Nombre de la Clave API",
+      "submit": "Enviar"
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "description": "Noticias, recursos y actualizaciones sobre Tier List Maker",
+    "read_more_text": "Leer Más",
+    "no_content": "Sin contenido",
+    "all": "Todo",
+    "category": "Categoría",
+    "author": "Autor"
+  },
+  "my_invites": {
+    "title": "Mis Invitaciones",
+    "description": "Ver tus registros de invitación",
+    "no_invites": "No se encontraron registros de invitación",
+    "my_invite_link": "Mi Enlace de Invitación",
+    "edit_invite_link": "Editar Enlace de Invitación",
+    "copy_invite_link": "Copiar Enlace de Invitación",
+    "invite_code": "Código de Invitación",
+    "invite_tip": "Invita a 1 amigo a actualizar con Tier List Maker, recompensa de $50.",
+    "invite_balance": "Saldo de Recompensa de Invitación",
+    "total_invite_count": "Número Total de Invitaciones",
+    "total_paid_count": "Total Pagado",
+    "total_award_amount": "Monto Total de Recompensas",
+    "update_invite_code": "Establecer Código de Invitación",
+    "update_invite_code_tip": "Ingresa tu código de invitación personalizado",
+    "update_invite_button": "Guardar",
+    "no_orders": "No puedes invitar a otros antes de actualizar con Tier List Maker",
+    "no_affiliates": "No tienes permiso para invitar a otros, por favor contáctanos para solicitar permiso.",
+    "table": {
+      "invite_time": "Hora de Invitación",
+      "invite_user": "Usuario Invitado",
+      "status": "Estado",
+      "reward_percent": "Porcentaje de Recompensa",
+      "reward_amount": "Monto de Recompensa",
+      "pending": "Pendiente",
+      "completed": "Completado"
+    }
+  },
+  "feedback": {
+    "title": "Comentarios",
+    "description": "Nos encantaría saber qué salió bien o cómo podemos mejorar la experiencia del producto.",
+    "submit": "Enviar",
+    "loading": "Enviando...",
+    "contact_tip": "Otras formas de contactarnos",
+    "rating_tip": "¿Qué opinas de Tier List Maker?",
+    "placeholder": "Deja tus comentarios aquí..."
+  },
+  "tier_list_maker": {
+    "buttons": {
+      "add_item": "Agregar Elemento",
+      "save_image": "Guardar Imagen",
+      "delete_all": "Eliminar Todo",
+      "loading": "Cargando...",
+      "exporting": "Exportando..."
+    },
+    "toast": {
+      "restored": "{count} elementos restaurados de la sesión anterior",
+      "file_too_large": "{filename} es demasiado grande (máx 5MB)",
+      "failed_to_load": "Error al cargar {filename}",
+      "added_success": "{count} {items} agregado(s) exitosamente",
+      "item": "elemento",
+      "items": "elementos",
+      "failed_to_load_images": "Error al cargar imágenes",
+      "item_removed": "Elemento eliminado",
+      "no_items_to_clear": "No hay elementos para limpiar",
+      "all_items_cleared": "Todos los elementos limpiados",
+      "please_add_items": "Por favor agrega elementos antes de guardar",
+      "image_saved": "¡Imagen guardada exitosamente!",
+      "failed_to_save": "Error al guardar imagen",
+      "moved_to_tier": "Movido al tier {tier}"
+    },
+    "empty_state": {
+      "title": "Haz clic en \"Agregar Elemento\" para comenzar",
+      "subtitle": "Sube imágenes para crear tu tier list",
+      "drag_here": "Arrastra elementos aquí"
+    },
+    "mobile_menu": {
+      "title": "Mover al Tier",
+      "delete_item": "Eliminar Elemento"
+    },
+    "watermark": {
+      "made_by": "Hecho por"
+    }
+  }
+}
+
