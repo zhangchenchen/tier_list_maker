@@ -169,6 +169,53 @@
     "watermark": {
       "made_by": "제작자"
     }
+  },
+  "text_tier_list_maker": {
+    "input": {
+      "placeholder": "텍스트를 입력하고 Enter를 누르세요 (최대 50자)",
+      "hint": "💡 Enter를 누르거나 텍스트 추가를 클릭하여 항목을 목록에 추가하세요"
+    },
+    "buttons": {
+      "add_text": "텍스트 추가",
+      "save_image": "이미지 저장",
+      "delete_all": "모두 삭제",
+      "exporting": "내보내는 중...",
+      "remove_item": "항목 제거"
+    },
+    "toast": {
+      "restored": "이전 세션에서 {count}개 항목을 복원했습니다",
+      "please_enter_text": "텍스트를 입력하세요",
+      "text_too_long": "텍스트가 너무 깁니다 (최대 50자)",
+      "item_added": "항목이 성공적으로 추가되었습니다",
+      "item_removed": "항목이 제거되었습니다",
+      "no_items_to_clear": "지울 항목이 없습니다",
+      "confirm_clear": "모든 항목을 삭제하시겠습니까?",
+      "all_items_cleared": "모든 항목이 지워졌습니다",
+      "please_add_items": "저장하기 전에 항목을 추가하세요",
+      "image_saved": "이미지가 성공적으로 저장되었습니다!",
+      "failed_to_save": "이미지 저장에 실패했습니다",
+      "moved_to_tier": "{tier} 티어로 이동했습니다"
+    },
+    "empty_state": {
+      "title": "위에 텍스트를 입력하여 시작하세요",
+      "subtitle": "텍스트를 입력하고 Enter를 눌러 텍스트 티어 리스트를 만드세요",
+      "drag_here": "여기에 항목을 드래그하세요",
+      "drop_here": "여기에 놓으세요!",
+      "tap_to_move": "항목을 탭하여 이동하세요"
+    },
+    "mobile_menu": {
+      "title": "티어로 이동",
+      "delete_item": "항목 삭제",
+      "cancel": "취소"
+    },
+    "watermark": {
+      "made_by": "제작자"
+    },
+    "instructions": {
+      "desktop": "데스크톱: 티어 간에 항목을 드래그 앤 드롭 • 더블 클릭으로 티어 순환",
+      "mobile": "모바일: 항목을 탭하여 빠른 메뉴 열기",
+      "auto_saved": "자동 저장 • 진행 상황이 로컬에 저장됩니다"
+    }
   }
 }
 

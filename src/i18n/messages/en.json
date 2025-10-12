@@ -169,5 +169,52 @@
     "watermark": {
       "made_by": "Made by"
     }
+  },
+  "text_tier_list_maker": {
+    "input": {
+      "placeholder": "Enter text and press Enter (max 50 characters)",
+      "hint": "💡 Press Enter or click Add Text to add your item to the list"
+    },
+    "buttons": {
+      "add_text": "Add Text",
+      "save_image": "Save Image",
+      "delete_all": "Delete All",
+      "exporting": "Exporting...",
+      "remove_item": "Remove item"
+    },
+    "toast": {
+      "restored": "Restored {count} items from previous session",
+      "please_enter_text": "Please enter text",
+      "text_too_long": "Text is too long (max 50 characters)",
+      "item_added": "Item added successfully",
+      "item_removed": "Item removed",
+      "no_items_to_clear": "No items to clear",
+      "confirm_clear": "Are you sure you want to delete all items?",
+      "all_items_cleared": "All items cleared",
+      "please_add_items": "Please add items before saving",
+      "image_saved": "Image saved successfully!",
+      "failed_to_save": "Failed to save image",
+      "moved_to_tier": "Moved to {tier} tier"
+    },
+    "empty_state": {
+      "title": "Enter text above to get started",
+      "subtitle": "Type and press Enter to create your text tier list",
+      "drag_here": "Drag items here",
+      "drop_here": "Drop here!",
+      "tap_to_move": "Tap items to move"
+    },
+    "mobile_menu": {
+      "title": "Move to Tier",
+      "delete_item": "Delete Item",
+      "cancel": "Cancel"
+    },
+    "watermark": {
+      "made_by": "Made by"
+    },
+    "instructions": {
+      "desktop": "Desktop: Drag and drop items between tiers • Double-click to cycle tiers",
+      "mobile": "Mobile: Tap items to open quick menu",
+      "auto_saved": "Auto-saved • Your progress is stored locally"
+    }
   }
 }

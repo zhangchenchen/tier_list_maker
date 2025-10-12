@@ -1,0 +1,256 @@
+{
+  "hero": {
+    "announcement": {
+      "label": "2025",
+      "title": "🎉 Free Text Tier List Maker"
+    },
+    "title_part1": "Create Your Free Text Tier List in Seconds with ",
+    "highlight": "Text Tier List Maker",
+    "title_part2": "",
+    "title": "Create Your Free Text Tier List in Seconds with Text Tier List Maker",
+    "description": "Text Tier List Maker is the #1 free online tool for creating text-based tier lists. Simply type your text and press Enter to add items - no images needed!",
+    "tip": "🎁 100% Free Forever • No Sign-Up Required"
+  },
+  "introduce": {
+    "name": "introduce",
+    "title": "What is Text Tier List Maker",
+    "label": "Introduce",
+    "description": "Text Tier List Maker is a specialized free online tool that helps you create tier lists using text entries instead of images. Perfect for quick rankings, opinions, and organizing ideas without needing images.",
+    "items": [
+      {
+        "title": "Simple Text Entry",
+        "description": "Create tier lists by simply typing text and pressing Enter. No need to upload or find images - just type what you want to rank.",
+        "icon": "RiNextjsFill"
+      },
+      {
+        "title": "Drag and Drop Interface",
+        "description": "Our Text Tier List Maker features an intuitive drag-and-drop interface that makes organizing text entries effortless and fun.",
+        "icon": "RiDatabase2Line"
+      },
+      {
+        "title": "Export and Share",
+        "description": "Download your text tier list as an image and share it with friends, on social media, or in your communities.",
+        "icon": "RiCloudyFill"
+      }
+    ]
+  },
+  "benefit": {
+    "name": "benefit",
+    "title": "Why Choose Our Text Tier List Maker",
+    "label": "Benefits",
+    "description": "Discover why users love our Text Tier List Maker for creating quick and simple rankings.",
+    "items": [
+      {
+        "title": "Completely Free Text Tier List Maker",
+        "description": "Use our Text Tier List Maker without any costs. Create unlimited text-based tier lists and download your rankings - all completely free.",
+        "icon": "RiNextjsFill",
+        "image": {
+          "src": "/imgs/features/marvel_tier_list.webp"
+        }
+      },
+      {
+        "title": "No Images Required",
+        "description": "Unlike traditional tier list makers, our Text Tier List Maker doesn't require images. Just type text entries to create professional-looking tier lists instantly.",
+        "icon": "RiClapperboardAiLine",
+        "image": {
+          "src": "/imgs/features/nba_tier_list.webp"
+        }
+      },
+      {
+        "title": "Fast and Easy to Use",
+        "description": "The simplest tier list maker available. Type, press Enter, drag to organize, and download. Create tier lists in seconds with Text Tier List Maker.",
+        "icon": "RiCodeFill",
+        "image": {
+          "src": "/imgs/features/video-girl-tier-list.webp"
+        }
+      }
+    ]
+  },
+  "usage": {
+    "name": "usage",
+    "title": "How to Create a Text Tier List",
+    "description": "Creating a text tier list is incredibly simple with our Text Tier List Maker. Follow these easy steps:",
+    "image_position": "left",
+    "text_align": "center",
+    "items": [
+      {
+        "title": "Step 1: Enter Text",
+        "description": "Type your text in the input field (up to 50 characters) and press Enter or click 'Add Text'. Your entry will be added to the D tier automatically."
+      },
+      {
+        "title": "Step 2: Organize by Tiers",
+        "description": "On desktop: drag and drop text items between tiers (S, A, B, C, D). On mobile: tap items to open the quick menu and select the target tier."
+      },
+      {
+        "title": "Step 3: Edit Your List",
+        "description": "Hover over items to see the delete button (X icon) and remove unwanted entries. Add more text items or reorganize as needed."
+      },
+      {
+        "title": "Step 4: Save and Share",
+        "description": "Click 'Save Image' to download your text tier list as a high-quality PNG image. Share your rankings anywhere instantly!"
+      }
+    ]
+  },
+  "feature": {
+    "name": "feature",
+    "title": "Key Features of Text Tier List Maker",
+    "description": "Everything you need to create perfect text-based tier lists every time.",
+    "items": [
+      {
+        "title": "100% Free Text Tier List Tool",
+        "description": "Create unlimited text tier lists for free. Our Text Tier List Maker is completely free with no hidden fees or premium features.",
+        "icon": "RiNextjsFill"
+      },
+      {
+        "title": "Custom Text Rankings",
+        "description": "Type any text you want to rank. From movies to food, opinions to ideas - organize anything with Text Tier List Maker.",
+        "icon": "RiKey2Fill"
+      },
+      {
+        "title": "Auto-Save Feature",
+        "description": "Your text tier list is automatically saved in your browser. Close the tab and return later - your progress is preserved.",
+        "icon": "RiDatabase2Line"
+      },
+      {
+        "title": "Quick Export Options",
+        "description": "Download your text tier lists as high-quality images. Our Text Tier List Maker provides instant export functionality.",
+        "icon": "RiCloudy2Fill"
+      },
+      {
+        "title": "Mobile-Friendly Design",
+        "description": "Use our Text Tier List Maker on any device. Create and edit text tier lists on desktop, tablet, or mobile seamlessly.",
+        "icon": "RiBarChart2Line"
+      },
+      {
+        "title": "No Registration Required",
+        "description": "Start using our Text Tier List Maker immediately. No account needed - just open and create your text tier list.",
+        "icon": "RiRobot2Line"
+      }
+    ]
+  },
+  "stats": {
+    "name": "stats",
+    "label": "Stats",
+    "title": "People Love Our Text Tier List Maker",
+    "description": "for creating text-based tier lists effortlessly.",
+    "icon": "FaRegHeart",
+    "items": [
+      {
+        "title": "Trusted by",
+        "label": "5K+",
+        "description": "Users"
+      },
+      {
+        "title": "Created",
+        "label": "20K+",
+        "description": "Text Tier Lists"
+      },
+      {
+        "title": "Make Tier List in",
+        "label": "15",
+        "description": "Seconds"
+      }
+    ]
+  },
+  "testimonial": {
+    "name": "testimonial",
+    "label": "Testimonial",
+    "title": "What Users Say About Text Tier List Maker",
+    "description": "Hear from users who love creating text tier lists with our tool.",
+    "icon": "GoThumbsup",
+    "items": [
+      {
+        "title": "Jordan Smith",
+        "label": "Content Creator",
+        "description": "This Text Tier List Maker is perfect for quick opinion rankings! I don't need to find images - just type and organize. Super fast and convenient!",
+        "image": {
+          "src": "/imgs/users/1.png"
+        }
+      },
+      {
+        "title": "Emily Chen",
+        "label": "Teacher",
+        "description": "I use Text Tier List Maker for classroom activities. Students love ranking vocabulary, historical events, and more. No images needed makes it so simple!",
+        "image": {
+          "src": "/imgs/users/2.png"
+        }
+      },
+      {
+        "title": "Marcus Johnson",
+        "label": "Podcast Host",
+        "description": "We create tier lists live during our podcast using this tool. Being able to just type text makes it so much faster than finding images!",
+        "image": {
+          "src": "/imgs/users/3.png"
+        }
+      },
+      {
+        "title": "Sofia Martinez",
+        "label": "Community Manager",
+        "description": "Text Tier List Maker is perfect for community discussions. We rank topics, opinions, and ideas without worrying about finding images.",
+        "image": {
+          "src": "/imgs/users/4.png"
+        }
+      },
+      {
+        "title": "Alex Thompson",
+        "label": "Student",
+        "description": "I use this for study notes and organizing concepts! The Text Tier List Maker helps me prioritize topics and remember key information visually.",
+        "image": {
+          "src": "/imgs/users/5.png"
+        }
+      },
+      {
+        "title": "Rachel Kim",
+        "label": "Blogger",
+        "description": "Love how simple this is! Text Tier List Maker lets me create ranking posts in minutes. My readers love seeing my opinions organized this way.",
+        "image": {
+          "src": "/imgs/users/6.png"
+        }
+      }
+    ]
+  },
+  "faq": {
+    "name": "faq",
+    "label": "FAQ",
+    "title": "Frequently Asked Questions About Text Tier List Maker",
+    "description": "Have another question? Contact us on Discord or by email.",
+    "items": [
+      {
+        "title": "What is a Text Tier List Maker?",
+        "description": "A Text Tier List Maker is a free online tool that allows you to create tier lists using text entries instead of images. Simply type text, press Enter, and organize your entries into tiers (S, A, B, C, D)."
+      },
+      {
+        "title": "Is this Text Tier List Maker really free?",
+        "description": "Yes! Our Text Tier List Maker is 100% free to use. You can create unlimited text-based tier lists, organize them, and download your rankings without any cost or subscription."
+      },
+      {
+        "title": "Do I need images to use Text Tier List Maker?",
+        "description": "No! That's the beauty of Text Tier List Maker - you don't need any images. Just type your text entries and create tier lists instantly. Perfect for opinions, ideas, or anything without images."
+      },
+      {
+        "title": "How do I create a text tier list?",
+        "description": "Using our Text Tier List Maker is simple: 1) Type your text in the input field, 2) Press Enter or click 'Add Text', 3) Drag and drop text items into tiers, 4) Click 'Save Image' to download."
+      },
+      {
+        "title": "Can I save my text tier list progress?",
+        "description": "Yes! Our Text Tier List Maker automatically saves your progress in your browser's local storage. You can close the page and return later to continue working."
+      },
+      {
+        "title": "How do I share my text tier list?",
+        "description": "After creating your text tier list, click 'Save Image' to download it as a high-quality PNG. You can then share this image on social media, forums, or anywhere you like."
+      }
+    ]
+  },
+  "cta": {
+    "name": "cta",
+    "title": "Create Your First Text Tier List Now",
+    "description": "Start ranking with the best free Text Tier List Maker today.",
+    "buttons": [
+      {
+        "title": "Start Using Text Tier List Maker",
+        "url": "/text-tier-list-maker#hero",
+        "icon": "GoArrowUpRight"
+      }
+    ]
+  }
+}

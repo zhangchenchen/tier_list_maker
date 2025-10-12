@@ -169,6 +169,53 @@
     "watermark": {
       "made_by": "Hecho por"
     }
+  },
+  "text_tier_list_maker": {
+    "input": {
+      "placeholder": "Ingresa texto y presiona Enter (máx 50 caracteres)",
+      "hint": "💡 Presiona Enter o haz clic en Agregar Texto para agregar tu elemento a la lista"
+    },
+    "buttons": {
+      "add_text": "Agregar Texto",
+      "save_image": "Guardar Imagen",
+      "delete_all": "Eliminar Todo",
+      "exporting": "Exportando...",
+      "remove_item": "Eliminar elemento"
+    },
+    "toast": {
+      "restored": "{count} elementos restaurados de la sesión anterior",
+      "please_enter_text": "Por favor ingresa texto",
+      "text_too_long": "El texto es demasiado largo (máx 50 caracteres)",
+      "item_added": "Elemento agregado exitosamente",
+      "item_removed": "Elemento eliminado",
+      "no_items_to_clear": "No hay elementos para limpiar",
+      "confirm_clear": "¿Estás seguro de que quieres eliminar todos los elementos?",
+      "all_items_cleared": "Todos los elementos limpiados",
+      "please_add_items": "Por favor agrega elementos antes de guardar",
+      "image_saved": "¡Imagen guardada exitosamente!",
+      "failed_to_save": "Error al guardar imagen",
+      "moved_to_tier": "Movido al tier {tier}"
+    },
+    "empty_state": {
+      "title": "Ingresa texto arriba para comenzar",
+      "subtitle": "Escribe y presiona Enter para crear tu tier list de texto",
+      "drag_here": "Arrastra elementos aquí",
+      "drop_here": "¡Suelta aquí!",
+      "tap_to_move": "Toca elementos para mover"
+    },
+    "mobile_menu": {
+      "title": "Mover al Tier",
+      "delete_item": "Eliminar Elemento",
+      "cancel": "Cancelar"
+    },
+    "watermark": {
+      "made_by": "Hecho por"
+    },
+    "instructions": {
+      "desktop": "Escritorio: Arrastra y suelta elementos entre tiers • Doble clic para ciclar tiers",
+      "mobile": "Móvil: Toca elementos para abrir el menú rápido",
+      "auto_saved": "Auto-guardado • Tu progreso está almacenado localmente"
+    }
   }
 }
 

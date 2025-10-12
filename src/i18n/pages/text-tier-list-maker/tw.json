@@ -1,0 +1,194 @@
+{
+  "hero": {
+    "announcement": {
+      "label": "2025",
+      "title": "🎉 免費文字Tier表製作工具"
+    },
+    "title_part1": "使用",
+    "highlight": "文字Tier表製作工具",
+    "title_part2": "秒速創建免費文字Tier表",
+    "title": "使用文字Tier表製作工具秒速創建免費文字Tier表",
+    "description": "文字Tier表製作工具是排名第一的免費線上工具，用於創建基於文字的Tier表。只需輸入文字並按回車即可添加項目 - 無需圖片！",
+    "tip": "🎁 永久100%免費 • 無需註冊"
+  },
+  "introduce": {
+    "name": "introduce",
+    "title": "什麼是文字Tier表製作工具",
+    "label": "介紹",
+    "description": "文字Tier表製作工具是一個專門的免費線上工具，幫助你使用文字條目而不是圖片來創建Tier表。非常適合快速排名、表達觀點和組織想法，無需圖片。",
+    "item1": {
+      "title": "簡單的文字輸入",
+      "description": "只需輸入文字並按回車即可創建Tier表。無需上傳或查找圖片 - 只需輸入你想要排名的內容。"
+    },
+    "item2": {
+      "title": "拖放介面",
+      "description": "我們的文字Tier表製作工具具有直觀的拖放介面，使組織文字條目變得輕鬆有趣。"
+    },
+    "item3": {
+      "title": "匯出和分享",
+      "description": "將你的文字Tier表下載為圖片，並與朋友、社交媒體或社群分享。"
+    }
+  },
+  "benefit": {
+    "name": "benefit",
+    "title": "為什麼選擇我們的文字Tier表製作工具",
+    "label": "優勢",
+    "description": "了解為什麼使用者喜歡使用我們的文字Tier表製作工具來創建快速簡單的排名。",
+    "item1": {
+      "title": "完全免費的文字Tier表製作工具",
+      "description": "免費使用我們的文字Tier表製作工具。創建無限數量的基於文字的Tier表並下載你的排名 - 完全免費。"
+    },
+    "item2": {
+      "title": "無需圖片",
+      "description": "與傳統Tier表製作工具不同，我們的文字Tier表製作工具不需要圖片。只需輸入文字條目即可立即創建專業的Tier表。"
+    },
+    "item3": {
+      "title": "快速易用",
+      "description": "最簡單的Tier表製作工具。輸入、按回車、拖動組織、下載。使用文字Tier表製作工具在幾秒鐘內創建Tier表。"
+    }
+  },
+  "usage": {
+    "name": "usage",
+    "title": "如何創建文字Tier表",
+    "description": "使用我們的文字Tier表製作工具創建文字Tier表非常簡單。遵循以下簡單步驟：",
+    "step1": {
+      "title": "步驟1：輸入文字",
+      "description": "在輸入框中輸入你的文字（最多50個字元），然後按回車或點擊「添加文字」。你的條目將自動添加到D級。"
+    },
+    "step2": {
+      "title": "步驟2：按層級組織",
+      "description": "桌面端：在層級（S、A、B、C、D）之間拖放文字項目。行動端：點擊項目打開快捷選單並選擇目標層級。"
+    },
+    "step3": {
+      "title": "步驟3：編輯你的列表",
+      "description": "將滑鼠懸停在項目上可看到刪除按鈕（X圖示）並刪除不需要的條目。根據需要添加更多文字項目或重新組織。"
+    },
+    "step4": {
+      "title": "步驟4：保存和分享",
+      "description": "點擊「保存圖片」將你的文字Tier表下載為高質量PNG圖片。立即在任何地方分享你的排名！"
+    }
+  },
+  "feature": {
+    "name": "feature",
+    "title": "文字Tier表製作工具的主要功能",
+    "description": "創建完美的基於文字的Tier表所需的一切。",
+    "item1": {
+      "title": "100%免費的文字Tier表工具",
+      "description": "免費創建無限數量的文字Tier表。我們的文字Tier表製作工具完全免費，沒有隱藏費用或高級功能。"
+    },
+    "item2": {
+      "title": "自訂文字排名",
+      "description": "輸入任何你想要排名的文字。從電影到食物，觀點到想法 - 使用文字Tier表製作工具組織任何內容。"
+    },
+    "item3": {
+      "title": "自動儲存功能",
+      "description": "你的文字Tier表會自動儲存在瀏覽器中。關閉標籤頁稍後返回 - 你的進度會被保留。"
+    },
+    "item4": {
+      "title": "快速匯出選項",
+      "description": "將你的文字Tier表下載為高質量圖片。我們的文字Tier表製作工具提供即時匯出功能。"
+    },
+    "item5": {
+      "title": "行動友好設計",
+      "description": "在任何裝置上使用我們的文字Tier表製作工具。在桌面、平板或行動裝置上無縫創建和編輯文字Tier表。"
+    },
+    "item6": {
+      "title": "無需註冊",
+      "description": "立即開始使用我們的文字Tier表製作工具。無需帳戶 - 只需打開並創建你的文字Tier表。"
+    }
+  },
+  "stats": {
+    "name": "stats",
+    "label": "統計",
+    "title": "人們喜愛我們的文字Tier表製作工具",
+    "description": "用於輕鬆創建基於文字的Tier表。",
+    "item1": {
+      "title": "信任使用者",
+      "label": "5K+",
+      "description": "位使用者"
+    },
+    "item2": {
+      "title": "已創建",
+      "label": "20K+",
+      "description": "個文字Tier表"
+    },
+    "item3": {
+      "title": "製作Tier表僅需",
+      "label": "15",
+      "description": "秒"
+    }
+  },
+  "testimonial": {
+    "name": "testimonial",
+    "label": "使用者評價",
+    "title": "使用者對文字Tier表製作工具的評價",
+    "description": "聽聽喜歡使用我們的工具創建文字Tier表的使用者的聲音。",
+    "item1": {
+      "title": "張偉",
+      "label": "內容創作者",
+      "description": "這個文字Tier表製作工具非常適合快速的觀點排名！我不需要找圖片 - 只需輸入和組織。超級快速方便！"
+    },
+    "item2": {
+      "title": "李靜",
+      "label": "教師",
+      "description": "我用文字Tier表製作工具進行課堂活動。學生們喜歡對詞彙、歷史事件等進行排名。不需要圖片讓它變得如此簡單！"
+    },
+    "item3": {
+      "title": "王強",
+      "label": "播客主持人",
+      "description": "我們在播客中使用這個工具即時創建Tier表。能夠直接輸入文字比找圖片快得多！"
+    },
+    "item4": {
+      "title": "劉芳",
+      "label": "社群管理員",
+      "description": "文字Tier表製作工具非常適合社群討論。我們對話題、觀點和想法進行排名，無需擔心找圖片。"
+    },
+    "item5": {
+      "title": "陳明",
+      "label": "學生",
+      "description": "我用這個做學習筆記和組織概念！文字Tier表製作工具幫助我優先處理主題並以視覺方式記住關鍵資訊。"
+    },
+    "item6": {
+      "title": "趙麗",
+      "label": "部落客",
+      "description": "喜歡這個工具的簡單性！文字Tier表製作工具讓我在幾分鐘內創建排名貼文。我的讀者喜歡看到我的觀點這樣組織。"
+    }
+  },
+  "faq": {
+    "name": "faq",
+    "label": "常見問題",
+    "title": "關於文字Tier表製作工具的常見問題",
+    "description": "還有其他問題？透過Discord或電子郵件聯絡我們。",
+    "item1": {
+      "title": "什麼是文字Tier表製作工具？",
+      "description": "文字Tier表製作工具是一個免費的線上工具，允許你使用文字條目而不是圖片創建Tier表。只需輸入文字、按回車，然後將條目組織到層級（S、A、B、C、D）中。"
+    },
+    "item2": {
+      "title": "這個文字Tier表製作工具真的免費嗎？",
+      "description": "是的！我們的文字Tier表製作工具100%免費使用。你可以創建無限數量的基於文字的Tier表、組織它們並下載你的排名，無需任何費用或訂閱。"
+    },
+    "item3": {
+      "title": "使用文字Tier表製作工具需要圖片嗎？",
+      "description": "不需要！這就是文字Tier表製作工具的美妙之處 - 你不需要任何圖片。只需輸入你的文字條目並立即創建Tier表。非常適合觀點、想法或任何沒有圖片的內容。"
+    },
+    "item4": {
+      "title": "如何創建文字Tier表？",
+      "description": "使用我們的文字Tier表製作工具很簡單：1）在輸入框中輸入文字，2）按回車或點擊「添加文字」，3）將文字項目拖放到層級中，4）點擊「保存圖片」下載。"
+    },
+    "item5": {
+      "title": "我可以儲存文字Tier表的進度嗎？",
+      "description": "可以！我們的文字Tier表製作工具會自動將你的進度儲存在瀏覽器的本機儲存中。你可以關閉頁面稍後返回繼續工作。"
+    },
+    "item6": {
+      "title": "如何分享我的文字Tier表？",
+      "description": "創建文字Tier表後，點擊「保存圖片」將其下載為高質量PNG。然後你可以在社交媒體、論壇或任何你喜歡的地方分享這張圖片。"
+    }
+  },
+  "cta": {
+    "name": "cta",
+    "title": "立即創建你的第一個文字Tier表",
+    "description": "立即開始使用最好的免費文字Tier表製作工具進行排名。",
+    "button": "開始使用文字Tier表製作工具"
+  }
+}
+

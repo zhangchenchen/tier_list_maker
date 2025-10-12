@@ -169,6 +169,53 @@
     "watermark": {
       "made_by": "Créé par"
     }
+  },
+  "text_tier_list_maker": {
+    "input": {
+      "placeholder": "Entrez du texte et appuyez sur Entrée (max 50 caractères)",
+      "hint": "💡 Appuyez sur Entrée ou cliquez sur Ajouter du Texte pour ajouter votre élément à la liste"
+    },
+    "buttons": {
+      "add_text": "Ajouter du Texte",
+      "save_image": "Enregistrer l'Image",
+      "delete_all": "Tout Supprimer",
+      "exporting": "Export en cours...",
+      "remove_item": "Supprimer l'élément"
+    },
+    "toast": {
+      "restored": "{count} éléments restaurés de la session précédente",
+      "please_enter_text": "Veuillez entrer du texte",
+      "text_too_long": "Le texte est trop long (max 50 caractères)",
+      "item_added": "Élément ajouté avec succès",
+      "item_removed": "Élément supprimé",
+      "no_items_to_clear": "Aucun élément à effacer",
+      "confirm_clear": "Êtes-vous sûr de vouloir supprimer tous les éléments ?",
+      "all_items_cleared": "Tous les éléments effacés",
+      "please_add_items": "Veuillez ajouter des éléments avant d'enregistrer",
+      "image_saved": "Image enregistrée avec succès !",
+      "failed_to_save": "Échec de l'enregistrement de l'image",
+      "moved_to_tier": "Déplacé vers le tier {tier}"
+    },
+    "empty_state": {
+      "title": "Entrez du texte ci-dessus pour commencer",
+      "subtitle": "Tapez et appuyez sur Entrée pour créer votre tier list de texte",
+      "drag_here": "Glissez les éléments ici",
+      "drop_here": "Déposez ici !",
+      "tap_to_move": "Appuyez sur les éléments pour les déplacer"
+    },
+    "mobile_menu": {
+      "title": "Déplacer vers le Tier",
+      "delete_item": "Supprimer l'Élément",
+      "cancel": "Annuler"
+    },
+    "watermark": {
+      "made_by": "Créé par"
+    },
+    "instructions": {
+      "desktop": "Ordinateur : Glissez-déposez les éléments entre les tiers • Double-cliquez pour faire défiler les tiers",
+      "mobile": "Mobile : Appuyez sur les éléments pour ouvrir le menu rapide",
+      "auto_saved": "Enregistrement automatique • Votre progression est stockée localement"
+    }
   }
 }
 

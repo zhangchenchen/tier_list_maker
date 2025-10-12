@@ -28,3 +28,15 @@ export interface PricingPage {
 export interface ShowcasePage {
   showcase?: Section;
 }
+
+export interface TextTierListMakerPage {
+  hero?: Hero;
+  introduce?: Section;
+  benefit?: Section;
+  usage?: Section;
+  feature?: Section;
+  stats?: Section;
+  testimonial?: Section;
+  faq?: Section;
+  cta?: Section;
+}

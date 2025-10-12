@@ -169,6 +169,53 @@
     "watermark": {
       "made_by": "作成元"
     }
+  },
+  "text_tier_list_maker": {
+    "input": {
+      "placeholder": "テキストを入力してEnterを押してください（最大50文字）",
+      "hint": "💡 Enterを押すかテキストを追加をクリックしてアイテムをリストに追加"
+    },
+    "buttons": {
+      "add_text": "テキストを追加",
+      "save_image": "画像を保存",
+      "delete_all": "すべて削除",
+      "exporting": "エクスポート中...",
+      "remove_item": "アイテムを削除"
+    },
+    "toast": {
+      "restored": "前回のセッションから {count} 個のアイテムを復元しました",
+      "please_enter_text": "テキストを入力してください",
+      "text_too_long": "テキストが長すぎます（最大50文字）",
+      "item_added": "アイテムを追加しました",
+      "item_removed": "アイテムを削除しました",
+      "no_items_to_clear": "クリアするアイテムがありません",
+      "confirm_clear": "すべてのアイテムを削除してもよろしいですか？",
+      "all_items_cleared": "すべてのアイテムをクリアしました",
+      "please_add_items": "保存する前にアイテムを追加してください",
+      "image_saved": "画像を保存しました！",
+      "failed_to_save": "画像の保存に失敗しました",
+      "moved_to_tier": "{tier}ティアに移動しました"
+    },
+    "empty_state": {
+      "title": "上にテキストを入力して開始",
+      "subtitle": "テキストを入力してEnterを押してテキストTier表を作成",
+      "drag_here": "アイテムをここにドラッグ",
+      "drop_here": "ここにドロップ！",
+      "tap_to_move": "アイテムをタップして移動"
+    },
+    "mobile_menu": {
+      "title": "ティアに移動",
+      "delete_item": "アイテムを削除",
+      "cancel": "キャンセル"
+    },
+    "watermark": {
+      "made_by": "作成元"
+    },
+    "instructions": {
+      "desktop": "デスクトップ：ティア間でアイテムをドラッグ＆ドロップ • ダブルクリックでティアをサイクル",
+      "mobile": "モバイル：アイテムをタップしてクイックメニューを開く",
+      "auto_saved": "自動保存 • 進行状況はローカルに保存されます"
+    }
   }
 }
 

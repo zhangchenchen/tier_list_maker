@@ -1,0 +1,256 @@
+{
+  "hero": {
+    "announcement": {
+      "label": "2025",
+      "title": "🎉 免费文本Tier表制作工具"
+    },
+    "title_part1": "使用",
+    "highlight": "文本Tier表制作工具",
+    "title_part2": "秒速创建免费文本Tier表",
+    "title": "使用文本Tier表制作工具秒速创建免费文本Tier表",
+    "description": "文本Tier表制作工具是排名第一的免费在线工具，用于创建基于文本的Tier表。只需输入文本并按回车即可添加项目 - 无需图片！",
+    "tip": "🎁 永久100%免费 • 无需注册"
+  },
+  "introduce": {
+    "name": "introduce",
+    "title": "什么是文本Tier表制作工具",
+    "label": "介绍",
+    "description": "文本Tier表制作工具是一个专门的免费在线工具，帮助你使用文本条目而不是图片来创建Tier表。非常适合快速排名、表达观点和组织想法，无需图片。",
+    "items": [
+      {
+        "title": "简单的文本输入",
+        "description": "只需输入文本并按回车即可创建Tier表。无需上传或查找图片 - 只需输入你想要排名的内容。",
+        "icon": "RiNextjsFill"
+      },
+      {
+        "title": "拖放界面",
+        "description": "我们的文本Tier表制作工具具有直观的拖放界面，使组织文本条目变得轻松有趣。",
+        "icon": "RiDatabase2Line"
+      },
+      {
+        "title": "导出和分享",
+        "description": "将你的文本Tier表下载为图片，并与朋友、社交媒体或社区分享。",
+        "icon": "RiCloudyFill"
+      }
+    ]
+  },
+  "benefit": {
+    "name": "benefit",
+    "title": "为什么选择我们的文本Tier表制作工具",
+    "label": "优势",
+    "description": "了解为什么用户喜欢使用我们的文本Tier表制作工具来创建快速简单的排名。",
+    "items": [
+      {
+        "title": "完全免费的文本Tier表制作工具",
+        "description": "免费使用我们的文本Tier表制作工具。创建无限数量的基于文本的Tier表并下载你的排名 - 完全免费。",
+        "icon": "RiNextjsFill",
+        "image": {
+          "src": "/imgs/features/marvel_tier_list.webp"
+        }
+      },
+      {
+        "title": "无需图片",
+        "description": "与传统Tier表制作工具不同，我们的文本Tier表制作工具不需要图片。只需输入文本条目即可立即创建专业的Tier表。",
+        "icon": "RiClapperboardAiLine",
+        "image": {
+          "src": "/imgs/features/nba_tier_list.webp"
+        }
+      },
+      {
+        "title": "快速易用",
+        "description": "最简单的Tier表制作工具。输入、按回车、拖动组织、下载。使用文本Tier表制作工具在几秒钟内创建Tier表。",
+        "icon": "RiCodeFill",
+        "image": {
+          "src": "/imgs/features/video-girl-tier-list.webp"
+        }
+      }
+    ]
+  },
+  "usage": {
+    "name": "usage",
+    "title": "如何创建文本Tier表",
+    "description": "使用我们的文本Tier表制作工具创建文本Tier表非常简单。遵循以下简单步骤：",
+    "image_position": "left",
+    "text_align": "center",
+    "items": [
+      {
+        "title": "步骤1：输入文本",
+        "description": "在输入框中输入你的文本（最多50个字符），然后按回车或点击【添加文本】按钮。你的条目将自动添加到D级。"
+      },
+      {
+        "title": "步骤2：按层级组织",
+        "description": "桌面端：在层级（S、A、B、C、D）之间拖放文本项目。移动端：点击项目打开快捷菜单并选择目标层级。"
+      },
+      {
+        "title": "步骤3：编辑你的列表",
+        "description": "将鼠标悬停在项目上可看到删除按钮（X图标）并删除不需要的条目。根据需要添加更多文本项目或重新组织。"
+      },
+      {
+        "title": "步骤4：保存和分享",
+        "description": "点击【保存图片】按钮将你的文本Tier表下载为高质量PNG图片。立即在任何地方分享你的排名！"
+      }
+    ]
+  },
+  "feature": {
+    "name": "feature",
+    "title": "文本Tier表制作工具的主要功能",
+    "description": "创建完美的基于文本的Tier表所需的一切。",
+    "items": [
+      {
+        "title": "100%免费的文本Tier表工具",
+        "description": "免费创建无限数量的文本Tier表。我们的文本Tier表制作工具完全免费，没有隐藏费用或高级功能。",
+        "icon": "RiNextjsFill"
+      },
+      {
+        "title": "自定义文本排名",
+        "description": "输入任何你想要排名的文本。从电影到食物，观点到想法 - 使用文本Tier表制作工具组织任何内容。",
+        "icon": "RiKey2Fill"
+      },
+      {
+        "title": "自动保存功能",
+        "description": "你的文本Tier表会自动保存在浏览器中。关闭标签页稍后返回 - 你的进度会被保留。",
+        "icon": "RiDatabase2Line"
+      },
+      {
+        "title": "快速导出选项",
+        "description": "将你的文本Tier表下载为高质量图片。我们的文本Tier表制作工具提供即时导出功能。",
+        "icon": "RiCloudy2Fill"
+      },
+      {
+        "title": "移动友好设计",
+        "description": "在任何设备上使用我们的文本Tier表制作工具。在桌面、平板或移动设备上无缝创建和编辑文本Tier表。",
+        "icon": "RiBarChart2Line"
+      },
+      {
+        "title": "无需注册",
+        "description": "立即开始使用我们的文本Tier表制作工具。无需账户 - 只需打开并创建你的文本Tier表。",
+        "icon": "RiRobot2Line"
+      }
+    ]
+  },
+  "stats": {
+    "name": "stats",
+    "label": "统计",
+    "title": "人们喜爱我们的文本Tier表制作工具",
+    "description": "用于轻松创建基于文本的Tier表。",
+    "icon": "FaRegHeart",
+    "items": [
+      {
+        "title": "信任用户",
+        "label": "5K+",
+        "description": "位用户"
+      },
+      {
+        "title": "已创建",
+        "label": "20K+",
+        "description": "个文本Tier表"
+      },
+      {
+        "title": "制作Tier表仅需",
+        "label": "15",
+        "description": "秒"
+      }
+    ]
+  },
+  "testimonial": {
+    "name": "testimonial",
+    "label": "用户评价",
+    "title": "用户对文本Tier表制作工具的评价",
+    "description": "听听喜欢使用我们的工具创建文本Tier表的用户的声音。",
+    "icon": "GoThumbsup",
+    "items": [
+      {
+        "title": "张伟",
+        "label": "内容创作者",
+        "description": "这个文本Tier表制作工具非常适合快速的观点排名！我不需要找图片 - 只需输入和组织。超级快速方便！",
+        "image": {
+          "src": "/imgs/users/1.png"
+        }
+      },
+      {
+        "title": "李静",
+        "label": "教师",
+        "description": "我用文本Tier表制作工具进行课堂活动。学生们喜欢对词汇、历史事件等进行排名。不需要图片让它变得如此简单！",
+        "image": {
+          "src": "/imgs/users/2.png"
+        }
+      },
+      {
+        "title": "王强",
+        "label": "播客主持人",
+        "description": "我们在播客中使用这个工具实时创建Tier表。能够直接输入文本比找图片快得多！",
+        "image": {
+          "src": "/imgs/users/3.png"
+        }
+      },
+      {
+        "title": "刘芳",
+        "label": "社区管理员",
+        "description": "文本Tier表制作工具非常适合社区讨论。我们对话题、观点和想法进行排名，无需担心找图片。",
+        "image": {
+          "src": "/imgs/users/4.png"
+        }
+      },
+      {
+        "title": "陈明",
+        "label": "学生",
+        "description": "我用这个做学习笔记和组织概念！文本Tier表制作工具帮助我优先处理主题并以视觉方式记住关键信息。",
+        "image": {
+          "src": "/imgs/users/5.png"
+        }
+      },
+      {
+        "title": "赵丽",
+        "label": "博主",
+        "description": "喜欢这个工具的简单性！文本Tier表制作工具让我在几分钟内创建排名帖子。我的读者喜欢看到我的观点这样组织。",
+        "image": {
+          "src": "/imgs/users/6.png"
+        }
+      }
+    ]
+  },
+  "faq": {
+    "name": "faq",
+    "label": "常见问题",
+    "title": "关于文本Tier表制作工具的常见问题",
+    "description": "还有其他问题？通过Discord或电子邮件联系我们。",
+    "items": [
+      {
+        "title": "什么是文本Tier表制作工具？",
+        "description": "文本Tier表制作工具是一个免费的在线工具，允许你使用文本条目而不是图片创建Tier表。只需输入文本、按回车，然后将条目组织到层级（S、A、B、C、D）中。"
+      },
+      {
+        "title": "这个文本Tier表制作工具真的免费吗？",
+        "description": "是的！我们的文本Tier表制作工具100%免费使用。你可以创建无限数量的基于文本的Tier表、组织它们并下载你的排名，无需任何费用或订阅。"
+      },
+      {
+        "title": "使用文本Tier表制作工具需要图片吗？",
+        "description": "不需要！这就是文本Tier表制作工具的美妙之处 - 你不需要任何图片。只需输入你的文本条目并立即创建Tier表。非常适合观点、想法或任何没有图片的内容。"
+      },
+      {
+        "title": "如何创建文本Tier表？",
+        "description": "使用我们的文本Tier表制作工具很简单：1）在输入框中输入文本，2）按回车或点击【添加文本】按钮，3）将文本项目拖放到层级中，4）点击【保存图片】按钮下载。"
+      },
+      {
+        "title": "我可以保存文本Tier表的进度吗？",
+        "description": "可以！我们的文本Tier表制作工具会自动将你的进度保存在浏览器的本地存储中。你可以关闭页面稍后返回继续工作。"
+      },
+      {
+        "title": "如何分享我的文本Tier表？",
+        "description": "创建文本Tier表后，点击【保存图片】按钮将其下载为高质量PNG。然后你可以在社交媒体、论坛或任何你喜欢的地方分享这张图片。"
+      }
+    ]
+  },
+  "cta": {
+    "name": "cta",
+    "title": "立即创建你的第一个文本Tier表",
+    "description": "立即开始使用最好的免费文本Tier表制作工具进行排名。",
+    "buttons": [
+      {
+        "title": "开始使用文本Tier表制作工具",
+        "url": "/text-tier-list-maker#hero",
+        "icon": "GoArrowUpRight"
+      }
+    ]
+  }
+}
