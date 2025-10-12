@@ -13,9 +13,24 @@
     "nav": {
       "items": [
         {
-          "title": "텍스트 티어 리스트",
-          "url": "/text-tier-list-maker",
-          "icon": "RiText"
+          "title": "도구",
+          "icon": "RiToolsLine",
+          "children": [
+            {
+              "title": "이미지 티어 리스트 메이커",
+              "description": "이미지로 티어 리스트 만들기",
+              "url": "/",
+              "icon": "RiImageLine",
+              "target": "_self"
+            },
+            {
+              "title": "텍스트 티어 리스트 메이커",
+              "description": "텍스트로 티어 리스트 만들기",
+              "url": "/text-tier-list-maker",
+              "icon": "RiText",
+              "target": "_self"
+            }
+          ]
         },
         {
           "title": "기능",
@@ -305,6 +320,16 @@
             {
               "title": "기능",
               "url": "/#feature",
+              "target": "_self"
+            }
+          ]
+        },
+        {
+          "title": "리소스",
+          "children": [
+            {
+              "title": "BF6 무기 티어 리스트",
+              "url": "/bf6-weapon-tier-list",
               "target": "_self"
             }
           ]

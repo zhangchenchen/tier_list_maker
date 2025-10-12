@@ -1,4 +1,4 @@
-import { LandingPage, PricingPage, ShowcasePage, TextTierListMakerPage } from "@/types/pages/landing";
+import { LandingPage, PricingPage, ShowcasePage, TextTierListMakerPage, BF6WeaponTierListPage } from "@/types/pages/landing";
 
 export async function getLandingPage(locale: string): Promise<LandingPage> {
   return (await getPage("landing", locale)) as LandingPage;
@@ -16,10 +16,14 @@ export async function getTextTierListMakerPage(locale: string): Promise<TextTier
   return (await getPage("text-tier-list-maker", locale)) as TextTierListMakerPage;
 }
 
+export async function getBF6WeaponTierListPage(locale: string): Promise<BF6WeaponTierListPage> {
+  return (await getPage("bf6-weapon-tier-list", locale)) as BF6WeaponTierListPage;
+}
+
 export async function getPage(
   name: string,
   locale: string
-): Promise<LandingPage | PricingPage | ShowcasePage | TextTierListMakerPage> {
+): Promise<LandingPage | PricingPage | ShowcasePage | TextTierListMakerPage | BF6WeaponTierListPage> {
   try {
     if (locale === "zh-CN") {
       locale = "zh";

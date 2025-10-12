@@ -13,9 +13,24 @@
     "nav": {
       "items": [
         {
-          "title": "Tier List de Texto",
-          "url": "/text-tier-list-maker",
-          "icon": "RiText"
+          "title": "Herramientas",
+          "icon": "RiToolsLine",
+          "children": [
+            {
+              "title": "Creador de Tier List con Imágenes",
+              "description": "Crea tier lists con imágenes",
+              "url": "/",
+              "icon": "RiImageLine",
+              "target": "_self"
+            },
+            {
+              "title": "Creador de Tier List de Texto",
+              "description": "Crea tier lists con texto",
+              "url": "/text-tier-list-maker",
+              "icon": "RiText",
+              "target": "_self"
+            }
+          ]
         },
         {
           "title": "Características",
@@ -305,6 +320,16 @@
             {
               "title": "Características",
               "url": "/#feature",
+              "target": "_self"
+            }
+          ]
+        },
+        {
+          "title": "Recursos",
+          "children": [
+            {
+              "title": "BF6 Tier List de Armas",
+              "url": "/bf6-weapon-tier-list",
               "target": "_self"
             }
           ]

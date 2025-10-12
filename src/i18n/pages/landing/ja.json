@@ -13,9 +13,24 @@
     "nav": {
       "items": [
         {
-          "title": "テキストTier表",
-          "url": "/text-tier-list-maker",
-          "icon": "RiText"
+          "title": "ツール",
+          "icon": "RiToolsLine",
+          "children": [
+            {
+              "title": "画像Tierリストメーカー",
+              "description": "画像でTierリストを作成",
+              "url": "/",
+              "icon": "RiImageLine",
+              "target": "_self"
+            },
+            {
+              "title": "テキストTierリストメーカー",
+              "description": "テキストでTierリストを作成",
+              "url": "/text-tier-list-maker",
+              "icon": "RiText",
+              "target": "_self"
+            }
+          ]
         },
         {
           "title": "機能",
@@ -305,6 +320,16 @@
             {
               "title": "機能",
               "url": "/#feature",
+              "target": "_self"
+            }
+          ]
+        },
+        {
+          "title": "リソース",
+          "children": [
+            {
+              "title": "BF6武器Tier表",
+              "url": "/bf6-weapon-tier-list",
               "target": "_self"
             }
           ]

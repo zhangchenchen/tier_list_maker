@@ -40,3 +40,19 @@ export interface TextTierListMakerPage {
   faq?: Section;
   cta?: Section;
 }
+
+export interface BF6WeaponTierListPage {
+  title: string;
+  description: string;
+  keywords?: string;
+  lastUpdated?: string;
+  content: string;
+  cta?: {
+    title: string;
+    description: string;
+    buttons?: Array<{
+      title: string;
+      url: string;
+    }>;
+  };
+}
