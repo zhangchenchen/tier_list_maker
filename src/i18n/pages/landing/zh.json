@@ -13,6 +13,11 @@
     "nav": {
       "items": [
         {
+          "title": "文本Tier表",
+          "url": "/text-tier-list-maker",
+          "icon": "RiText"
+        },
+        {
           "title": "功能特性",
           "url": "/#feature",
           "icon": "RiSparkling2Line"

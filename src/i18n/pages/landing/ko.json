@@ -13,6 +13,11 @@
     "nav": {
       "items": [
         {
+          "title": "텍스트 티어 리스트",
+          "url": "/text-tier-list-maker",
+          "icon": "RiText"
+        },
+        {
           "title": "기능",
           "url": "/#feature",
           "icon": "RiSparkling2Line"

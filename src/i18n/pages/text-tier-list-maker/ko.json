@@ -188,7 +188,13 @@
     "name": "cta",
     "title": "지금 첫 번째 텍스트 티어 리스트 만들기",
     "description": "오늘 최고의 무료 Text Tier List Maker로 랭킹을 시작하세요.",
-    "button": "텍스트 티어 리스트 메이커 사용 시작"
+    "buttons": [
+      {
+        "title": "텍스트 티어 리스트 메이커 사용 시작",
+        "url": "/text-tier-list-maker#hero",
+        "icon": "GoArrowUpRight"
+      }
+    ]
   }
 }
 

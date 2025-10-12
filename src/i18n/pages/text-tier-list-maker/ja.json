@@ -188,7 +188,13 @@
     "name": "cta",
     "title": "今すぐ最初のテキストTierリストを作成",
     "description": "今日から最高の無料Text Tier List Makerでランキングを開始しましょう。",
-    "button": "テキストTierリストメーカーの使用を開始"
+    "buttons": [
+      {
+        "title": "テキストTierリストメーカーの使用を開始",
+        "url": "/text-tier-list-maker#hero",
+        "icon": "GoArrowUpRight"
+      }
+    ]
   }
 }
 

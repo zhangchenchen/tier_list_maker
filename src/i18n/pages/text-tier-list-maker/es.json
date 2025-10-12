@@ -188,7 +188,13 @@
     "name": "cta",
     "title": "Crea Tu Primera Tier List de Texto Ahora",
     "description": "Comienza a clasificar con el mejor Text Tier List Maker gratuito hoy.",
-    "button": "Comenzar a Usar Text Tier List Maker"
+    "buttons": [
+      {
+        "title": "Comenzar a Usar Text Tier List Maker",
+        "url": "/text-tier-list-maker#hero",
+        "icon": "GoArrowUpRight"
+      }
+    ]
   }
 }
 

@@ -188,7 +188,13 @@
     "name": "cta",
     "title": "立即創建你的第一個文字Tier表",
     "description": "立即開始使用最好的免費文字Tier表製作工具進行排名。",
-    "button": "開始使用文字Tier表製作工具"
+    "buttons": [
+      {
+        "title": "開始使用文字Tier表製作工具",
+        "url": "/text-tier-list-maker#hero",
+        "icon": "GoArrowUpRight"
+      }
+    ]
   }
 }
 
