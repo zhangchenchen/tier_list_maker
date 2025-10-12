@@ -15,174 +15,231 @@
     "name": "introduce",
     "title": "텍스트 티어 리스트 메이커란",
     "label": "소개",
-    "description": "Text Tier List Maker는 이미지 대신 텍스트 입력을 사용하여 티어 리스트를 만드는 데 도움이 되는 전문 무료 온라인 도구입니다. 빠른 랭킹, 의견, 아이디어 정리에 완벽하며 이미지가 필요 없습니다.",
-    "item1": {
-      "title": "간단한 텍스트 입력",
-      "description": "텍스트를 입력하고 Enter를 누르기만 하면 티어 리스트를 만들 수 있습니다. 이미지를 업로드하거나 찾을 필요 없이 - 랭킹하고 싶은 것을 입력하기만 하면 됩니다."
-    },
-    "item2": {
-      "title": "드래그 앤 드롭 인터페이스",
-      "description": "당사의 Text Tier List Maker는 텍스트 항목을 손쉽고 재미있게 정리할 수 있는 직관적인 드래그 앤 드롭 인터페이스를 제공합니다."
-    },
-    "item3": {
-      "title": "내보내기 및 공유",
-      "description": "텍스트 티어 리스트를 이미지로 다운로드하고 친구들, 소셜 미디어 또는 커뮤니티와 공유할 수 있습니다."
-    }
+    "description": "Text Tier List Maker는 이미지 대신 텍스트 항목을 사용하여 티어 리스트를 만드는 데 도움이 되는 전문 무료 온라인 도구입니다. 빠른 순위, 의견 및 이미지 없이 아이디어를 정리하는 데 완벽합니다.",
+    "items": [
+      {
+        "title": "간단한 텍스트 입력",
+        "description": "텍스트를 입력하고 Enter를 누르기만 하면 티어 리스트를 만들 수 있습니다. 이미지를 업로드하거나 찾을 필요 없음 - 순위를 매길 내용만 입력하세요.",
+        "icon": "RiNextjsFill"
+      },
+      {
+        "title": "드래그 앤 드롭 인터페이스",
+        "description": "당사의 Text Tier List Maker는 텍스트 항목을 쉽고 재미있게 정리할 수 있는 직관적인 드래그 앤 드롭 인터페이스를 제공합니다.",
+        "icon": "RiDatabase2Line"
+      },
+      {
+        "title": "내보내기 및 공유",
+        "description": "텍스트 티어 리스트를 이미지로 다운로드하고 친구, 소셜 미디어 또는 커뮤니티에서 공유하세요.",
+        "icon": "RiCloudyFill"
+      }
+    ]
   },
   "benefit": {
     "name": "benefit",
-    "title": "텍스트 티어 리스트 메이커를 선택하는 이유",
-    "label": "장점",
-    "description": "사용자들이 빠르고 간단한 랭킹을 만들기 위해 당사의 Text Tier List Maker를 사랑하는 이유를 알아보세요.",
-    "item1": {
-      "title": "완전 무료 텍스트 티어 리스트 메이커",
-      "description": "당사의 Text Tier List Maker를 무료로 사용하세요. 무제한 텍스트 기반 티어 리스트를 만들고 랭킹을 다운로드 - 모두 완전 무료입니다."
-    },
-    "item2": {
-      "title": "이미지 불필요",
-      "description": "기존 티어 리스트 메이커와 달리 당사의 Text Tier List Maker는 이미지가 필요 없습니다. 텍스트 항목을 입력하기만 하면 즉시 전문적인 티어 리스트를 만들 수 있습니다."
-    },
-    "item3": {
-      "title": "빠르고 사용하기 쉬움",
-      "description": "가장 간단한 티어 리스트 메이커. 입력, Enter 누르기, 드래그하여 정리, 다운로드. Text Tier List Maker로 몇 초 만에 티어 리스트를 만드세요."
-    }
+    "title": "당사의 텍스트 티어 리스트 메이커를 선택하는 이유",
+    "label": "이점",
+    "description": "사용자가 빠르고 간단한 순위를 만들기 위해 당사의 Text Tier List Maker를 사랑하는 이유를 알아보세요.",
+    "items": [
+      {
+        "title": "완전 무료 텍스트 티어 리스트 메이커",
+        "description": "비용 없이 Text Tier List Maker를 사용하세요. 무제한 텍스트 기반 티어 리스트를 만들고 순위를 다운로드 - 모두 완전 무료입니다.",
+        "icon": "RiNextjsFill",
+        "image": {
+          "src": "/imgs/features/marvel_tier_list.webp"
+        }
+      },
+      {
+        "title": "이미지 불필요",
+        "description": "기존 티어 리스트 메이커와 달리 당사의 Text Tier List Maker는 이미지가 필요하지 않습니다. 텍스트 항목을 입력하기만 하면 전문적인 티어 리스트를 즉시 만들 수 있습니다.",
+        "icon": "RiClapperboardAiLine",
+        "image": {
+          "src": "/imgs/features/nba_tier_list.webp"
+        }
+      },
+      {
+        "title": "빠르고 사용하기 쉬움",
+        "description": "가장 간단한 티어 리스트 메이커입니다. 입력, Enter 누르기, 드래그하여 정리 및 다운로드. Text Tier List Maker로 몇 초 만에 티어 리스트를 만드세요.",
+        "icon": "RiCodeFill",
+        "image": {
+          "src": "/imgs/features/video-girl-tier-list.webp"
+        }
+      }
+    ]
   },
   "usage": {
     "name": "usage",
     "title": "텍스트 티어 리스트 만드는 방법",
-    "description": "당사의 Text Tier List Maker로 텍스트 티어 리스트를 만드는 것은 매우 간단합니다. 다음의 쉬운 단계를 따르세요:",
-    "step1": {
-      "title": "1단계: 텍스트 입력",
-      "description": "입력 필드에 텍스트를 입력하고(최대 50자) Enter를 누르거나 '텍스트 추가'를 클릭하세요. 항목이 자동으로 D 티어에 추가됩니다."
-    },
-    "step2": {
-      "title": "2단계: 티어별로 정리",
-      "description": "데스크톱: 텍스트 항목을 티어 간에 드래그 앤 드롭(S, A, B, C, D). 모바일: 항목을 탭하여 빠른 메뉴를 열고 대상 티어를 선택하세요."
-    },
-    "step3": {
-      "title": "3단계: 리스트 편집",
-      "description": "항목 위로 마우스를 가져가면 삭제 버튼(X 아이콘)이 표시되어 원하지 않는 항목을 제거할 수 있습니다. 필요에 따라 더 많은 텍스트 항목을 추가하거나 재정리하세요."
-    },
-    "step4": {
-      "title": "4단계: 저장 및 공유",
-      "description": "'이미지 저장'을 클릭하여 텍스트 티어 리스트를 고품질 PNG 이미지로 다운로드하세요. 즉시 어디서나 랭킹을 공유하세요!"
-    }
+    "description": "당사의 Text Tier List Maker를 사용하면 텍스트 티어 리스트를 만드는 것이 매우 간단합니다. 다음의 쉬운 단계를 따르세요:",
+    "image_position": "left",
+    "text_align": "center",
+    "items": [
+      {
+        "title": "1단계: 텍스트 입력",
+        "description": "입력 필드에 텍스트를 입력하고(최대 50자) Enter를 누르거나 '텍스트 추가'를 클릭하세요. 항목이 자동으로 D 티어에 추가됩니다."
+      },
+      {
+        "title": "2단계: 티어별로 정리",
+        "description": "데스크톱: 텍스트 항목을 티어(S, A, B, C, D) 간에 드래그 앤 드롭하세요. 모바일: 항목을 탭하여 빠른 메뉴를 열고 대상 티어를 선택하세요."
+      },
+      {
+        "title": "3단계: 목록 편집",
+        "description": "항목 위로 마우스를 가져가면 삭제 버튼(X 아이콘)이 표시되고 원하지 않는 항목을 제거할 수 있습니다. 필요에 따라 텍스트 항목을 더 추가하거나 재정리하세요."
+      },
+      {
+        "title": "4단계: 저장 및 공유",
+        "description": "'이미지 저장'을 클릭하여 텍스트 티어 리스트를 고품질 PNG 이미지로 다운로드하세요. 어디든 즉시 순위를 공유하세요!"
+      }
+    ]
   },
   "feature": {
     "name": "feature",
     "title": "텍스트 티어 리스트 메이커의 주요 기능",
     "description": "매번 완벽한 텍스트 기반 티어 리스트를 만드는 데 필요한 모든 것.",
-    "item1": {
-      "title": "100% 무료 텍스트 티어 리스트 도구",
-      "description": "무제한 텍스트 티어 리스트를 무료로 만드세요. 당사의 Text Tier List Maker는 숨겨진 요금이나 프리미엄 기능 없이 완전 무료입니다."
-    },
-    "item2": {
-      "title": "사용자 정의 텍스트 랭킹",
-      "description": "랭킹하고 싶은 모든 텍스트를 입력하세요. 영화부터 음식, 의견부터 아이디어까지 - Text Tier List Maker로 무엇이든 정리하세요."
-    },
-    "item3": {
-      "title": "자동 저장 기능",
-      "description": "텍스트 티어 리스트는 브라우저에 자동으로 저장됩니다. 탭을 닫고 나중에 돌아와도 - 진행 상황이 보존됩니다."
-    },
-    "item4": {
-      "title": "빠른 내보내기 옵션",
-      "description": "텍스트 티어 리스트를 고품질 이미지로 다운로드하세요. 당사의 Text Tier List Maker는 즉시 내보내기 기능을 제공합니다."
-    },
-    "item5": {
-      "title": "모바일 친화적 디자인",
-      "description": "모든 기기에서 당사의 Text Tier List Maker를 사용하세요. 데스크톱, 태블릿 또는 모바일에서 텍스트 티어 리스트를 원활하게 만들고 편집하세요."
-    },
-    "item6": {
-      "title": "가입 불필요",
-      "description": "즉시 당사의 Text Tier List Maker 사용을 시작하세요. 계정 불필요 - 열고 텍스트 티어 리스트를 만들기만 하면 됩니다."
-    }
+    "items": [
+      {
+        "title": "100% 무료 텍스트 티어 리스트 도구",
+        "description": "무제한 텍스트 티어 리스트를 무료로 만드세요. 당사의 Text Tier List Maker는 숨겨진 요금이나 프리미엄 기능 없이 완전히 무료입니다.",
+        "icon": "RiNextjsFill"
+      },
+      {
+        "title": "맞춤형 텍스트 순위",
+        "description": "순위를 매길 텍스트를 입력하세요. 영화부터 음식, 의견부터 아이디어까지 - Text Tier List Maker로 무엇이든 정리하세요.",
+        "icon": "RiKey2Fill"
+      },
+      {
+        "title": "자동 저장 기능",
+        "description": "텍스트 티어 리스트는 브라우저에 자동으로 저장됩니다. 탭을 닫고 나중에 돌아오세요 - 진행 상황이 보존됩니다.",
+        "icon": "RiDatabase2Line"
+      },
+      {
+        "title": "빠른 내보내기 옵션",
+        "description": "텍스트 티어 리스트를 고품질 이미지로 다운로드하세요. 당사의 Text Tier List Maker는 즉각적인 내보내기 기능을 제공합니다.",
+        "icon": "RiCloudy2Fill"
+      },
+      {
+        "title": "모바일 친화적 디자인",
+        "description": "모든 기기에서 당사의 Text Tier List Maker를 사용하세요. 데스크톱, 태블릿 또는 모바일에서 텍스트 티어 리스트를 원활하게 만들고 편집하세요.",
+        "icon": "RiBarChart2Line"
+      },
+      {
+        "title": "가입 불필요",
+        "description": "당사의 Text Tier List Maker를 즉시 사용하기 시작하세요. 계정 불필요 - 열고 텍스트 티어 리스트를 만드세요.",
+        "icon": "RiRobot2Line"
+      }
+    ]
   },
   "stats": {
     "name": "stats",
     "label": "통계",
     "title": "사람들은 당사의 텍스트 티어 리스트 메이커를 사랑합니다",
     "description": "텍스트 기반 티어 리스트를 손쉽게 만들기 위해.",
-    "item1": {
-      "title": "신뢰하는",
-      "label": "5K+",
-      "description": "사용자"
-    },
-    "item2": {
-      "title": "생성된",
-      "label": "20K+",
-      "description": "텍스트 티어 리스트"
-    },
-    "item3": {
-      "title": "티어 리스트 만드는 시간",
-      "label": "15",
-      "description": "초"
-    }
+    "icon": "FaRegHeart",
+    "items": [
+      {
+        "title": "신뢰받는",
+        "label": "5K+",
+        "description": "사용자"
+      },
+      {
+        "title": "생성된",
+        "label": "20K+",
+        "description": "텍스트 티어 리스트"
+      },
+      {
+        "title": "티어 리스트 만들기",
+        "label": "15",
+        "description": "초"
+      }
+    ]
   },
   "testimonial": {
     "name": "testimonial",
-    "label": "사용 후기",
-    "title": "텍스트 티어 리스트 메이커에 대한 사용자 의견",
-    "description": "당사 도구로 텍스트 티어 리스트를 만드는 것을 좋아하는 사용자들의 의견을 들어보세요.",
-    "item1": {
-      "title": "Jordan Smith",
-      "label": "콘텐츠 크리에이터",
-      "description": "이 Text Tier List Maker는 빠른 의견 랭킹에 완벽합니다! 이미지를 찾을 필요가 없습니다 - 그냥 입력하고 정리하면 됩니다. 매우 빠르고 편리합니다!"
-    },
-    "item2": {
-      "title": "Emily Chen",
-      "label": "교사",
-      "description": "교실 활동에 Text Tier List Maker를 사용합니다. 학생들은 어휘, 역사적 사건 등을 랭킹하는 것을 좋아합니다. 이미지가 필요 없어서 매우 간단합니다!"
-    },
-    "item3": {
-      "title": "Marcus Johnson",
-      "label": "팟캐스트 진행자",
-      "description": "이 도구를 사용하여 팟캐스트 중에 실시간으로 티어 리스트를 만듭니다. 텍스트를 입력하기만 하면 이미지를 찾는 것보다 훨씬 빠릅니다!"
-    },
-    "item4": {
-      "title": "Sofia Martinez",
-      "label": "커뮤니티 매니저",
-      "description": "Text Tier List Maker는 커뮤니티 토론에 완벽합니다. 이미지를 찾는 것에 대해 걱정하지 않고 주제, 의견, 아이디어를 랭킹합니다."
-    },
-    "item5": {
-      "title": "Alex Thompson",
-      "label": "학생",
-      "description": "공부 노트와 개념 정리에 이것을 사용합니다! Text Tier List Maker는 주제의 우선순위를 정하고 시각적으로 중요한 정보를 기억하는 데 도움이 됩니다."
-    },
-    "item6": {
-      "title": "Rachel Kim",
-      "label": "블로거",
-      "description": "이것의 간단함을 좋아합니다! Text Tier List Maker로 몇 분 만에 랭킹 게시물을 만들 수 있습니다. 독자들은 내 의견이 이런 식으로 정리되는 것을 보는 것을 좋아합니다."
-    }
+    "label": "후기",
+    "title": "사용자가 텍스트 티어 리스트 메이커에 대해 말하는 것",
+    "description": "당사의 도구로 텍스트 티어 리스트를 만드는 것을 좋아하는 사용자의 의견을 들어보세요.",
+    "icon": "GoThumbsup",
+    "items": [
+      {
+        "title": "Jordan Smith",
+        "label": "콘텐츠 제작자",
+        "description": "이 Text Tier List Maker는 빠른 의견 순위에 완벽합니다! 이미지를 찾을 필요가 없습니다 - 입력하고 정리하면 됩니다. 매우 빠르고 편리합니다!",
+        "image": {
+          "src": "/imgs/users/1.png"
+        }
+      },
+      {
+        "title": "Emily Chen",
+        "label": "교사",
+        "description": "수업 활동에 Text Tier List Maker를 사용합니다. 학생들은 어휘, 역사적 사건 등의 순위를 매기는 것을 좋아합니다. 이미지가 필요 없어서 너무 간단합니다!",
+        "image": {
+          "src": "/imgs/users/2.png"
+        }
+      },
+      {
+        "title": "Marcus Johnson",
+        "label": "팟캐스트 진행자",
+        "description": "이 도구를 사용하여 팟캐스트 중에 라이브로 티어 리스트를 만듭니다. 텍스트만 입력할 수 있어서 이미지를 찾는 것보다 훨씬 빠릅니다!",
+        "image": {
+          "src": "/imgs/users/3.png"
+        }
+      },
+      {
+        "title": "Sofia Martinez",
+        "label": "커뮤니티 관리자",
+        "description": "Text Tier List Maker는 커뮤니티 토론에 완벽합니다. 이미지를 찾는 것에 대해 걱정하지 않고 주제, 의견 및 아이디어의 순위를 매깁니다.",
+        "image": {
+          "src": "/imgs/users/4.png"
+        }
+      },
+      {
+        "title": "Alex Thompson",
+        "label": "학생",
+        "description": "학습 노트와 개념 정리에 이것을 사용합니다! Text Tier List Maker는 주제에 우선순위를 매기고 핵심 정보를 시각적으로 기억하는 데 도움이 됩니다.",
+        "image": {
+          "src": "/imgs/users/5.png"
+        }
+      },
+      {
+        "title": "Rachel Kim",
+        "label": "블로거",
+        "description": "이것이 얼마나 간단한지 좋아합니다! Text Tier List Maker를 사용하면 몇 분 안에 순위 게시물을 만들 수 있습니다. 독자들은 제 의견이 이런 식으로 정리된 것을 보는 것을 좋아합니다.",
+        "image": {
+          "src": "/imgs/users/6.png"
+        }
+      }
+    ]
   },
   "faq": {
     "name": "faq",
-    "label": "자주 묻는 질문",
+    "label": "FAQ",
     "title": "텍스트 티어 리스트 메이커에 대한 자주 묻는 질문",
     "description": "다른 질문이 있으신가요? Discord 또는 이메일로 문의하세요.",
-    "item1": {
-      "title": "텍스트 티어 리스트 메이커란 무엇인가요?",
-      "description": "Text Tier List Maker는 이미지 대신 텍스트 입력을 사용하여 티어 리스트를 만들 수 있는 무료 온라인 도구입니다. 텍스트를 입력하고 Enter를 누르고 항목을 티어(S, A, B, C, D)로 정리하기만 하면 됩니다."
-    },
-    "item2": {
-      "title": "이 텍스트 티어 리스트 메이커는 정말 무료인가요?",
-      "description": "네! 당사의 Text Tier List Maker는 100% 무료로 사용할 수 있습니다. 무제한 텍스트 기반 티어 리스트를 만들고 정리하고 랭킹을 다운로드할 수 있습니다 - 비용이나 구독 없이."
-    },
-    "item3": {
-      "title": "텍스트 티어 리스트 메이커를 사용하는 데 이미지가 필요한가요?",
-      "description": "아니요! 그것이 Text Tier List Maker의 아름다움입니다 - 이미지가 필요 없습니다. 텍스트 항목을 입력하기만 하면 즉시 티어 리스트를 만들 수 있습니다. 의견, 아이디어 또는 이미지가 없는 모든 것에 완벽합니다."
-    },
-    "item4": {
-      "title": "텍스트 티어 리스트를 어떻게 만드나요?",
-      "description": "당사의 Text Tier List Maker 사용은 간단합니다: 1) 입력 필드에 텍스트 입력, 2) Enter를 누르거나 '텍스트 추가' 클릭, 3) 텍스트 항목을 티어로 드래그 앤 드롭, 4) '이미지 저장'을 클릭하여 다운로드."
-    },
-    "item5": {
-      "title": "텍스트 티어 리스트 진행 상황을 저장할 수 있나요?",
-      "description": "네! 당사의 Text Tier List Maker는 브라우저의 로컬 스토리지에 진행 상황을 자동으로 저장합니다. 페이지를 닫고 나중에 돌아와서 계속 작업할 수 있습니다."
-    },
-    "item6": {
-      "title": "텍스트 티어 리스트를 어떻게 공유하나요?",
-      "description": "텍스트 티어 리스트를 만든 후 '이미지 저장'을 클릭하여 고품질 PNG로 다운로드하세요. 그런 다음 소셜 미디어, 포럼 또는 원하는 곳에 이 이미지를 공유할 수 있습니다."
-    }
+    "items": [
+      {
+        "title": "텍스트 티어 리스트 메이커란 무엇인가요?",
+        "description": "Text Tier List Maker는 이미지 대신 텍스트 항목을 사용하여 티어 리스트를 만들 수 있는 무료 온라인 도구입니다. 텍스트를 입력하고 Enter를 누르고 항목을 티어(S, A, B, C, D)로 정리하기만 하면 됩니다."
+      },
+      {
+        "title": "이 텍스트 티어 리스트 메이커는 정말 무료인가요?",
+        "description": "예! 당사의 Text Tier List Maker는 100% 무료로 사용할 수 있습니다. 비용이나 구독 없이 무제한 텍스트 기반 티어 리스트를 만들고 정리하고 순위를 다운로드할 수 있습니다."
+      },
+      {
+        "title": "텍스트 티어 리스트 메이커를 사용하려면 이미지가 필요한가요?",
+        "description": "아니요! 그것이 Text Tier List Maker의 장점입니다 - 이미지가 필요 없습니다. 텍스트 항목을 입력하기만 하면 즉시 티어 리스트를 만들 수 있습니다. 의견, 아이디어 또는 이미지 없는 모든 것에 완벽합니다."
+      },
+      {
+        "title": "텍스트 티어 리스트를 어떻게 만드나요?",
+        "description": "당사의 Text Tier List Maker 사용은 간단합니다: 1) 입력 필드에 텍스트를 입력, 2) Enter를 누르거나 '텍스트 추가'를 클릭, 3) 텍스트 항목을 티어로 드래그 앤 드롭, 4) '이미지 저장'을 클릭하여 다운로드."
+      },
+      {
+        "title": "텍스트 티어 리스트 진행 상황을 저장할 수 있나요?",
+        "description": "예! 당사의 Text Tier List Maker는 브라우저의 로컬 저장소에 진행 상황을 자동으로 저장합니다. 페이지를 닫고 나중에 돌아와서 계속 작업할 수 있습니다."
+      },
+      {
+        "title": "텍스트 티어 리스트를 어떻게 공유하나요?",
+        "description": "텍스트 티어 리스트를 만든 후 '이미지 저장'을 클릭하여 고품질 PNG로 다운로드하세요. 그런 다음 소셜 미디어, 포럼 또는 원하는 곳에 이 이미지를 공유할 수 있습니다."
+      }
+    ]
   },
   "cta": {
     "name": "cta",
@@ -197,4 +254,3 @@
     ]
   }
 }
-

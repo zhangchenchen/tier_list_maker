@@ -16,173 +16,230 @@
     "title": "Qué es Text Tier List Maker",
     "label": "Introducir",
     "description": "Text Tier List Maker es una herramienta gratuita en línea especializada que te ayuda a crear tier lists usando entradas de texto en lugar de imágenes. Perfecto para clasificaciones rápidas, opiniones y organizar ideas sin necesidad de imágenes.",
-    "item1": {
-      "title": "Entrada de Texto Simple",
-      "description": "Crea tier lists simplemente escribiendo texto y presionando Enter. No necesitas subir o buscar imágenes - solo escribe lo que quieres clasificar."
-    },
-    "item2": {
-      "title": "Interfaz de Arrastrar y Soltar",
-      "description": "Nuestro Text Tier List Maker cuenta con una interfaz intuitiva de arrastrar y soltar que hace que organizar entradas de texto sea fácil y divertido."
-    },
-    "item3": {
-      "title": "Exportar y Compartir",
-      "description": "Descarga tu tier list de texto como una imagen y compártela con amigos, en redes sociales o en tus comunidades."
-    }
+    "items": [
+      {
+        "title": "Entrada de Texto Simple",
+        "description": "Crea tier lists simplemente escribiendo texto y presionando Enter. No necesitas subir o buscar imágenes - solo escribe lo que quieres clasificar.",
+        "icon": "RiNextjsFill"
+      },
+      {
+        "title": "Interfaz de Arrastrar y Soltar",
+        "description": "Nuestro Text Tier List Maker cuenta con una interfaz intuitiva de arrastrar y soltar que hace que organizar entradas de texto sea fácil y divertido.",
+        "icon": "RiDatabase2Line"
+      },
+      {
+        "title": "Exportar y Compartir",
+        "description": "Descarga tu tier list de texto como una imagen y compártela con amigos, en redes sociales o en tus comunidades.",
+        "icon": "RiCloudyFill"
+      }
+    ]
   },
   "benefit": {
     "name": "benefit",
     "title": "Por Qué Elegir Nuestro Text Tier List Maker",
     "label": "Beneficios",
     "description": "Descubre por qué los usuarios aman nuestro Text Tier List Maker para crear clasificaciones rápidas y simples.",
-    "item1": {
-      "title": "Creador de Tier List de Texto Completamente Gratuito",
-      "description": "Usa nuestro Text Tier List Maker sin ningún costo. Crea tier lists basadas en texto ilimitadas y descarga tus clasificaciones - todo completamente gratis."
-    },
-    "item2": {
-      "title": "No Se Requieren Imágenes",
-      "description": "A diferencia de los creadores de tier list tradicionales, nuestro Text Tier List Maker no requiere imágenes. Solo escribe entradas de texto para crear tier lists de aspecto profesional al instante."
-    },
-    "item3": {
-      "title": "Rápido y Fácil de Usar",
-      "description": "El creador de tier list más simple disponible. Escribe, presiona Enter, arrastra para organizar y descarga. Crea tier lists en segundos con Text Tier List Maker."
-    }
+    "items": [
+      {
+        "title": "Creador de Tier List de Texto Completamente Gratuito",
+        "description": "Usa nuestro Text Tier List Maker sin ningún costo. Crea tier lists basadas en texto ilimitadas y descarga tus clasificaciones - todo completamente gratis.",
+        "icon": "RiNextjsFill",
+        "image": {
+          "src": "/imgs/features/marvel_tier_list.webp"
+        }
+      },
+      {
+        "title": "No Se Requieren Imágenes",
+        "description": "A diferencia de los creadores de tier list tradicionales, nuestro Text Tier List Maker no requiere imágenes. Solo escribe entradas de texto para crear tier lists de aspecto profesional al instante.",
+        "icon": "RiClapperboardAiLine",
+        "image": {
+          "src": "/imgs/features/nba_tier_list.webp"
+        }
+      },
+      {
+        "title": "Rápido y Fácil de Usar",
+        "description": "El creador de tier list más simple disponible. Escribe, presiona Enter, arrastra para organizar y descarga. Crea tier lists en segundos con Text Tier List Maker.",
+        "icon": "RiCodeFill",
+        "image": {
+          "src": "/imgs/features/video-girl-tier-list.webp"
+        }
+      }
+    ]
   },
   "usage": {
     "name": "usage",
     "title": "Cómo Crear una Tier List de Texto",
     "description": "Crear una tier list de texto es increíblemente simple con nuestro Text Tier List Maker. Sigue estos sencillos pasos:",
-    "step1": {
-      "title": "Paso 1: Ingresar Texto",
-      "description": "Escribe tu texto en el campo de entrada (hasta 50 caracteres) y presiona Enter o haz clic en 'Agregar Texto'. Tu entrada se agregará automáticamente al nivel D."
-    },
-    "step2": {
-      "title": "Paso 2: Organizar por Niveles",
-      "description": "En escritorio: arrastra y suelta elementos de texto entre niveles (S, A, B, C, D). En móvil: toca los elementos para abrir el menú rápido y seleccionar el nivel objetivo."
-    },
-    "step3": {
-      "title": "Paso 3: Editar tu Lista",
-      "description": "Pasa el cursor sobre los elementos para ver el botón de eliminar (ícono X) y eliminar entradas no deseadas. Agrega más elementos de texto o reorganiza según sea necesario."
-    },
-    "step4": {
-      "title": "Paso 4: Guardar y Compartir",
-      "description": "¡Haz clic en 'Guardar Imagen' para descargar tu tier list de texto como una imagen PNG de alta calidad. Comparte tus clasificaciones en cualquier lugar al instante!"
-    }
+    "image_position": "left",
+    "text_align": "center",
+    "items": [
+      {
+        "title": "Paso 1: Ingresar Texto",
+        "description": "Escribe tu texto en el campo de entrada (hasta 50 caracteres) y presiona Enter o haz clic en 'Agregar Texto'. Tu entrada se agregará automáticamente al nivel D."
+      },
+      {
+        "title": "Paso 2: Organizar por Niveles",
+        "description": "En escritorio: arrastra y suelta elementos de texto entre niveles (S, A, B, C, D). En móvil: toca elementos para abrir el menú rápido y seleccionar el nivel objetivo."
+      },
+      {
+        "title": "Paso 3: Editar Tu Lista",
+        "description": "Pasa el cursor sobre los elementos para ver el botón eliminar (ícono X) y eliminar entradas no deseadas. Agrega más elementos de texto o reorganiza según sea necesario."
+      },
+      {
+        "title": "Paso 4: Guardar y Compartir",
+        "description": "Haz clic en 'Guardar Imagen' para descargar tu tier list de texto como una imagen PNG de alta calidad. ¡Comparte tus clasificaciones en cualquier lugar al instante!"
+      }
+    ]
   },
   "feature": {
     "name": "feature",
     "title": "Características Clave de Text Tier List Maker",
     "description": "Todo lo que necesitas para crear tier lists basadas en texto perfectas cada vez.",
-    "item1": {
-      "title": "Herramienta de Tier List de Texto 100% Gratuita",
-      "description": "Crea tier lists de texto ilimitadas gratis. Nuestro Text Tier List Maker es completamente gratuito sin tarifas ocultas ni funciones premium."
-    },
-    "item2": {
-      "title": "Clasificaciones de Texto Personalizadas",
-      "description": "Escribe cualquier texto que quieras clasificar. Desde películas hasta comida, opiniones hasta ideas - organiza cualquier cosa con Text Tier List Maker."
-    },
-    "item3": {
-      "title": "Función de Auto-Guardado",
-      "description": "Tu tier list de texto se guarda automáticamente en tu navegador. Cierra la pestaña y regresa más tarde - tu progreso se conserva."
-    },
-    "item4": {
-      "title": "Opciones de Exportación Rápida",
-      "description": "Descarga tus tier lists de texto como imágenes de alta calidad. Nuestro Text Tier List Maker proporciona funcionalidad de exportación instantánea."
-    },
-    "item5": {
-      "title": "Diseño Amigable para Móviles",
-      "description": "Usa nuestro Text Tier List Maker en cualquier dispositivo. Crea y edita tier lists de texto en escritorio, tableta o móvil sin problemas."
-    },
-    "item6": {
-      "title": "No Se Requiere Registro",
-      "description": "Comienza a usar nuestro Text Tier List Maker inmediatamente. No se necesita cuenta - solo abre y crea tu tier list de texto."
-    }
+    "items": [
+      {
+        "title": "Herramienta de Tier List de Texto 100% Gratuita",
+        "description": "Crea tier lists de texto ilimitadas gratis. Nuestro Text Tier List Maker es completamente gratuito sin tarifas ocultas ni funciones premium.",
+        "icon": "RiNextjsFill"
+      },
+      {
+        "title": "Clasificaciones de Texto Personalizadas",
+        "description": "Escribe cualquier texto que quieras clasificar. Desde películas hasta comida, opiniones hasta ideas - organiza cualquier cosa con Text Tier List Maker.",
+        "icon": "RiKey2Fill"
+      },
+      {
+        "title": "Función de Guardado Automático",
+        "description": "Tu tier list de texto se guarda automáticamente en tu navegador. Cierra la pestaña y regresa más tarde - tu progreso se conserva.",
+        "icon": "RiDatabase2Line"
+      },
+      {
+        "title": "Opciones de Exportación Rápida",
+        "description": "Descarga tus tier lists de texto como imágenes de alta calidad. Nuestro Text Tier List Maker proporciona funcionalidad de exportación instantánea.",
+        "icon": "RiCloudy2Fill"
+      },
+      {
+        "title": "Diseño Amigable para Móviles",
+        "description": "Usa nuestro Text Tier List Maker en cualquier dispositivo. Crea y edita tier lists de texto en escritorio, tableta o móvil sin problemas.",
+        "icon": "RiBarChart2Line"
+      },
+      {
+        "title": "No Se Requiere Registro",
+        "description": "Comienza a usar nuestro Text Tier List Maker inmediatamente. No se necesita cuenta - solo abre y crea tu tier list de texto.",
+        "icon": "RiRobot2Line"
+      }
+    ]
   },
   "stats": {
     "name": "stats",
     "label": "Estadísticas",
     "title": "La Gente Ama Nuestro Text Tier List Maker",
     "description": "para crear tier lists basadas en texto sin esfuerzo.",
-    "item1": {
-      "title": "Confiado por",
-      "label": "5K+",
-      "description": "Usuarios"
-    },
-    "item2": {
-      "title": "Creado",
-      "label": "20K+",
-      "description": "Tier Lists de Texto"
-    },
-    "item3": {
-      "title": "Crear Tier List en",
-      "label": "15",
-      "description": "Segundos"
-    }
+    "icon": "FaRegHeart",
+    "items": [
+      {
+        "title": "Confiado por",
+        "label": "5K+",
+        "description": "Usuarios"
+      },
+      {
+        "title": "Creado",
+        "label": "20K+",
+        "description": "Tier Lists de Texto"
+      },
+      {
+        "title": "Crear Tier List en",
+        "label": "15",
+        "description": "Segundos"
+      }
+    ]
   },
   "testimonial": {
     "name": "testimonial",
     "label": "Testimonios",
     "title": "Lo Que Los Usuarios Dicen Sobre Text Tier List Maker",
     "description": "Escucha de usuarios que aman crear tier lists de texto con nuestra herramienta.",
-    "item1": {
-      "title": "Jordan Smith",
-      "label": "Creador de Contenido",
-      "description": "¡Este Text Tier List Maker es perfecto para clasificaciones rápidas de opiniones! No necesito buscar imágenes - solo escribo y organizo. ¡Súper rápido y conveniente!"
-    },
-    "item2": {
-      "title": "Emily Chen",
-      "label": "Profesora",
-      "description": "Uso Text Tier List Maker para actividades en clase. A los estudiantes les encanta clasificar vocabulario, eventos históricos y más. ¡No necesitar imágenes lo hace tan simple!"
-    },
-    "item3": {
-      "title": "Marcus Johnson",
-      "label": "Presentador de Podcast",
-      "description": "Creamos tier lists en vivo durante nuestro podcast usando esta herramienta. ¡Poder simplemente escribir texto lo hace mucho más rápido que buscar imágenes!"
-    },
-    "item4": {
-      "title": "Sofia Martinez",
-      "label": "Gerente de Comunidad",
-      "description": "Text Tier List Maker es perfecto para discusiones comunitarias. Clasificamos temas, opiniones e ideas sin preocuparnos por encontrar imágenes."
-    },
-    "item5": {
-      "title": "Alex Thompson",
-      "label": "Estudiante",
-      "description": "¡Uso esto para notas de estudio y organizar conceptos! Text Tier List Maker me ayuda a priorizar temas y recordar información clave visualmente."
-    },
-    "item6": {
-      "title": "Rachel Kim",
-      "label": "Bloguera",
-      "description": "¡Me encanta lo simple que es esto! Text Tier List Maker me permite crear publicaciones de clasificación en minutos. A mis lectores les encanta ver mis opiniones organizadas de esta manera."
-    }
+    "icon": "GoThumbsup",
+    "items": [
+      {
+        "title": "Jordan Smith",
+        "label": "Creador de Contenido",
+        "description": "¡Este Text Tier List Maker es perfecto para clasificaciones de opinión rápidas! No necesito encontrar imágenes - solo escribo y organizo. ¡Súper rápido y conveniente!",
+        "image": {
+          "src": "/imgs/users/1.png"
+        }
+      },
+      {
+        "title": "Emily Chen",
+        "label": "Maestra",
+        "description": "Uso Text Tier List Maker para actividades en el aula. Los estudiantes aman clasificar vocabulario, eventos históricos y más. ¡No necesitar imágenes lo hace tan simple!",
+        "image": {
+          "src": "/imgs/users/2.png"
+        }
+      },
+      {
+        "title": "Marcus Johnson",
+        "label": "Presentador de Podcast",
+        "description": "Creamos tier lists en vivo durante nuestro podcast usando esta herramienta. ¡Poder simplemente escribir texto lo hace mucho más rápido que encontrar imágenes!",
+        "image": {
+          "src": "/imgs/users/3.png"
+        }
+      },
+      {
+        "title": "Sofia Martinez",
+        "label": "Gerente de Comunidad",
+        "description": "Text Tier List Maker es perfecto para discusiones comunitarias. Clasificamos temas, opiniones e ideas sin preocuparnos por encontrar imágenes.",
+        "image": {
+          "src": "/imgs/users/4.png"
+        }
+      },
+      {
+        "title": "Alex Thompson",
+        "label": "Estudiante",
+        "description": "¡Uso esto para notas de estudio y organizar conceptos! Text Tier List Maker me ayuda a priorizar temas y recordar información clave visualmente.",
+        "image": {
+          "src": "/imgs/users/5.png"
+        }
+      },
+      {
+        "title": "Rachel Kim",
+        "label": "Bloguera",
+        "description": "¡Me encanta lo simple que es esto! Text Tier List Maker me permite crear publicaciones de clasificación en minutos. Mis lectores aman ver mis opiniones organizadas de esta manera.",
+        "image": {
+          "src": "/imgs/users/6.png"
+        }
+      }
+    ]
   },
   "faq": {
     "name": "faq",
     "label": "FAQ",
     "title": "Preguntas Frecuentes Sobre Text Tier List Maker",
     "description": "¿Tienes otra pregunta? Contáctanos en Discord o por correo electrónico.",
-    "item1": {
-      "title": "¿Qué es un Text Tier List Maker?",
-      "description": "Un Text Tier List Maker es una herramienta gratuita en línea que te permite crear tier lists usando entradas de texto en lugar de imágenes. Simplemente escribe texto, presiona Enter y organiza tus entradas en niveles (S, A, B, C, D)."
-    },
-    "item2": {
-      "title": "¿Este Text Tier List Maker es realmente gratuito?",
-      "description": "¡Sí! Nuestro Text Tier List Maker es 100% gratuito de usar. Puedes crear tier lists basadas en texto ilimitadas, organizarlas y descargar tus clasificaciones sin ningún costo o suscripción."
-    },
-    "item3": {
-      "title": "¿Necesito imágenes para usar Text Tier List Maker?",
-      "description": "¡No! Esa es la belleza de Text Tier List Maker - no necesitas imágenes. Solo escribe tus entradas de texto y crea tier lists al instante. Perfecto para opiniones, ideas o cualquier cosa sin imágenes."
-    },
-    "item4": {
-      "title": "¿Cómo creo una tier list de texto?",
-      "description": "Usar nuestro Text Tier List Maker es simple: 1) Escribe tu texto en el campo de entrada, 2) Presiona Enter o haz clic en 'Agregar Texto', 3) Arrastra y suelta elementos de texto en niveles, 4) Haz clic en 'Guardar Imagen' para descargar."
-    },
-    "item5": {
-      "title": "¿Puedo guardar el progreso de mi tier list de texto?",
-      "description": "¡Sí! Nuestro Text Tier List Maker guarda automáticamente tu progreso en el almacenamiento local de tu navegador. Puedes cerrar la página y regresar más tarde para continuar trabajando."
-    },
-    "item6": {
-      "title": "¿Cómo comparto mi tier list de texto?",
-      "description": "Después de crear tu tier list de texto, haz clic en 'Guardar Imagen' para descargarla como un PNG de alta calidad. Luego puedes compartir esta imagen en redes sociales, foros o donde quieras."
-    }
+    "items": [
+      {
+        "title": "¿Qué es un Text Tier List Maker?",
+        "description": "Un Text Tier List Maker es una herramienta gratuita en línea que te permite crear tier lists usando entradas de texto en lugar de imágenes. Simplemente escribe texto, presiona Enter y organiza tus entradas en niveles (S, A, B, C, D)."
+      },
+      {
+        "title": "¿Este Text Tier List Maker es realmente gratuito?",
+        "description": "¡Sí! Nuestro Text Tier List Maker es 100% gratuito de usar. Puedes crear tier lists basadas en texto ilimitadas, organizarlas y descargar tus clasificaciones sin ningún costo o suscripción."
+      },
+      {
+        "title": "¿Necesito imágenes para usar Text Tier List Maker?",
+        "description": "¡No! Esa es la belleza de Text Tier List Maker - no necesitas imágenes. Solo escribe tus entradas de texto y crea tier lists al instante. Perfecto para opiniones, ideas o cualquier cosa sin imágenes."
+      },
+      {
+        "title": "¿Cómo creo una tier list de texto?",
+        "description": "Usar nuestro Text Tier List Maker es simple: 1) Escribe tu texto en el campo de entrada, 2) Presiona Enter o haz clic en 'Agregar Texto', 3) Arrastra y suelta elementos de texto en los niveles, 4) Haz clic en 'Guardar Imagen' para descargar."
+      },
+      {
+        "title": "¿Puedo guardar el progreso de mi tier list de texto?",
+        "description": "¡Sí! Nuestro Text Tier List Maker guarda automáticamente tu progreso en el almacenamiento local de tu navegador. Puedes cerrar la página y regresar más tarde para continuar trabajando."
+      },
+      {
+        "title": "¿Cómo comparto mi tier list de texto?",
+        "description": "Después de crear tu tier list de texto, haz clic en 'Guardar Imagen' para descargarla como un PNG de alta calidad. Luego puedes compartir esta imagen en redes sociales, foros o donde quieras."
+      }
+    ]
   },
   "cta": {
     "name": "cta",
@@ -197,4 +254,3 @@
     ]
   }
 }
-

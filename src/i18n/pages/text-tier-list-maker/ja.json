@@ -16,173 +16,230 @@
     "title": "テキストTierリストメーカーとは",
     "label": "紹介",
     "description": "Text Tier List Makerは、画像の代わりにテキスト入力を使用してTierリストを作成するのに役立つ専門的な無料オンラインツールです。クイックランキング、意見、アイデアの整理に最適で、画像は不要です。",
-    "item1": {
-      "title": "シンプルなテキスト入力",
-      "description": "テキストを入力してEnterを押すだけでTierリストを作成できます。画像のアップロードや検索は不要 - ランク付けしたいものを入力するだけです。"
-    },
-    "item2": {
-      "title": "ドラッグ＆ドロップインターフェース",
-      "description": "当社のText Tier List Makerは、テキストエントリの整理を簡単で楽しくする直感的なドラッグ＆ドロップインターフェースを備えています。"
-    },
-    "item3": {
-      "title": "エクスポートと共有",
-      "description": "テキストTierリストを画像としてダウンロードし、友達、ソーシャルメディア、またはコミュニティで共有できます。"
-    }
+    "items": [
+      {
+        "title": "シンプルなテキスト入力",
+        "description": "テキストを入力してEnterを押すだけでTierリストを作成できます。画像のアップロードや検索は不要 - ランク付けしたいものを入力するだけです。",
+        "icon": "RiNextjsFill"
+      },
+      {
+        "title": "ドラッグ＆ドロップインターフェース",
+        "description": "当社のText Tier List Makerは、テキストエントリの整理を簡単で楽しくする直感的なドラッグ＆ドロップインターフェースを備えています。",
+        "icon": "RiDatabase2Line"
+      },
+      {
+        "title": "エクスポートと共有",
+        "description": "テキストTierリストを画像としてダウンロードし、友達、ソーシャルメディア、またはコミュニティで共有できます。",
+        "icon": "RiCloudyFill"
+      }
+    ]
   },
   "benefit": {
     "name": "benefit",
-    "title": "テキストTierリストメーカーを選ぶ理由",
+    "title": "当社のテキストTierリストメーカーを選ぶ理由",
     "label": "メリット",
     "description": "ユーザーがクイックでシンプルなランキングを作成するために当社のText Tier List Makerを愛用する理由をご覧ください。",
-    "item1": {
-      "title": "完全無料のテキストTierリストメーカー",
-      "description": "当社のText Tier List Makerを無料でご利用ください。無制限のテキストベースTierリストを作成し、ランキングをダウンロード - すべて完全無料です。"
-    },
-    "item2": {
-      "title": "画像不要",
-      "description": "従来のTierリストメーカーとは異なり、当社のText Tier List Makerは画像を必要としません。テキストエントリを入力するだけで、プロフェッショナルなTierリストを即座に作成できます。"
-    },
-    "item3": {
-      "title": "高速で使いやすい",
-      "description": "最もシンプルなTierリストメーカー。入力、Enterキーを押す、ドラッグして整理、ダウンロード。Text Tier List Makerで数秒でTierリストを作成できます。"
-    }
+    "items": [
+      {
+        "title": "完全無料のテキストTierリストメーカー",
+        "description": "Text Tier List Makerを無料で使用できます。無制限のテキストベースのTierリストを作成し、ランキングをダウンロード - すべて完全無料です。",
+        "icon": "RiNextjsFill",
+        "image": {
+          "src": "/imgs/features/marvel_tier_list.webp"
+        }
+      },
+      {
+        "title": "画像不要",
+        "description": "従来のTierリストメーカーとは異なり、当社のText Tier List Makerは画像を必要としません。テキストエントリを入力するだけで、プロフェッショナルな見た目のTierリストを即座に作成できます。",
+        "icon": "RiClapperboardAiLine",
+        "image": {
+          "src": "/imgs/features/nba_tier_list.webp"
+        }
+      },
+      {
+        "title": "高速で使いやすい",
+        "description": "利用可能な最もシンプルなTierリストメーカー。入力、Enterキーを押す、ドラッグして整理、ダウンロード。Text Tier List Makerで数秒でTierリストを作成できます。",
+        "icon": "RiCodeFill",
+        "image": {
+          "src": "/imgs/features/video-girl-tier-list.webp"
+        }
+      }
+    ]
   },
   "usage": {
     "name": "usage",
     "title": "テキストTierリストの作成方法",
-    "description": "当社のText Tier List Makerでテキストベースのtier listを作成するのは非常に簡単です。次の簡単な手順に従ってください：",
-    "step1": {
-      "title": "ステップ1：テキストを入力",
-      "description": "入力フィールドにテキストを入力し（最大50文字）、Enterを押すか「テキストを追加」をクリックします。エントリは自動的にDティアに追加されます。"
-    },
-    "step2": {
-      "title": "ステップ2：ティアごとに整理",
-      "description": "デスクトップ：テキストアイテムをティア間でドラッグ＆ドロップ（S、A、B、C、D）。モバイル：アイテムをタップしてクイックメニューを開き、ターゲットティアを選択します。"
-    },
-    "step3": {
-      "title": "ステップ3：リストを編集",
-      "description": "アイテムにマウスを合わせると削除ボタン（Xアイコン）が表示され、不要なエントリを削除できます。必要に応じてテキストアイテムを追加したり、再編成したりできます。"
-    },
-    "step4": {
-      "title": "ステップ4：保存と共有",
-      "description": "「画像を保存」をクリックして、テキストTierリストを高品質のPNG画像としてダウンロードします。すぐにどこでもランキングを共有できます！"
-    }
+    "description": "当社のText Tier List Makerを使用すれば、テキストTierリストの作成は驚くほど簡単です。次の簡単な手順に従ってください：",
+    "image_position": "left",
+    "text_align": "center",
+    "items": [
+      {
+        "title": "ステップ1：テキストを入力",
+        "description": "入力フィールドにテキスト（最大50文字）を入力し、Enterキーを押すか「テキストを追加」をクリックします。エントリは自動的にDティアに追加されます。"
+      },
+      {
+        "title": "ステップ2：ティアごとに整理",
+        "description": "デスクトップ：テキストアイテムをティア（S、A、B、C、D）間でドラッグ＆ドロップします。モバイル：アイテムをタップしてクイックメニューを開き、ターゲットティアを選択します。"
+      },
+      {
+        "title": "ステップ3：リストを編集",
+        "description": "アイテムにカーソルを合わせると削除ボタン（Xアイコン）が表示され、不要なエントリを削除できます。必要に応じてテキストアイテムを追加したり、再配置したりできます。"
+      },
+      {
+        "title": "ステップ4：保存して共有",
+        "description": "「画像を保存」をクリックして、テキストTierリストを高品質のPNG画像としてダウンロードします。どこでもランキングを即座に共有できます！"
+      }
+    ]
   },
   "feature": {
     "name": "feature",
     "title": "テキストTierリストメーカーの主な機能",
-    "description": "完璧なテキストベースTierリストを毎回作成するために必要なすべて。",
-    "item1": {
-      "title": "100%無料のテキストTierリストツール",
-      "description": "無制限のテキストTierリストを無料で作成できます。当社のText Tier List Makerは、隠れた料金やプレミアム機能なしで完全無料です。"
-    },
-    "item2": {
-      "title": "カスタムテキストランキング",
-      "description": "ランク付けしたい任意のテキストを入力できます。映画から食べ物、意見からアイデアまで - Text Tier List Makerで何でも整理できます。"
-    },
-    "item3": {
-      "title": "自動保存機能",
-      "description": "テキストTierリストはブラウザに自動的に保存されます。タブを閉じて後で戻る - 進行状況は保持されます。"
-    },
-    "item4": {
-      "title": "クイックエクスポートオプション",
-      "description": "テキストTierリストを高品質の画像としてダウンロードできます。当社のText Tier List Makerは即座のエクスポート機能を提供します。"
-    },
-    "item5": {
-      "title": "モバイルフレンドリーなデザイン",
-      "description": "任意のデバイスで当社のText Tier List Makerを使用できます。デスクトップ、タブレット、またはモバイルでテキストTierリストをシームレスに作成および編集できます。"
-    },
-    "item6": {
-      "title": "登録不要",
-      "description": "すぐに当社のText Tier List Makerの使用を開始できます。アカウント不要 - 開いてテキストTierリストを作成するだけです。"
-    }
+    "description": "毎回完璧なテキストベースのTierリストを作成するために必要なすべて。",
+    "items": [
+      {
+        "title": "100%無料のテキストTierリストツール",
+        "description": "無制限のテキストTierリストを無料で作成できます。当社のText Tier List Makerは、隠れた料金やプレミアム機能なしで完全に無料です。",
+        "icon": "RiNextjsFill"
+      },
+      {
+        "title": "カスタムテキストランキング",
+        "description": "ランク付けしたいテキストを入力できます。映画から食べ物、意見からアイデアまで - Text Tier List Makerで何でも整理できます。",
+        "icon": "RiKey2Fill"
+      },
+      {
+        "title": "自動保存機能",
+        "description": "テキストTierリストはブラウザに自動的に保存されます。タブを閉じて後で戻る - 進行状況は保持されます。",
+        "icon": "RiDatabase2Line"
+      },
+      {
+        "title": "クイックエクスポートオプション",
+        "description": "テキストTierリストを高品質の画像としてダウンロードできます。当社のText Tier List Makerは即座にエクスポート機能を提供します。",
+        "icon": "RiCloudy2Fill"
+      },
+      {
+        "title": "モバイルフレンドリーデザイン",
+        "description": "任意のデバイスで当社のText Tier List Makerを使用できます。デスクトップ、タブレット、またはモバイルでテキストTierリストをシームレスに作成および編集できます。",
+        "icon": "RiBarChart2Line"
+      },
+      {
+        "title": "登録不要",
+        "description": "すぐに当社のText Tier List Makerの使用を開始できます。アカウント不要 - 開くだけでテキストTierリストを作成できます。",
+        "icon": "RiRobot2Line"
+      }
+    ]
   },
   "stats": {
     "name": "stats",
     "label": "統計",
-    "title": "人々は当社のテキストTierリストメーカーを愛用しています",
+    "title": "ユーザーは当社のテキストTierリストメーカーを愛用しています",
     "description": "テキストベースのTierリストを簡単に作成するために。",
-    "item1": {
-      "title": "信頼されている",
-      "label": "5K+",
-      "description": "ユーザー"
-    },
-    "item2": {
-      "title": "作成された",
-      "label": "20K+",
-      "description": "テキストTierリスト"
-    },
-    "item3": {
-      "title": "Tierリストの作成時間",
-      "label": "15",
-      "description": "秒"
-    }
+    "icon": "FaRegHeart",
+    "items": [
+      {
+        "title": "信頼されている",
+        "label": "5K+",
+        "description": "ユーザー"
+      },
+      {
+        "title": "作成された",
+        "label": "20K+",
+        "description": "テキストTierリスト"
+      },
+      {
+        "title": "Tierリストを作成",
+        "label": "15",
+        "description": "秒"
+      }
+    ]
   },
   "testimonial": {
     "name": "testimonial",
     "label": "お客様の声",
-    "title": "テキストTierリストメーカーに関するユーザーの声",
-    "description": "当社のツールでテキストTierリストを作成することを愛するユーザーからの声をお聞きください。",
-    "item1": {
-      "title": "Jordan Smith",
-      "label": "コンテンツクリエイター",
-      "description": "このText Tier List Makerは、クイック意見ランキングに最適です！画像を探す必要がありません - 入力して整理するだけ。超高速で便利！"
-    },
-    "item2": {
-      "title": "Emily Chen",
-      "label": "教師",
-      "description": "教室活動にText Tier List Makerを使用しています。学生は語彙、歴史的出来事などをランク付けするのが大好きです。画像が不要なのでとてもシンプルです！"
-    },
-    "item3": {
-      "title": "Marcus Johnson",
-      "label": "ポッドキャストホスト",
-      "description": "このツールを使用してポッドキャストでライブTierリストを作成しています。テキストを入力するだけで、画像を探すよりもはるかに高速です！"
-    },
-    "item4": {
-      "title": "Sofia Martinez",
-      "label": "コミュニティマネージャー",
-      "description": "Text Tier List Makerはコミュニティディスカッションに最適です。画像を見つける心配なく、トピック、意見、アイデアをランク付けできます。"
-    },
-    "item5": {
-      "title": "Alex Thompson",
-      "label": "学生",
-      "description": "学習ノートや概念の整理にこれを使用しています！Text Tier List Makerは、トピックを優先順位付けし、重要な情報を視覚的に覚えるのに役立ちます。"
-    },
-    "item6": {
-      "title": "Rachel Kim",
-      "label": "ブロガー",
-      "description": "これのシンプルさが大好きです！Text Tier List Makerで数分でランキング投稿を作成できます。読者は私の意見がこのように整理されているのを見るのが大好きです。"
-    }
+    "title": "ユーザーがテキストTierリストメーカーについて語ること",
+    "description": "当社のツールでテキストTierリストを作成することを愛するユーザーの声を聞いてください。",
+    "icon": "GoThumbsup",
+    "items": [
+      {
+        "title": "Jordan Smith",
+        "label": "コンテンツクリエイター",
+        "description": "このText Tier List Makerは、クイック意見ランキングに最適です！画像を見つける必要はありません - 入力して整理するだけです。超高速で便利です！",
+        "image": {
+          "src": "/imgs/users/1.png"
+        }
+      },
+      {
+        "title": "Emily Chen",
+        "label": "教師",
+        "description": "教室活動にText Tier List Makerを使用しています。学生は語彙、歴史的イベントなどをランク付けすることが大好きです。画像が不要なのでとてもシンプルです！",
+        "image": {
+          "src": "/imgs/users/2.png"
+        }
+      },
+      {
+        "title": "Marcus Johnson",
+        "label": "ポッドキャストホスト",
+        "description": "このツールを使用してポッドキャスト中にライブでTierリストを作成しています。テキストを入力するだけで、画像を見つけるよりもはるかに高速です！",
+        "image": {
+          "src": "/imgs/users/3.png"
+        }
+      },
+      {
+        "title": "Sofia Martinez",
+        "label": "コミュニティマネージャー",
+        "description": "Text Tier List Makerはコミュニティディスカッションに最適です。画像を見つけることを心配せずに、トピック、意見、アイデアをランク付けします。",
+        "image": {
+          "src": "/imgs/users/4.png"
+        }
+      },
+      {
+        "title": "Alex Thompson",
+        "label": "学生",
+        "description": "これを学習ノートと概念の整理に使用しています！Text Tier List Makerは、トピックに優先順位を付け、重要な情報を視覚的に記憶するのに役立ちます。",
+        "image": {
+          "src": "/imgs/users/5.png"
+        }
+      },
+      {
+        "title": "Rachel Kim",
+        "label": "ブロガー",
+        "description": "これのシンプルさが大好きです！Text Tier List Makerを使用すると、数分でランキング投稿を作成できます。読者は私の意見がこのように整理されているのを見るのが大好きです。",
+        "image": {
+          "src": "/imgs/users/6.png"
+        }
+      }
+    ]
   },
   "faq": {
     "name": "faq",
-    "label": "よくある質問",
-    "title": "テキストTierリストメーカーに関するよくある質問",
-    "description": "他に質問がありますか？Discordまたはメールでお問い合わせください。",
-    "item1": {
-      "title": "テキストTierリストメーカーとは何ですか？",
-      "description": "Text Tier List Makerは、画像の代わりにテキスト入力を使用してTierリストを作成できる無料のオンラインツールです。テキストを入力してEnterを押し、エントリをティア（S、A、B、C、D）に整理するだけです。"
-    },
-    "item2": {
-      "title": "このテキストTierリストメーカーは本当に無料ですか？",
-      "description": "はい！当社のText Tier List Makerは100%無料で使用できます。無制限のテキストベースTierリストを作成し、整理し、ランキングをダウンロードできます - コストやサブスクリプションなしで。"
-    },
-    "item3": {
-      "title": "テキストTierリストメーカーを使用するには画像が必要ですか？",
-      "description": "いいえ！それがText Tier List Makerの美しさです - 画像は必要ありません。テキストエントリを入力するだけで、すぐにTierリストを作成できます。意見、アイデア、または画像なしのものに最適です。"
-    },
-    "item4": {
-      "title": "テキストTierリストはどのように作成しますか？",
-      "description": "当社のText Tier List Makerの使用は簡単です：1）入力フィールドにテキストを入力、2）Enterを押すか「テキストを追加」をクリック、3）テキストアイテムをティアにドラッグ＆ドロップ、4）「画像を保存」をクリックしてダウンロード。"
-    },
-    "item5": {
-      "title": "テキストTierリストの進行状況を保存できますか？",
-      "description": "はい！当社のText Tier List Makerは、ブラウザのローカルストレージに進行状況を自動的に保存します。ページを閉じて後で戻って作業を続けることができます。"
-    },
-    "item6": {
-      "title": "テキストTierリストを共有するにはどうすればよいですか？",
-      "description": "テキストTierリストを作成した後、「画像を保存」をクリックして高品質のPNGとしてダウンロードします。その後、この画像をソーシャルメディア、フォーラム、または好きな場所で共有できます。"
-    }
+    "label": "FAQ",
+    "title": "テキストTierリストメーカーについてよくある質問",
+    "description": "他に質問がありますか？DiscordまたはEメールでお問い合わせください。",
+    "items": [
+      {
+        "title": "テキストTierリストメーカーとは何ですか？",
+        "description": "Text Tier List Makerは、画像の代わりにテキストエントリを使用してTierリストを作成できる無料のオンラインツールです。テキストを入力し、Enterキーを押して、エントリをティア（S、A、B、C、D）に整理するだけです。"
+      },
+      {
+        "title": "このテキストTierリストメーカーは本当に無料ですか？",
+        "description": "はい！当社のText Tier List Makerは100%無料で使用できます。コストやサブスクリプションなしで、無制限のテキストベースのTierリストを作成し、整理し、ランキングをダウンロードできます。"
+      },
+      {
+        "title": "テキストTierリストメーカーを使用するには画像が必要ですか？",
+        "description": "いいえ！それがText Tier List Makerの美しさです - 画像は必要ありません。テキストエントリを入力するだけで、即座にTierリストを作成できます。意見、アイデア、または画像のない何でもに最適です。"
+      },
+      {
+        "title": "テキストTierリストを作成するにはどうすればよいですか？",
+        "description": "当社のText Tier List Makerの使用は簡単です：1）入力フィールドにテキストを入力、2）Enterキーを押すか「テキストを追加」をクリック、3）テキストアイテムをティアにドラッグ＆ドロップ、4）「画像を保存」をクリックしてダウンロード。"
+      },
+      {
+        "title": "テキストTierリストの進行状況を保存できますか？",
+        "description": "はい！当社のText Tier List Makerは、ブラウザのローカルストレージに進行状況を自動的に保存します。ページを閉じて後で戻って作業を続けることができます。"
+      },
+      {
+        "title": "テキストTierリストを共有するにはどうすればよいですか？",
+        "description": "テキストTierリストを作成した後、「画像を保存」をクリックして高品質のPNGとしてダウンロードします。その後、この画像をソーシャルメディア、フォーラム、または好きな場所で共有できます。"
+      }
+    ]
   },
   "cta": {
     "name": "cta",
@@ -197,4 +254,3 @@
     ]
   }
 }
-
