@@ -16,6 +16,9 @@
     "title": "テキストTierリストメーカーとは",
     "label": "紹介",
     "description": "Text Tier List Makerは、画像の代わりにテキスト入力を使用してTierリストを作成するのに役立つ専門的な無料オンラインツールです。クイックランキング、意見、アイデアの整理に最適で、画像は不要です。",
+    "image": {
+      "src": "/imgs/features/text_tier_list.png"
+    },
     "items": [
       {
         "title": "シンプルなテキスト入力",

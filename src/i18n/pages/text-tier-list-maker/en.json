@@ -16,6 +16,9 @@
     "title": "What is Text Tier List Maker",
     "label": "Introduce",
     "description": "Text Tier List Maker is a specialized free online tool that helps you create tier lists using text entries instead of images. Perfect for quick rankings, opinions, and organizing ideas without needing images.",
+    "image": {
+      "src": "/imgs/features/text_tier_list.png"
+    },
     "items": [
       {
         "title": "Simple Text Entry",

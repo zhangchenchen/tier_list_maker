@@ -16,6 +16,9 @@
     "title": "什么是文本Tier表制作工具",
     "label": "介绍",
     "description": "文本Tier表制作工具是一个专门的免费在线工具，帮助你使用文本条目而不是图片来创建Tier表。非常适合快速排名、表达观点和组织想法，无需图片。",
+    "image": {
+      "src": "/imgs/features/text_tier_list.png"
+    },
     "items": [
       {
         "title": "简单的文本输入",

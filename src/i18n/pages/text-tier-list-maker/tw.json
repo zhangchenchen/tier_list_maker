@@ -16,6 +16,9 @@
     "title": "什麼是文字Tier表製作工具",
     "label": "介紹",
     "description": "文字Tier表製作工具是一個專門的免費線上工具，幫助您使用文字條目而不是圖片創建Tier表。非常適合快速排名、意見和整理想法，無需圖片。",
+    "image": {
+      "src": "/imgs/features/text_tier_list.png"
+    },
     "items": [
       {
         "title": "簡單的文字輸入",

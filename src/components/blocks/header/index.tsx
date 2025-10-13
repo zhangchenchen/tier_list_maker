@@ -81,9 +81,9 @@ export default function Header({ header }: { header: HeaderType }) {
                           </NavigationMenuTrigger>
                           <NavigationMenuContent>
                             <ul className="w-80 p-3">
-                              <NavigationMenuLink>
-                                {item.children.map((iitem, ii) => (
-                                  <li key={ii}>
+                              {item.children.map((iitem, ii) => (
+                                <li key={ii}>
+                                  <NavigationMenuLink asChild>
                                     <Link
                                       className={cn(
                                         "flex select-none gap-4 rounded-md p-3 leading-none no-underline outline-hidden transition-colors hover:bg-accent hover:text-accent-foreground focus:bg-accent focus:text-accent-foreground"
@@ -106,9 +106,9 @@ export default function Header({ header }: { header: HeaderType }) {
                                         </p>
                                       </div>
                                     </Link>
-                                  </li>
-                                ))}
-                              </NavigationMenuLink>
+                                  </NavigationMenuLink>
+                                </li>
+                              ))}
                             </ul>
                           </NavigationMenuContent>
                         </NavigationMenuItem>
