@@ -2,7 +2,7 @@ FROM node:20-alpine AS base
 
 # Install dependencies only when needed
 FROM base AS deps
-RUN apk add --no-cache libc6-compat && yarn global add pnpm
+RUN apk add --no-cache libc6-compat && yarn global add pnpm@9
 
 WORKDIR /app
 
@@ -36,10 +36,10 @@ USER nextjs
 
 EXPOSE 3000
 
-ENV NODE_ENV production
+ENV NODE_ENV=production
 
-ENV PORT 3000
-ENV HOSTNAME "0.0.0.0"
+ENV PORT=3000
+ENV HOSTNAME="0.0.0.0"
 
 # server.js is created by next build from the standalone output
 CMD ["node", "server.js"]
